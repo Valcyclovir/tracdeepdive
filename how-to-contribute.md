@@ -35,7 +35,9 @@ Another way to edit your repository is by using [VS code](https://code.visualstu
 
 Your GitHub Repository is now on VS code and you can use it to edit tracdeepdive !
 
-The principle is the same as before. Once you're done editing a page, ctrl+s to save the edited file on your local computer, then **commit** it to your GitHub Repository, and finally, create a **Pull Request** to my main Repository for my review. Everything can be done within VS Code !
+The principle is the same as before. Once you're done editing a page, ctrl+s to **save** the edited file on your local computer, then **commit** it to your GitHub Repository, and finally, create a **Pull Request** to my main Repository for my review. Everything can be done within VS Code !
 
 Welcome to the #derpdive gang and thanks for contributing !
+
+If you have any problems following the steps above, please create an issue [here](https://github.com/Valcyclovir/tracdeepdive/issues).&#x20;
 
