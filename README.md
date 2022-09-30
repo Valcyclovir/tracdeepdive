@@ -16,7 +16,7 @@ coverY: 611.0956707642972
 OriginTrail - the world's first Decentralized Knowledge Graph
 {% endembed %}
 
-#### Let's hear a few words from OriginTrail's advisors and partners:
+#### Let's hear a few words from OriginTrail's advisors and partners
 
 ### Dr. Bob Metcalfe
 
