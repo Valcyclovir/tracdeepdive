@@ -1,6 +1,3 @@
-BOOOOOOOOOBS
-PENISSS
-
 ---
 description: >-
   Organizing the world’s assets: Making them discoverable, verifiable, and
@@ -13,7 +10,7 @@ coverY: 611.0956707642972
 
 #### **OriginTrail Deep Dive** is an all-in-one central hub linking to all pertinent sources and explaining OriginTrail and its utility token, **TRAC**, as well as the OriginTrail Parachain token, **OTP** to the general community - no coding or previous knowledge are required. &#x20;
 
-#### For starters, let's delve into this video
+#### For starters, let's delve into this video first
 
 {% embed url="https://www.youtube.com/watch?t=1s&v=AsCUigu39Hw" %}
 OriginTrail - the world's first Decentralized Knowledge Graph
