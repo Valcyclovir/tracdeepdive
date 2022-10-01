@@ -12,7 +12,11 @@ description: Blockchain implementations
 
 {% embed url="https://parachain.origintrail.io/" %}
 
-OriginTrail won the [**Polkadot Parachain auction slot #17**](https://parachains.info/details/origintrail) on May 2022, and has been working closely with the [Parity Technology team who joined the Trace Alliance](https://medium.com/origintrail/parity-technologies-joins-trace-alliances-working-group-on-decentralization-and-tokenomics-8eaad2843ca7).  The OriginTrail core development team was also selected for [the Substrate Builders program](https://www.substrate.io/builders-program/) by Parity technologies. The current roadmap of OriginTrail Parachain is available at the bottom of the page on the link above.&#x20;
+OriginTrail won the [**Polkadot Parachain auction slot #17**](https://parachains.info/details/origintrail) on May 2022, and has been working closely with the [Parity Technology team who joined the Trace Alliance](https://medium.com/origintrail/parity-technologies-joins-trace-alliances-working-group-on-decentralization-and-tokenomics-8eaad2843ca7).  The OriginTrail core development team was also selected for [the Substrate Builders program](https://www.substrate.io/builders-program/) by Parity technologies.&#x20;
+
+Below is the current roadmap of OriginTrail Parachain as of September 2022
+
+<figure><img src="../.gitbook/assets/photo1664639203.jpeg" alt=""><figcaption></figcaption></figure>
 
 Once the new OriginTrail protocol goes live, we expect most network activity to migrate over to the OriginTrail Parachain, a blockchain tailored to the DKG, which uses the layer-1 token OTP as a gas and incentivisation token.&#x20;
 

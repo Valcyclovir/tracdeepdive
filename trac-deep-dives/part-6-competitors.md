@@ -8,21 +8,33 @@ description: There are no competitors, only collaborators
 
 In this section, I will briefly touch upon every project that share a few similar aspects with OriginTrail. Despite what is shown on the illustration above, OriginTrail does not have any competitors. As one of the core values of neutrality dictates, the ODN is built with the adoption of co-creation principles and collaboration with all other ecosystems in mind. The Decentralized Knowledge Graph can be built on top of any projects, allowing each entity to break data silos and make use of global standards.&#x20;
 
-## Supply Chain Collaborators
+SM, a supply chain expert who worked with complex ERP systems for over a decade, wrote:
 
-Crypto media tends to mix Vechain, Te-Foods, WTC, Ambrosus, OriginTrail and Morpheus together calling them supply chain projects. That assumption is false. Understandably, very few investors or media outlets have extended knowledge of the backend system operations which are basically complex ERP systems that supply chains rely on (Oracle NetSuite, SAP, Microsoft Dynamics, and plethora of other systems), and which allow companies to do their day-to-day operations. In other words, most of these projects are not supply chain solutions as they only scrape the surface layer of the supply chain ecosystem. Most of these are traceability projects, promising to verify that consumers are getting products that producers say they are. In no way are the majority of these projects solving the main issues that have been plaguing the supply chain industry for a very long time, which is the lack of seamless and decentralized interoperability and interconnectivity of siloed legacy systems and storages, where all systems are communicating effortlessly, abiding by the strict rules of global standards without the need to create complex customizations each time you are dealing with a system you haven’t dealt with before.&#x20;
+> Crypto media tends to mix Vechain, Te-Foods, Walton Chain, Ambrosus, OriginTrail and Morpheus together calling them supply chain projects. That assumption is false. Understandably, very few investors or media outlets have extended knowledge of the backend system operations which are basically complex ERP systems that supply chains rely on (Oracle NetSuite, SAP, Microsoft Dynamics, and plethora of other systems), and which allow companies to do their day-to-day operations. In other words, most of these projects are not supply chain solutions as they only scrape the surface layer of the supply chain ecosystem. Most of these are traceability projects, promising to verify that consumers are getting products that producers say they are. In no way are the majority of these projects solving the main issues that have been plaguing the supply chain industry for a very long time, which is the lack of seamless and decentralized interoperability and interconnectivity of siloed legacy systems and storages, where all systems are communicating effortlessly, abiding by the strict rules of global standards without the need to create complex customizations each time you are dealing with a system you haven’t dealt with before.&#x20;
+>
+> Here is an example:
+>
+> If company A runs system X, company B system Y, and company C system Z, they don’t need to create 6 to 9 different customizations to whatever ERP system they are using in order to communicate with each other. With the OriginTrail protocol, each company uploads their data via the ODN (OriginTrail Decentralized Network) in order to share whatever needs to be shared, keeping their costs down and avoiding expensive expansions into other systems that their clients/vendors/suppliers may demand.
 
-Here is an example:
+## OriginTrail and Vechain
 
-If company A runs system X, company B system Y, and company C system Z, they don’t need to create 6 to 9 different customizations to whatever ERP system they are using in order to communicate with each other. With the OriginTrail protocol, each company uploads their data via the ODN (OriginTrail Decentralized Network) in order to share whatever needs to be shared, keeping their costs down and avoiding expensive expansions into other systems that their clients/vendors/suppliers may demand.
+Vechain is a Chinese-based company founded in 2015. It offers blockchain-as-a-Service to enterprises for products and information, through the VeChain Thor blockchain. Users can build smart contracts on the VeChain blockchain which in turn allows them end-to-end tracking of all their products. One of their tracing implementations relies on RFID chips attached to their products. The Vechain Blockchain is centralized - all provided services are stored and governed by one provider. This is a potential data privacy risk if the company ever gets audited by the Chinese government.
 
-## OriginTrail vs The Graph
+The consensus mechanism of VeChain is Proof of Authority, which means changes to the software are approved based on the consensus of the shareholders of the company. VET, Vechain's ERC-20 token, must be used by all users to get products and services from Vechain. VTHO, the gas token, is generated from VET based on supply and demand.&#x20;
+
+Some use cases include [carbon emission tracking to help China tackle its carbon emissions](https://saasindustry.com/news/vechain-creates-saas-products-for-chinas-digital-carbon-emissions-market), [Walmart China Blockchain Traceability Platform](https://cointelegraph.com/news/walmart-china-subsidiary-teams-up-with-vechain-to-trace-food-products) (this partnership has been going on since 2019, but has [barely seen any activity on the network](https://seevechain.com/burn-usd)), [LVMH startup project](https://lamaisondesstartups.lvmh.com/startup/vechain/) in the fashion industry, Petfood companies, Medical companies such as Bayer, Auto Industry, like B.M.W and Renault, Logistics providers such as DH. Despite the partnerships, Vechain's network activity has been extremely low, totalling less than 100$ of VTHO burnt a day. See below for live Vechain network activity.&#x20;
+
+{% embed url="https://seevechain.com/burn-usd" %}
+
+<table><thead><tr><th>Traits</th><th data-type="checkbox">OriginTrail</th><th data-type="checkbox">Vechain</th></tr></thead><tbody><tr><td>Whitepaper</td><td>true</td><td>true</td></tr><tr><td>Open source</td><td>true</td><td>false</td></tr><tr><td>Permissionless</td><td>true</td><td>false</td></tr><tr><td>Decentralized</td><td>true</td><td>false</td></tr><tr><td>Knowledge graph</td><td>true</td><td>false</td></tr><tr><td>Data stored on Blockchain</td><td>false</td><td>true</td></tr><tr><td>Run a node</td><td>true</td><td>false</td></tr><tr><td>Data using IoT</td><td>true</td><td>true</td></tr><tr><td>Multichain</td><td>true</td><td>false</td></tr><tr><td>Neutrality</td><td>true</td><td>false</td></tr><tr><td>Usability</td><td>true</td><td>true</td></tr><tr><td>Mainnet</td><td>true</td><td>true</td></tr><tr><td>Token</td><td>true</td><td>true</td></tr><tr><td>Distributed</td><td>true</td><td>true</td></tr><tr><td>Immutable</td><td>true</td><td>true</td></tr><tr><td>Standardization</td><td>true</td><td>false</td></tr><tr><td>Scalability</td><td>true</td><td>false</td></tr><tr><td>Interoperability</td><td>true</td><td>false</td></tr><tr><td>Own your data</td><td>true</td><td>false</td></tr><tr><td>Detected wallet</td><td>false</td><td>true</td></tr></tbody></table>
+
+## OriginTrail and The Graph
 
 <figure><img src="../.gitbook/assets/KnowledgeGraph.jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=bfyZM8fN7Bo" %}
 
-## OriginTrail vs Golden Protocol
+## OriginTrail and Golden Protocol
 
 [Golden](https://golden.xyz/) is building a decentralized canonical knowledge graph, which combines a blockchain solution with a knowledge graph, much like OriginTrail.&#x20;
 
