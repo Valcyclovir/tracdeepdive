@@ -8,6 +8,10 @@ description: Latest news about OriginTrail
 
 {% embed url="https://twitter.com/origin_trail" %}
 
+#### Below is the latest bi-yearly report **** [**H2 2021**](https://medium.com/origintrail/origintrail-bi-yearly-report-h2-2021-making-humanitys-most-important-assets-discoverable-af873702d807) **** by the team which includes every highlight prior to year 2022.
+
+<figure><img src="https://miro.medium.com/max/720/1*033upG1aiYW-2Fga6q-BzA.jpeg" alt=""><figcaption></figcaption></figure>
+
 #### The Official Announcement Channel on **Telegram** also shows the most recent updates&#x20;
 
 {% embed url="https://t.me/origintrail_info" %}

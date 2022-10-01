@@ -1,125 +1,34 @@
 ---
-description: >-
-  The purpose of OriginTrail and the TRAC token, supply chain global standards,
-  and a look at current blockchain integrations.
+description: The core of OriginTrail
 cover: https://origintrail.io/images/hero-image-background.svg
 coverY: 455.1951621770203
 ---
 
 # Part 1: Foundation
 
-## **An Introduction**
+The **OriginTrail Decentralized Network (ODN)** is a neutral, open-source protocol enabling secure  peer-to-peer data sharing between companies and supply chains. It utilizes decentralized nodes and an off-chain technology stack to interface with legacy systems as well as other blockchains (permissioned and permissionless). OriginTrail allows businesses to improve interoperability among different IT systems by removing data silos, ensures data integrity, immutability and traceability by fingerprinting a cryptographic data hash of the data to a blockchain and facilitate trusted data exchange. The most recent implementations allows the transformation of all these data into Web3 assets, bringing the physical world (art, fashion, healthcare, education, supply chains) to the digital world (blockchain, DeFi, Metaverse, NFTs) and making them more discoverable, verifiable and valuable.
 
-[OriginTrail](https://origintrail.io/) is **not a blockchain** – it is a **layer-2 agnostic protocol** that goes on top of blockchains and is utilizing blockchain for data immutability and decentralization. It is a multichain solution and can be integrated on top of any blockchain. Currently, OriginTrail’s protocol is operating on ETH, xDAI, MATIC, and soon DOT. OriginTrail is currently a contender for a **Polkadot parachain** auction slot, and has been working closely with the [Parity Technology team who also joined the Trace Alliance](https://medium.com/origintrail/parity-technologies-joins-trace-alliances-working-group-on-decentralization-and-tokenomics-8eaad2843ca7). In short, OT will be running on at least 4 chains – ETH, xDAI, MATIC and DOT. [DOT integrations](https://medium.com/origintrail/trace-labs-origintrail-core-developers-selected-for-paritys-substrate-builders-program-e00a9b65bee) have been worked on by TraceLabs (_the team behind OriginTrail_) and Parity Tech (_the team behind Polkadot_) for over a year. Once the parachain is secured, we expect most activity to migrate over as a new layer-1 token, **OTP** (OriginTrail Parachain), will incentivise the use of OriginTrail’s layer-2 Decentralized Knowledge Graph on the parachain.
+## **Core Values**
 
-OriginTrail as a token has existed since late 2017, with the ICO priced at 0.10$, but the team has been developping its technology for over 10 years. You can have a look at the 2017 whitepaper [here](https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf), as well has the revamped **2022 whitepaper** [**here**](https://parachain.origintrail.io/whitepaper). Despite not being required by any law to write reports, the team has decided to write bi-yearly reports showcasing all developments done. The most recent is **bi-yearly report** [**H2 2021**](https://medium.com/origintrail/origintrail-bi-yearly-report-h2-2021-making-humanitys-most-important-assets-discoverable-af873702d807) **** and that report covers most advancements made to date. To complement that report, I suggest reading the material on the Polkadot parachain [here](https://parachain.origintrail.io/).
+<figure><img src="../.gitbook/assets/msg-1470710976-393.jpg" alt=""><figcaption></figcaption></figure>
 
-With this out of the way, **what exactly was OriginTrail trying to solve initially back in 2017 ?** Many people tend to mix Vechain, Te-Foods, WTC, Ambrosus, OriginTrail and Morpheus together calling them “supply chain projects”. That assumption is false. Understandably, very few investors or media outlets have extended knowledge of the backend system operations which are basically complex ERP systems that supply chains rely on (Oracle NetSuite, SAP, Microsoft Dynamics, and plethora of other systems), and which allow companies to do their day-to-day operations. In other words, most of these projects are not supply chain solutions as they only scrape the surface layer of the supply chain ecosystem. Most of these are traceability projects, promising to verify that consumers are getting products that producers say they are. In no way are the majority of these projects solving the main issues that have been plaguing the supply chain industry for a very long time, which is the lack of seamless and decentralized interoperability and interconnectivity of siloed legacy systems and storages, where all systems are communicating effortlessly, abiding by the strict rules of global standards without the need to create complex customizations each time you are dealing with a system you haven’t dealt with before. Here is an example:
+The OriginTrail protocol has been built from the ground up with 3 core pillars:&#x20;
 
-_If company A runs system X, company B system Y, and company C system Z, they don’t need to create 6 to 9 different customizations to whatever ERP system they are using in order to communicate with each other. With OT solution, each company uploads their data via the ODN (OriginTrail Decentralized Network) in order to share whatever needs to be shared, keeping their costs down and avoiding expensive expansions into other systems that their clients/vendors/suppliers may demand._
+**Usability** — the technologies underpinning Web3 are fundamental, protocol level technologies. In order to ensure smooth onboarding of users, enterprises and developers, there needs to be a great focus on usability and user experience. OriginTrail today is being used within global enterprises and government bodies
 
-So **why did OriginTrail release a second whitepaper in 2022 ?** In recent developments, OriginTrail has shifted its focus from being a supply chain solution to a **Decentralized Knowledge Graph**, **organizing**, **discovering** and **verifying** both **physical and digital assets** such as supply chain items, Art, Diplomas, Certificates, NFTs, DeFi and more. The Decentralized Knowledge Graph allows the world’s data assets to be structured, linked, persistent and understandable. More on that on part 3.
+**Inclusiveness** — Continuing to form partnerships with technological and business global leaders that can employ the OriginTrail ecosystem for their communities. Catering to the needs of leading global communities requires us to be making strides in designing technical infrastructure and business models that support the adoption of the OriginTrail in diverse business communities.
 
-## **Solving Supply Chain Issues**
+### **1. Neutrality**
 
-<figure><img src="https://origintrailexplained.info/wp-content/uploads/2020/06/network-768x861.png" alt=""><figcaption></figcaption></figure>
+OriginTrail's first core value ensures the inclusiveness of all parties, adoption of co-creation principles and collaboration with all other ecosystems. In order to maintain compatibility of all data from multiple parties, including both legacy IT systems and new digital systems such as blockchains, OriginTrail must adhere to the highest globally recognized standards such as GS1 and W3C, and remain open-source and decentralized. This prevents vendor lock-ins, ensures integrity and in return breaks data silos. The principle of neutrality is applied on all levels, including interoperability between any blockchains, integration with any legacy systems by applying open standards and allowing any users to review the open-source code.&#x20;
 
-[**If you look up “John G. Keogh” on Twitter,**](https://twitter.com/JGKeogh) one of the advisors to OriginTrail and board members of Trace Alliance, you can find tons of information about how important OriginTrail’s solutions are for solving supply chain issues. John is basically travelling the world and advising government bodies on supply chains, especially in his home country, Canada, about why global standards are a MUST in order to create solutions like these.
+### **2. Usability**
 
-From John’s tweet on May 1st, 2021: “FoodOn, Top scholar & co-creator FoodOn to join Trace Alliance Data Interoperability & Semantic Web workgroup. More coming soon as the research team formulates their plan & solution providers, NGO’s & governments join. Just wow!” Extract from FoodOn article can found [here](https://www.nature.com/articles/s41538-018-0032-6.pdf):
+In order to onboard users, enterprises and developers to the OriginTrail protocol, the network underpinning Web3 protocol level technologies must be efficient and user friendly. Trace Labs, the company behind OriginTrail, has developed many interface solutions used within [global enterprises and government bodies](https://origintrail.io/case-studies). The team has also built [Project Magnify](https://projectmagnify.io/), a DKG client for any users to publish assets directly into the ecosystem without the need to run a node. Improved usability of the ODN will only drive positive network effects to grow the entire ecosystem.&#x20;
 
-“_The construction of high capacity data sharing networks to support increasing government and commercial data exchange has highlighted a key roadblock: the content of existing Internet-connected information remains siloed due to a multiplicity of local languages and data dictionaries. This lack of a digital lingua franca is obvious in the domain of human food as materials travel from their wild or farm origin, through processing and distribution chains, to consumers. Well-defined, hierarchical vocabulary, connected with logical relationships—in other words, an ontology—is urgently needed to help tackle data harmonization problems that span the domains of food security, safety, quality, production, distribution, and consumer health and convenience.”_
+### **3. Inclusiveness**
 
-This is what solving supply chain hurdles imply – not just ensuring product traceability. You must solve the traceability problem, but how do you make sure that this actually moves through the supply chain seamlessly? You can’t unless you solve what was explained above.
-
-## **Solving data connectivity for Web3**
-
-<figure><img src="https://origintrailexplained.info/wp-content/uploads/2021/02/knowledgeeconomy-1024x576.jpeg" alt=""><figcaption></figcaption></figure>
-
-Again, OriginTrail is not only a supply chain solution anymore. This has drastically changed when OriginTrail announced that they are building the [world’s first Decentralized Knowledge Graph (DKG)](https://medium.com/origintrail/origintrail-multichain-decentralized-knowledge-graph-is-now-live-mainnet-launch-on-xdai-claiming-9ce037305508). More details about a DKG can be found in part 3. Not only can OriginTrail help streamline supply chains through an open source protocol with the core values of **neutrality, inclusiveness** and **usability**, it can now allow valuable data to be exchanged in a permissionless, trusted and secure manner, while all parties retain sovereignty over ownership of their data. OriginTrail now allows for a scalable, trusted and secure way to share information between all network participants – it is the knowledge graph of all knowledge graphs (such as Google, Amazon, Facebook). The Decentralized Knowledge Graph is something completely new and that the world has never seen before. It is the portal for Web2 companies to join the Semantic Web. It is the backbone of data connectivity for Web3.
-
-_The third generation of the Internet, popularly referred to as the **Web3**, offers an exciting opportunity to expand the way users interact with assets. Both assets, those anchored in the real world (cars, building, rare items such as an expensive bottle of whiskey, educational or vocational credentials, etc.) and those digitally native (NFTs representing digital art, gaming avatars or fungible tokens used for trading) are poised to change the way we **manage, protect and increase the value** of our wealth. Things we own are now **converging towards becoming Web3-grade assets** – assets made **discoverable, verifiable** and **valuable** using the Internet technology comprising both a **semantic layer** – knowledge graphs and **trust layer** – blockchain._
-
-_Leveraging both the groundbreaking knowledge graph and blockchain technology, **OriginTrail is a neutral, inclusive ecosystem** striving to deliver **useful and foundational Internet technologies**. The **open source codebase** and **permissionless** nature of the established OriginTrail network layers drive transparency and laissez-faire type of a market incentives that underpin security, transparency and antifragility of the system. OriginTrail is thus becoming a core component of Web3 infrastructure, also ensuring **user asset sovereignty** as data representing assets can only be managed by asset owners. (_[_source_](https://parachain.origintrail.io/whitepaper?section=web3-grade-assets-and-network-effects)_)_\
-
-
-In a recent [**interview with Dr. Bob Metcalfe**](https://twitter.com/ZDNet/status/1522268420724695047?s=20\&t=C1APYeT2P1tN27s4bHAP7g), the Father of Ethernet, at the Knowledge Graph Conference 2022, he was asked to rate OriginTrail’s chances of success _“The weakness of it is that it’s too complicated to explain” to ordinary mortals, said Metcalfe of the technology. The OriginTrail technology appears a bit like middleware, which is a category that only tends to excite a handful of people. “Yes, and I’m one of them,” said Metcalfe._
-
-_Despite the complexity of the tech, “What they are doing is right in line with where things are going.” More importantly, he took on the advisor role because he’s learning from what the company is doing, educating himself on what new forms of value there will be._
-
-I absolutely recommend reading through the whole article linked above before continuing.
-
-## **Tokenomics**
-
-<figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-otp-and-trac@2x.png" alt=""><figcaption></figcaption></figure>
-
-### **TRAC token**
-
-OriginTrail token TRAC is a **non-inflationary** ERC-20 token. **500 Million tokens** have been minted and all are in circulation. [Coingecko](https://www.coingecko.com/en/coins/origintrail) shows the current circulating supply at 368Mn/500Mn. The remainder 132Mn tokens are tagged for the dev pool and future development and maintenance of the ODN protocol. You can take a look [here](https://medium.com/origintrail/origintrail-bi-yearly-report-h2-2021-making-humanitys-most-important-assets-discoverable-af873702d807?source=rss-fecf7416927e------2) for the team’s financials as of H2 2021.
-
-An additional 10+ Million tokens are currently locked up in nodes. The current exact number of locked up tokens can be seen on [OTHub](https://othub.origin-trail.network/).
-
-OriginTrail TRAC layer-2 token is the life and blood of the entire ecosystem. It is required to perform all operations on the DKG. It is an utility token that drives the entire network :
-
-* **Publishing and updating assets** – asset creators, such as enterprises, organizations, companies, even individuals must use TRAC to compensate OriginTrail node runners for holding their data for a period of time. This will be the main driving for TRAC’s tokenomics.
-* **Collateral on OriginTrail nodes** – node runners must lock up TRAC as a collateral for holding asset publishes. The more TRAC locked up in the node, the more likely the node is chosen as the asset holder.
-* **Delegating to nodes** – token holders who do not wish to maintain a node have the possibility to delegate their TRAC to node runners, and in return obtain a portion of the rewards.
-* **Keyword staking** – Assets owners (enterprises, organizations, companies or individuals) can lock up TRAC to have their assets prioritized in a search result for a particular keyword, similar to [Google AdSense](https://www.google.com/adsense/start/). This is akin to a decentralized form of marketing spending in Web3 fashion.
-* **Data marketplace** – TRAC as a fungible token under ERC-20 standards is transferable and usable in any way ERC-20 assets are. TRAC can therefore be used in smart contracts that allow TRAC to be used as a compensation token for selling or buying assets. Data creators can earn from ownership of valuable data assets
-
-<figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-web3-app@2x.jpg" alt=""><figcaption></figcaption></figure>
-
-### **OTP token**
-
-OTP has a total supply of **1 billion tokens**. Half of those tokens will be initially allocated (25% at genesis distribution, the rest over the course of the 2 year lease period), while the remaining will be minted through inflation in perpetuity for future use such as for parachain auctions every 2 years. The token had no presale and no pre-distribution. The token has a **5% inflation** rate per year. The distribution is as follows :
-
-* **Kick-starting incentivisation pools** (45% or 225M)
-  * Collator incentives pool (70M) – This pool is to reward selected collators and their delegators performing their network functionalities (producing blocks submitted to the Polkadot Relay chain validators)
-  * Future auctions pool (70M) – This pool ensures that enough OTP is available to reward future participants in auctions
-  * DKG incentives pool (70M) – This pool supports ALL types of activity by the OriginTrail community for supporting activities on the DKG, such as publishing/updating, staking, delegating, keyword staking, using TRAC data marketplaces and any other activities promoting the usage of the DKG
-  * Community treasury pool (15M) – This pool, alongside the OTP voting mechanism, will help promote a wide range of activities by the OriginTrail community
-* **Initial auction distribution** (25% or 125M)
-  * This pool is intended to reward parachain participants, providing up to 25 OTP per 1 DOT contributed, up to a total of 5M DOT. Any unspent OTP from the initial auction process will be added to the Future auctions pool.
-* **OriginTrail community distribution** (5% or 25M)
-  * TRAC token holders will receive 1 OTP per 25 TRAC held, up to 20M OTP.
-  * TRAC node runners will receive a total of 5M OTP.
-* **Treasury** (25% or 125M)
-  * This pool allows for future development of the OriginTrail Parachain, voting process for on-chain upgrades, incentivising key team members and advisors
-  *
-
-      <figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-layer-2-ot-dkg@2x.jpg" alt=""><figcaption></figcaption></figure>
-
-The OTP token is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas fees for transactions on the past version of the DKG before the parachain, OTP will be used to pay for gas on the OriginTrail Parachain, allowing to keep more value within the OriginTrail ecosystem. OTP is also a reward token that **incentivises growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (L-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (L-0). The DKG (L-2), powered solely by TRAC, is interoperable and therefore not exclusively linked to the parachain – it is still fully functional on Gnosis, Polygon and Ethereum. However, future network users will be favoring the OT parachain due to OTP which will not only serve as a reward token for collators for processing blocks back to Polkadot, but also for node runners and data publishers to incentive network activity on the parachain. Both use cases above synergize with the TRAC token.
-
-Below is a detailed description of the OTP utility token:
-
-* **Gas fees** for transactions and smart contracts (and graph contracts to come)
-  * Locking up OTP reduce gas fees on the network utilizing a subscription model
-* **Incentivising collators** to perform network functions
-  * Locking up OTP is required to signal the amount of stake they are willing to keep locked for a particular period of time in order to receive collator rewards.
-  * The higher the locked amount, the greater the chance a collator candidate gets placed in the group of rewarded collators
-* OTP holders can **delegate to collators** and earn part of the reward
-* OTP holders cau lock their OTP to **vote on update proposals** for OriginTrail Parachain network and community treasury proposals
-* OTP as a fungible token, just like TRAC, can be used in a **data marketplace** environment using smart contracts
-
-<figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/gif-tokenomics.gif" alt=""><figcaption></figcaption></figure>
-
-### **Example of an OriginTrail node’s tokenomics**
-
-Company X must provide TRAC in order to publish an asset on the ODN. By using [nOS](https://origintrail.io/case-studies/enterprise-data-interoperability), the company acquires TRAC in fiat value and will not be interacting with crypto at all. nOS will automatically acquire fiat-equivalent of TRAC (market buy) for them in order to allow for the publish of an asset on the ODN to be stored on nodes.
-
-A minimum of 3 nodes are required to hold an asset. [Here](https://tracelabs.io/standard/?standardId=S-2270572000000000030151812) is an example of what an asset looks like. 3 nodes are chosen to make sure the asset is always available for querying at all times. The length, data size and lambda value (currently a work in progress) will determine the cost to upload to the DKG. Currently, datasets that are being uploaded are mostly between 90 days to 5 years. You can see the live activity on the network [here](https://othub.origin-trail.network/dashboard).
-
-This is what happens when publishes are uploaded:
-
-1. Asset creator publishes a dataset with size (500kb) and duration (1 year).
-2. The cost of uploading is 6 TRAC.
-3. All active nodes on the network willing to hold 500kb of dataset for 1 year duration will attempt to bid, only 3 will win it.
-4. Once 3 nodes have “won” the auction, each node will stake 2 TRAC each, 6 in total, the equivalent of what the Data Creator offered. This publish alone will lock 12 TRAC in total for the duration of 1 year.
-
-OriginTrail nodes use a staking system and TRAC is providing real utility by acting as a collateral for real world assets. No new TRAC tokens are ever minted. Some of the assets published can be public, while others can remain private. You can query the public asset your node is holding to verify where it came from.
-
-<figure><img src="https://origintrailexplained.info/wp-content/uploads/2020/06/consensus-768x780.png" alt=""><figcaption></figcaption></figure>
+As the ecosystem grows, the team needs to continue forming partnerships with business global leaders and communities to cater to their needs. This will continue pushing the team to make new strides in designing technical infrastructures and business models that support the worldwide adoption of OriginTrail. This in turn will cycle back to the first core value of neutrality.
 
 ## **Standards**
 
