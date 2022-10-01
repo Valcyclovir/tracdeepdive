@@ -62,18 +62,3 @@ Below is a detailed description of the OTP utility token:
 * OTP as a fungible token, just like TRAC, can be used in a **data marketplace** environment using smart contracts
 
 <figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/gif-tokenomics.gif" alt=""><figcaption></figcaption></figure>
-
-### **Example of an OriginTrail node’s tokenomics**
-
-Company X must provide TRAC in order to publish an asset on the ODN. By using [nOS](https://origintrail.io/case-studies/enterprise-data-interoperability), the company acquires TRAC in fiat value and will not be interacting with crypto at all. nOS will automatically acquire fiat-equivalent of TRAC (market buy) for them in order to allow for the publish of an asset on the ODN to be stored on nodes.
-
-A minimum of 3 nodes are required to hold an asset. [Here](https://tracelabs.io/standard/?standardId=S-2270572000000000030151812) is an example of what an asset looks like. 3 nodes are chosen to make sure the asset is always available for querying at all times. The length, data size and lambda value (currently a work in progress) will determine the cost to upload to the DKG. Currently, datasets that are being uploaded are mostly between 90 days to 5 years. You can see the live activity on the network [here](https://othub.origin-trail.network/dashboard).
-
-This is what happens when publishes are uploaded:
-
-1. Asset creator publishes a dataset with size (500kb) and duration (1 year).
-2. The cost of uploading is 6 TRAC.
-3. All active nodes on the network willing to hold 500kb of dataset for 1 year duration will attempt to bid, only 3 will win it.
-4. Once 3 nodes have “won” the auction, each node will stake 2 TRAC each, 6 in total, the equivalent of what the Data Creator offered. This publish alone will lock 12 TRAC in total for the duration of 1 year.
-
-OriginTrail nodes use a staking system and TRAC is providing real utility by acting as a collateral for real world assets. No new TRAC tokens are ever minted. Some of the assets published can be public, while others can remain private. You can query the public asset your node is holding to verify where it came from.
