@@ -22,7 +22,7 @@ If company A runs system X, company B system Y, and company C system Z, they don
 
 {% embed url="https://www.youtube.com/watch?v=bfyZM8fN7Bo" %}
 
-## OriginTrail vs Golden
+## OriginTrail vs Golden Protocol
 
 [Golden](https://golden.xyz/) is building a decentralized canonical knowledge graph, which combines a blockchain solution with a knowledge graph, much like OriginTrail.&#x20;
 
