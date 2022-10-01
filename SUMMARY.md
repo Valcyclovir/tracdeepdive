@@ -12,7 +12,7 @@
   * [Part 3: Blockchain Layer](trac-deep-dives/part-3-blockchain-layer.md)
   * [Part 4: Tokenomics](trac-deep-dives/part-4-tokenomics.md)
   * [Part 5: Global Standards](trac-deep-dives/part-5-global-standards.md)
-  * [Part 6: Competitors](trac-deep-dives/part-6-competitors.md)
+  * [Part 6: Other Projects](trac-deep-dives/part-6-other-projects.md)
   * [Part 7: Advisors & Partners](trac-deep-dives/part-2-advisors-and-partners.md)
   * [Part 8: DKG & Web3](trac-deep-dives/part-3-dkg-and-web3.md)
   * [Part 9: Past Events](trac-deep-dives/part-4-past-events.md)

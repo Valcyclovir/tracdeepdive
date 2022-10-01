@@ -2,7 +2,7 @@
 description: There are no competitors, only collaborators
 ---
 
-# Part 6: Competitors
+# Part 6: Other Projects
 
 <figure><img src="../.gitbook/assets/OTvsothers.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@ SM, a supply chain expert who worked with complex ERP systems for over a decade,
 
 ## Blockchain & Supply Chain Solutions
 
-<table><thead><tr><th>Traits</th><th data-type="checkbox">OriginTrail</th><th data-type="checkbox">Vechain</th><th data-type="checkbox">Ambrosus</th></tr></thead><tbody><tr><td>Whitepaper</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Open source</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Permissionless</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Decentralized</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Knowledge graph</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Data stored on Blockchain</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Run a node</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Data using IoT</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Multichain</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Neutrality</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Usability</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Inclusiveness</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Mainnet</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Token</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Distributed</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Immutable</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Standardization</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Scalability</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Interoperability</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Own your data</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Detected wallet</td><td>false</td><td>true</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th>Traits</th><th data-type="checkbox">OriginTrail</th><th data-type="checkbox">Vechain</th><th data-type="checkbox">Ambrosus</th></tr></thead><tbody><tr><td>Whitepaper</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Open source</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Permissionless</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Decentralized</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Knowledge graph</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Data stored on Blockchain</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Run a node</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Data using IoT</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Multichain</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Neutrality</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Usability</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Inclusiveness</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Mainnet</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Token</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Distributed</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Immutable</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Standardization</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Scalability</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Interoperability</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Own your data</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Detected wallet</td><td>false</td><td>true</td><td>false</td></tr><tr><td>Inflationary</td><td>false</td><td>true</td><td>true</td></tr></tbody></table>
 
 ### OriginTrail and Vechain
 
@@ -60,4 +60,6 @@ Among the 3 core values of OriginTrail, Golden seems to only miss on the neutral
 
 Golden does not currently have a token for sale and have no ETA.&#x20;
 
-### ESG DAO
+### OriginTrail and ESG DAO
+
+ESG DAO revealed their project in August 2022, with the goal to build a radically transparent ESG system that serves the planet and people, not just companies. In other words, ESG DAO's objective is to restore public trust in businesses and the current system through a transparent OpenESG scoring system co-developped by scientists, NGO leaders, business leaders and government bodies, running as a DAO (Decentralized Autonomous Organization) for neutrality, transparency and inclusivess, and incentivizing engagement around ESG between businesses and consumers. Currently, ESG scores are underused and often times misreprensented and therefore, an OpenESG system could serve as a new global ESG standard, enabling public and private entities, Web3 projects, all industries and all regions to embed similar ESG metrics into their individual systems, permissionlessly.&#x20;
