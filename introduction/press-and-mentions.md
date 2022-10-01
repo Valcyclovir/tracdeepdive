@@ -45,3 +45,9 @@ _“When a problem such as contamination or mislabeling is discovered, the solut
 {% embed url="https://twitter.com/wef/status/1433882518122598418?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1433882518122598418|twgr^7739ab5221542d6eff1bcf5a1af4470eadf34de4|twcon^s1_&ref_url=https://tracdeepdive.info/" %}
 
 {% embed url="https://twitter.com/wef/status/1363854819547561989?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1363854819547561989|twgr^7739ab5221542d6eff1bcf5a1af4470eadf34de4|twcon^s1_&ref_url=https://tracdeepdive.info/" %}
+
+## [BSI - OriginTrail Develops Blockchain-enabled Solution](https://www.bsigroup.com/en-US/about-bsi/Media-Center/Press-Releases/2019/january/bsi-partners-with-origintrail-to-develop-blockchain-enabled-solutions/)
+
+<figure><img src="https://www.bsigroup.com/globalassets/localfiles/en-us/images/bsi-origintrail-partnership-signing-590.jpg" alt=""><figcaption><p>From left to right: Branimir Rakić, Co-founder, OriginTrail; BSI; Maja Voje, Chief Marketing Officer, OriginTrail; David Brown, Director of Corporate Development, BSI; Tomaž Levak, Co-founder, OriginTrail; Dan Purtell, Director Of Innovation, BSI; and Žiga Drev, Co-founder, OriginTrail.</p></figcaption></figure>
+
+BSI, the business standards company, has exclusively partnered with OriginTrail to deliver blockchain-enabled solutions that will enhance its global assessment, certification and supply chain services to confirm the provenance of goods and/or the integrity of digital records or services.

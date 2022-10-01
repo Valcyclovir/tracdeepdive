@@ -6,17 +6,13 @@ coverY: 455.1951621770203
 
 # Part 1: Foundation
 
-The **OriginTrail Decentralized Network (ODN)** is a neutral, open-source protocol enabling secure  peer-to-peer data sharing between companies and supply chains. It utilizes decentralized nodes and an off-chain technology stack to interface with legacy systems as well as other blockchains (permissioned and permissionless). OriginTrail allows businesses to improve interoperability among different IT systems by removing data silos, ensures data integrity, immutability and traceability by fingerprinting a cryptographic data hash of the data to a blockchain and facilitate trusted data exchange. The most recent implementations allows the transformation of all these data into Web3 assets, bringing the physical world (art, fashion, healthcare, education, supply chains) to the digital world (blockchain, DeFi, Metaverse, NFTs) and making them more discoverable, verifiable and valuable.
+The **OriginTrail Decentralized Network (ODN)** is a neutral, open-source protocol enabling secure  peer-to-peer data sharing between companies and supply chains. It utilizes decentralized nodes and an off-chain technology stack to interface with legacy systems as well as other blockchains (permissioned and permissionless). OriginTrail allows businesses to improve interoperability among different IT systems by removing data silos, ensuring data integrity, immutability and traceability by fingerprinting a cryptographic data hash of the data to a blockchain and facilitating trusted data exchange. The most recent implementations allows the transformation of all legacy data into Web3 assets, bringing the physical world (art, fashion, healthcare, education, supply chains,etc.) to the digital world (blockchain, DeFi, Metaverse, NFTs) and making them more discoverable, verifiable and valuable.
 
 ## **Core Values**
 
 <figure><img src="../.gitbook/assets/msg-1470710976-393.jpg" alt=""><figcaption></figcaption></figure>
 
 The OriginTrail protocol has been built from the ground up with 3 core pillars:&#x20;
-
-**Usability** — the technologies underpinning Web3 are fundamental, protocol level technologies. In order to ensure smooth onboarding of users, enterprises and developers, there needs to be a great focus on usability and user experience. OriginTrail today is being used within global enterprises and government bodies
-
-**Inclusiveness** — Continuing to form partnerships with technological and business global leaders that can employ the OriginTrail ecosystem for their communities. Catering to the needs of leading global communities requires us to be making strides in designing technical infrastructure and business models that support the adoption of the OriginTrail in diverse business communities.
 
 ### **1. Neutrality**
 
