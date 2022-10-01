@@ -18,7 +18,7 @@ Despite being an ICO in late 2017, the team has been developing its technology f
 
 [Coingecko](https://www.coingecko.com/en/coins/origintrail) shows the current circulating supply at 368Mn/500Mn. The remainder 132M tokens are tagged for the dev pool and future development and maintenance of the ODN protocol.&#x20;
 
-OriginTrail TRAC layer-2 token is the life and blood of the entire ecosystem. It is required to perform all operations on the DKG. It is an utility token that drives the entire network :
+OriginTrail TRAC layer-2 token is the life and blood of the entire ecosystem. It is required to perform all operations on the DKG. It is an utility token that drives the entire network:
 
 * **Publishing and updating assets** – asset creators, such as enterprises, organizations, companies, even individuals must use TRAC to compensate OriginTrail node runners for holding their data for a period of time. This will be the main driving for TRAC’s tokenomics.
 * **Collateral on OriginTrail nodes** – node runners must lock up TRAC as a collateral for holding asset publishes. The more TRAC locked up in the node, the more likely the node is chosen as the asset holder.
@@ -48,14 +48,14 @@ OTP has a total supply of **1 billion tokens**. Half of those tokens will be ini
 
       <figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-layer-2-ot-dkg@2x.jpg" alt=""><figcaption></figcaption></figure>
 
-The OTP token is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas fees for transactions on the past version of the DKG before the parachain, OTP will be used to pay for gas on the OriginTrail Parachain, allowing to keep more value within the OriginTrail ecosystem. OTP is also a reward token that **incentivises growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (L-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (L-0). The DKG (L-2), powered solely by TRAC, is interoperable and therefore not exclusively linked to the parachain – it is still fully functional on Gnosis, Polygon and Ethereum. However, future network users will be favoring the OT parachain due to OTP which will not only serve as a reward token for collators for processing blocks back to Polkadot, but also for node runners and data publishers to incentive network activity on the parachain. Both use cases above synergize with the TRAC token.
+The OTP layer-1 token is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas tokens for network transactions on the past versions of the DKG, OTP will be used to pay for gas on the OriginTrail Parachain, allowing to keep more value within the OriginTrail ecosystem. OTP is also a reward token that **incentivises growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (layer-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (layer-0). The DKG (layer-2), powered solely by TRAC, is interoperable and therefore not exclusively linked to the parachain – it is still fully functional on Gnosis, Polygon and Ethereum. However, future network users will be favoring the OT parachain due to OTP which will not only serve as a reward token for collators for processing blocks back to Polkadot, but also for node runners and data publishers to incentive network activity on the parachain. Both use cases above synergize with the TRAC token.
 
 Below is a detailed description of the OTP utility token:
 
-* **Gas fees** for transactions and smart contracts (and graph contracts to come)
-  * Locking up OTP reduce gas fees on the network utilizing a subscription model
+* **Gas fees** for transactions, smart contracts and graph contracts (released at a later date)
+  * The team has hinted on a subscription model that allows a publisher to lock up OTP in order to reduce gas fees on the network
 * **Incentivising collators** to perform network functions
-  * Locking up OTP is required to signal the amount of stake they are willing to keep locked for a particular period of time in order to receive collator rewards.
+  * Locking up OTP is required to signal the amount of stake they are willing to keep locked for a particular period of time in order to receive collator rewards
   * The higher the locked amount, the greater the chance a collator candidate gets placed in the group of rewarded collators
 * OTP holders can **delegate to collators** and earn part of the reward
 * OTP holders cau lock their OTP to **vote on update proposals** for OriginTrail Parachain network and community treasury proposals
