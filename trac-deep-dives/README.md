@@ -8,8 +8,8 @@ description: An in depth exploration of OriginTrail
 [part-1-foundation.md](part-1-foundation.md)
 {% endcontent-ref %}
 
-{% content-ref url="part-2-advisors-and-partners.md" %}
-[part-2-advisors-and-partners.md](part-2-advisors-and-partners.md)
+{% content-ref url="part-2-advisors-and-partners/" %}
+[part-2-advisors-and-partners](part-2-advisors-and-partners/)
 {% endcontent-ref %}
 
 {% content-ref url="part-3-dkg-and-web3.md" %}
