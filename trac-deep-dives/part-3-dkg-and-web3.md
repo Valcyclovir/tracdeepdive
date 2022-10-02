@@ -1,12 +1,9 @@
 ---
-description: >-
-  The World’s First Decentralized Knowledge Graph - Organizing the world’s
-  assets: Making them discoverable, verifiable, and valuable.
 cover: https://origintrail.io/images/hero-image-background.svg
 coverY: -173.36998350742164
 ---
 
-# 9. Decentralized Knowledge Graph
+# 9. Knowledge Graph
 
 <figure><img src="https://miro.medium.com/max/1100/0*fJCuPbRDcO-Rvsyn.png" alt=""><figcaption></figcaption></figure>
 
