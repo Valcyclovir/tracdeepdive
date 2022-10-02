@@ -4,7 +4,7 @@ cover: https://origintrail.io/images/hero-image-background.svg
 coverY: -463.1115997800989
 ---
 
-# Part 4: Past Events
+# Part 9: Past Events
 
 ### **World Economic Forum 2022 Annual Meeting**
 
@@ -41,16 +41,6 @@ OriginTrail’s **partners from BSi, OneAgrix, and SCAN/HomeDepot explain the im
 > [In the World Trade Organization (WTO)](https://youtu.be/8dbpQVdUQ-4?t=1691) there are data components that are uniformly exchanged between origin and destination with regard to transportation parameters. So, where we are trying to go first is to be able to potentially link the supply chain security details that the SCAN Association and partners are grabbing and then potentially marry those up with the transportation details that a regulatory agency wants with regard to maintaining the secure transition of goods from point A to point B.
 >
 > [The beauty of this technology](https://youtu.be/8dbpQVdUQ-4?t=2849) going forward is that the owners of the data own the permission for who can have access to it. So it’s a complete shift. That’s where I think the beauty of where we’re going with secure data exchanges is going to be going forward
-
-### **Diana Sabrain** – OneAgrix, CEO
-
-> [What OneAgrix does is](https://youtu.be/8dbpQVdUQ-4?t=817) we are the world’s largest halal and agricultural digital trade ecosystem. What we do is we have an end-to-end solution for cross-border trade and this would span from DNA traceability solutions all the way to matching solutions, payment, logistics. All in on one platform.
->
-> [What we’ve been doing with OriginTrail](https://youtu.be/8dbpQVdUQ-4?t=841) since 2019 was to create an e-commerce environment where we could verify data agriculture to cart. What we are doing is also consolidating agricultural and halal data onto one platform and it allows us to create more transparency. The transparent supply chain is also about sustainability and we take this really seriously.
->
-> [When we speak to procurement offices](https://youtu.be/8dbpQVdUQ-4?t=2337) from the halal sector, where 7-8% of procurement offices that purchase halal products are non-Muslims, they don’t know any better about halal certification data. Some of them would not be able to ascertain whether in terms of import laws, is the halal certification accredited So, you are now looking at a $2,5Tn industry being fragmented as one, but how is data traveling?… This is where we partnered with OriginTrail.
->
-> [OriginTrail technology is amazing](https://youtu.be/8dbpQVdUQ-4?t=2958). Part of the technology right now that OriginTrail is using together with Oneagrix is to empower the African continent. [We do have a project going on with the government of Nigeria](https://halalfocus.net/nigeria-to-leverage-on-public-private-partnership-with-oneagrix-for-better-agriculture-and-halal-market-access-under-afcfta/) ([AfCFTA](https://www.salaamgateway.com/story/what-is-the-african-continental-free-trade-area-and-why-does-it-matter-to-the-islamic-economy?utm\_source=Salaam+Gateway+Weekly+Newsletters\&utm\_campaign=2ef78aad3e-EMAIL\_CAMPAIGN\_2019\_11\_24\_06\_09\_COPY\_01\&utm\_medium=email\&utm\_term=0\_c1e2a0613b-2ef78aad3e-229598204)). It’s called Nigeria feeds the world initiative, which will use OriginTrail as a layer of data transparency on the OneAgrix platform. We can not only use that data to do cross-border trade but at the same time to empower people. We’re talking about lowering poverty rates, we’re talking about giving economic empowerment to the continent. And you know Africa truly can feed itself, it will feed the world. It’s not just all about profits for us, the transparent supply chain is also about sustainability and we take this really seriously. OriginTrail will change the world.
 
 ### **Dan Purtell**, BSi Director of Innovation
 
