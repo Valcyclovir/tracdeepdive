@@ -36,11 +36,3 @@ OriginTrail - the world's first Decentralized Knowledge Graph
 ## OriginTrail Ecosystem Map (August 2022)
 
 <figure><img src="https://pbs.twimg.com/media/FaxGUmKWQAE3fgF?format=jpg&#x26;name=4096x4096" alt=""><figcaption><p>OriginTrail Ecosystem Map</p></figcaption></figure>
-
-### Disclaimer
-
-> This website is maintained by [BRX](https://twitter.com/otnoderunner). I am currently a community admin and I receive no incentives to write this. This information hub is intended for educational purposes only, and does not constitute a financial advice.
->
-> I sincerely hope that you appreciate the effort put into making this website and making OriginTrail much easier to digest.
->
-> Anyone is welcome to contribute to this information hub. Please let me know if you are interested.

@@ -50,3 +50,4 @@
   * [BRX](additional-resources/brx.md)
   * [Shys70](additional-resources/shys70.md)
 * [How to Contribute](how-to-contribute.md)
+* [Disclaimer](disclaimer.md)
