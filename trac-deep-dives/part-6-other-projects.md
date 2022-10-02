@@ -42,6 +42,12 @@ As of August 2022, the Ambrosus team has gone through a substancial transformati
 
 <figure><img src="../.gitbook/assets/KnowledgeGraph.jpg" alt=""><figcaption></figcaption></figure>
 
+The Graph name just comes from GraphQL, which is query language for APIs, that allows you to define the structure of any data returned by a request. The Graph is also used for indexing blockchain data that is relevant to its user (subgraph) which is a very different use case as these dapps require fresh accurate data and instantly.&#x20;
+
+OriginTrail is a decentralized knowledge graph - decentralized nodes on a network where data can be persisted for a certain amount of time. The knowledge graph data model allows for complex relationships between entities to be easily represented and queried. **Things not Strings**.
+
+The video below is a more in depth comparison of the two projects.&#x20;
+
 {% embed url="https://www.youtube.com/watch?v=bfyZM8fN7Bo" %}
 
 ## Decentralized Knowledge Graphs
@@ -63,3 +69,5 @@ Golden does not currently have a token for sale and have no ETA.&#x20;
 ### OriginTrail and ESG DAO
 
 ESG DAO revealed their project in August 2022, with the goal to build a radically transparent ESG system that serves the planet and people, not just companies. In other words, ESG DAO's objective is to restore public trust in businesses and the current system through a transparent OpenESG scoring system co-developped by scientists, NGO leaders, business leaders and government bodies, running as a DAO (Decentralized Autonomous Organization) for neutrality, transparency and inclusivess, and incentivizing engagement around ESG between businesses and consumers. Currently, ESG scores are underused and often times misreprensented and therefore, an OpenESG system could serve as a new global ESG standard, enabling public and private entities, Web3 projects, all industries and all regions to embed similar ESG metrics into their individual systems, permissionlessly.&#x20;
+
+As of October 2022, there is no whitepaper nor token release, and very little detail is known about the technicalities of the openESG Decentralized Knowledge Graph.
