@@ -4,7 +4,7 @@ description: >-
   various improvements to the existing OriginTrail DKG
 ---
 
-# 11. OriginTrail V6
+# OriginTrail V6
 
 <figure><img src="https://origintrail.io/images/meta-images/v6-meta.png" alt=""><figcaption></figcaption></figure>
 

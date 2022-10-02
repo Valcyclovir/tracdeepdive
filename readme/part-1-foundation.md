@@ -4,7 +4,7 @@ cover: https://origintrail.io/images/hero-image-background.svg
 coverY: 455.1951621770203
 ---
 
-# Part 1: Foundation
+# Foundation
 
 The **OriginTrail Decentralized Network (ODN)** is a neutral, open-source protocol enabling secure  peer-to-peer data sharing between companies and supply chains. It utilizes decentralized nodes and an off-chain technology stack to interface with legacy systems as well as other blockchains (permissioned and permissionless). OriginTrail allows businesses to improve interoperability among different IT systems by removing data silos, ensuring data integrity, immutability and traceability by fingerprinting a cryptographic data hash of the data to a blockchain and facilitating trusted data exchange. The most recent implementations allows the transformation of all legacy data into Web3 assets, bringing the physical world (art, fashion, healthcare, education, supply chains,etc.) to the digital world (blockchain, DeFi, Metaverse, NFTs) and making them more discoverable, verifiable and valuable.
 

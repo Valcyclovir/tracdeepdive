@@ -2,7 +2,7 @@
 description: Blockchain implementations
 ---
 
-# 3. Blockchain Layer
+# Blockchain Layer
 
 [**OriginTrail**](https://origintrail.io/) **** is **not a blockchain** – it is a **layer-2 agnostic protocol** that goes on top of blockchains and is utilizing blockchain for data immutability and decentralization. It is a multichain solution and can be integrated on top of any blockchain. Currently, OriginTrail’s decentralized protocol is operating on DOT, ETH, xDAI and MATIC.&#x20;
 

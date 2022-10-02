@@ -4,7 +4,7 @@ cover: https://origintrail.io/images/hero-image-background.svg
 coverY: 26.124244090159436
 ---
 
-# Part 7: Partners
+# Partners
 
 ## **Look at Partnerships**
 
