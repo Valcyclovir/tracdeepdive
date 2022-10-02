@@ -2,7 +2,7 @@
 description: What is the purpose of OriginTrail ?
 ---
 
-# Part 2: Objective
+# 2. Objective
 
 ## **Solving Supply Chain Issues**
 

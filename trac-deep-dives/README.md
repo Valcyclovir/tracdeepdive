@@ -16,6 +16,6 @@ description: An in depth exploration of OriginTrail
 [part-3-dkg-and-web3.md](part-3-dkg-and-web3.md)
 {% endcontent-ref %}
 
-{% content-ref url="part-4-past-events/" %}
-[part-4-past-events](part-4-past-events/)
+{% content-ref url="part-4-past-events.md" %}
+[part-4-past-events.md](part-4-past-events.md)
 {% endcontent-ref %}

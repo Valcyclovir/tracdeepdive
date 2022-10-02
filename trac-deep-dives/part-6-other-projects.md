@@ -2,7 +2,7 @@
 description: There are no competitors, only collaborators
 ---
 
-# Part 6: Other Projects
+# 6. Other Projects
 
 <figure><img src="../.gitbook/assets/OTvsothers.jpg" alt=""><figcaption></figcaption></figure>
 

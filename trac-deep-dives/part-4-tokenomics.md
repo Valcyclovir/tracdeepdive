@@ -2,7 +2,7 @@
 description: Learn about the hybrid TRAC/OTP token model
 ---
 
-# Part 4: Tokenomics
+# 4. Tokenomics
 
 ## **Tokenomics**
 

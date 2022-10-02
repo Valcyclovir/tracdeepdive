@@ -1,4 +1,4 @@
-# Part 5: Global Standards
+# 5. Global Standards
 
 #### **Open Standards (GS1 EPCIS/CBV and W3C integration)**
 
