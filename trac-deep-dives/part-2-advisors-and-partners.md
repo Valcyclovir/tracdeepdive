@@ -12,20 +12,6 @@ The team has released their bi-yearly report which highlights every single advan
 
 {% embed url="https://medium.com/origintrail/origintrail-bi-yearly-report-h2-2021-making-humanitys-most-important-assets-discoverable-af873702d807" %}
 
-### **SBB CFF FFS** (Swiss Federal Railways)
-
-{% embed url="https://ifothebehodler.medium.com/swiss-federal-railways-adopts-gs1-epcis-origintrail-parts-tracking-solution-20c2058727ca" %}
-
-### **OneAgrix**
-
-{% embed url="https://medium.com/origintrail/trace-labs-and-oneagrix-launch-blockchain-based-halal-certification-system-45a3bcfa404e" %}
-
-OneAgrix and OriginTrail [partnered up back in early 2019](https://medium.com/origintrail/trace-labs-and-oneagrix-partner-up-to-enable-halal-product-traceability-on-the-blockchain-cde5dcb0efd1) with the goal to ensure and tackle the trust deficit in the Halal goods marketplace, enabling food safety and transparency. This brings tangible benefits to businesses and consumers in the USD 2.5 trillion global halal markets.
-
-[Here](https://www.foodnavigator-asia.com/Article/2021/04/29/Tech-ambition-OneAgrix-has-dreams-of-being-the-first-halal-unicorn) is an article about the CEO of OneAgrix Diana Sabrain, who in 2015 established OneAgrix. I strongly recommend this article because Diana explains WHY and HOW this is made possible by the application of OriginTrail solutions. She is also extremely supportive of OriginTrail’s technology during the [Frictionless International Trade event](https://youtu.be/8dbpQVdUQ-4).
-
-Note that John G. Keogh, Chairman of Trace Alliance, is also OneAgrix strategic advisor. Very recently, [Kevin Dean](https://www.halaltimes.com/oneagrix-appoints-kevin-dean-as-chief-technology-officer/), former GS1 Canada and global office, has joined OneAgrix as Chief Technology Officer.
-
 ### **InCube**
 
 John G. Keogh revealed that [InCube](https://e-incube.ca/#/) has joined the OriginTrail [Trace Alliance](https://alliance.origintrail.io/members) and are [partnered with OriginTrail with John as the leading strategist](https://twitter.com/jgkeogh/status/1438133337273503751) behind the InCube Innovation Centre (IIC) for the Middle East. InCube has over 2100 customers and is focused on solving supply chain issues that go hand in hand with the solutions that OriginTrail is bringing to the table. The members John is presenting OriginTrail to represent [25+% of ](https://twitter.com/JGKeogh/status/1452903658606170115?s=20)[Jordanian GDP](https://twitter.com/JGKeogh/status/1452903658606170115?s=20).&#x20;
