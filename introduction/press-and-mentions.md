@@ -51,3 +51,9 @@ _“When a problem such as contamination or mislabeling is discovered, the solut
 <figure><img src="https://www.bsigroup.com/globalassets/localfiles/en-us/images/bsi-origintrail-partnership-signing-590.jpg" alt=""><figcaption><p>From left to right: Branimir Rakić, Co-founder, OriginTrail; BSI; Maja Voje, Chief Marketing Officer, OriginTrail; David Brown, Director of Corporate Development, BSI; Tomaž Levak, Co-founder, OriginTrail; Dan Purtell, Director Of Innovation, BSI; and Žiga Drev, Co-founder, OriginTrail.</p></figcaption></figure>
 
 BSI, the business standards company, has exclusively partnered with OriginTrail to deliver blockchain-enabled solutions that will enhance its global assessment, certification and supply chain services to confirm the provenance of goods and/or the integrity of digital records or services.
+
+## [$40 Million Worth of Bitcoin Stolen from Binance Now Traced Using OriginTrail](https://medium.com/origintrail/40-million-worth-of-bitcoin-stolen-from-binance-now-traced-using-origintrail-b938bd179d2e) <a href="#406d" id="406d"></a>
+
+<figure><img src="https://miro.medium.com/max/720/0*dN1C3PeeRYD_H7u0" alt=""><figcaption></figcaption></figure>
+
+Our engineering team has utilized the data available from the Bitcoin blockchain and put it in the context of GS1 standards for tracking goods and events and published it on the OriginTrail Decentralized Network. Using the underlying data layer capabilities and graph technology, the team was able to easily aggregate information in the GS1 standardised form, enabling us to do a graph visualization of how the stolen funds are being transferred and to add new, unstructured data to the graph as it becomes available.
