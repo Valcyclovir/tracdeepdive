@@ -6,7 +6,13 @@ description: >-
 
 # BSI Healthcare – AidTrust
 
+### Courtney Soulsby
 
+<figure><img src="https://pbs.twimg.com/profile_images/1549320289405870080/GBRGTMBT_400x400.jpg" alt=""><figcaption><p>Global Director, Healthcare, British Standard Institution (BSI)</p></figcaption></figure>
+
+> Our Healthcare sector team is working closely with our strategic partner - Trace Labs - to offer the end to end data management, through a decentralized knowledge graph - allowing all supply chain systems (audit management, diversion, track and trace, product traceability, planning and logistics operations) to be linked into one data management hub - for dashboard macro views.
+>
+> We have FINALLY worked out a neutral way to link all internal supply chain systems to drive data, analytics, and ultimately, visibility. Read further details in linked article [_(source)_](https://www.linkedin.com/posts/courtney-soulsby-8a311512\_origintrail-decentralized-knowledge-graph-activity-6785842064576929792-uOsw)
 
 {% embed url="https://www.youtube.com/watch?v=AUQFZOGpc5c" %}
 
@@ -43,3 +49,4 @@ There are currently two global pharmaceutical companies and one NGO participatin
 BSI and Courtney Soulsby, Senior Development Director for Healthcare at BSI, were invited by Corvus Global Events to present their AidTrust solution on March 15th 2022 in an “[Exclusive Presentation](https://postimg.cc/jW8fXWwB)“. The attendees of this conference, Pharma Supply Chain & Security World 2022, were none other than [most Pharma giants of this world](https://postimg.cc/N2RwgHRn). Here are some highlights from Courtney Soulsby presenting on [Pharma Supply Chain & Security World 2022](https://corvusglobalevents.com/conference/pharma-supply-chain-security-world-2022)
 
 {% embed url="https://twitter.com/origin_trail/status/1503744526296535040" %}
+

@@ -1,19 +1,33 @@
 ---
+description: >-
+  Tracdeepdive is an all-in-one central hub linking to all pertinent sources and
+  explaining OriginTrail and its utility token, TRAC, to the general public
 cover: https://origintrail.io/images/hero-image-background.svg
 coverY: 611.0956707642972
 ---
 
-# Introduction
+# TRAC Deep Dive
 
-#### **OriginTrail Deep Dive** is an all-in-one central hub linking to all pertinent sources and explaining OriginTrail and its utility token, **TRAC**, as well as the OriginTrail Parachain token, **OTP** to the general community - no coding or previous knowledge are required.
+## The Quick "Shallow Dive"
 
-#### For starters, let's delve into this video first
+OriginTrail is an **open protocol** that can integrate with any blockchain and legacy systems through open standards – full compliance with [GS1](https://www.gs1.org/), [EPCIS 2.0/CBV](https://medium.com/origintrail/origintrail-joins-the-gs1-global-epcis-cbv-2-0-a032b98d9437) and [W3C](https://www.w3.org/standards/) integration.
+
+Simply put, it is the combination of two technologies:
+
+1. [Knowledge Graphs](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) – which are advanced databases used by big tech companies such as Google, Amazon, Facebook to derive value from user data.
+2. Blockchain – which enables decentralization, meaning the database is not controlled by for-profit companies.
+
+When combining these two, it provides a backbone that decentralized applications can be built on, leveling the playing field and giving users back control of their data. OriginTrail **Decentralized Knowledge Graph** makes physical assets (art, healthcare, fashion, education) and digital assets (Metaverse, NFTs, blockchain, DeFi) **discoverable**, **verifiable** and **valuable**. It is the portal of all these assets and the Web 2 tech giants to the **Semantic Web 3**.
+
+OriginTrail is currently used by the [**SCAN Association**](https://www.scanassociation.com/)**,** [**British Standard Institution (BSI)**](https://www.bsigroup.com/en-GB/)**,** [**The World Federation of Hemophilia (WFH)**](https://wfh.org/)**,** [**EU-funded SmartAgriHubs**](https://www.smartagrihubs.eu/flagship-innovation-experiment/28-FIE-decentralised-trust-in-agrifood-supply-chains)**,** [**Swiss Federal Railways (SBB)**](https://www.sbb.ch/en)**,** [**Acala**](https://acala.network/)**,** [**PolkaDot**](https://polkadot.network/) and many more.
+
+### For starters, let's delve into this video
 
 {% embed url="https://www.youtube.com/watch?t=1s&v=AsCUigu39Hw" %}
 OriginTrail - the world's first Decentralized Knowledge Graph
 {% endembed %}
 
-#### Let's hear a few words from OriginTrail's advisors and partners
+### Let's hear a few words from the Father of Ethernet
 
 ### Dr. Bob Metcalfe
 
@@ -21,18 +35,8 @@ OriginTrail - the world's first Decentralized Knowledge Graph
 
 #### _“OriginTrail is going to continue to rise because the Decentralized Knowledge Graph will give AI more and more data.”_
 
-#### _“The weakness of OriginTrail is that it’s too complicated to explain to ordinary mortals. The technology appears a bit like middleware, which is a category that only tends to excite a handful of people, and I’m one of them”_ [_(source)_](https://www.zdnet.com/article/ethernet-creator-metcalfe-web3-will-have-all-kinds-of-network-effects/)\_\_
-
-### Courtney Soulsby
-
-<figure><img src="https://pbs.twimg.com/profile_images/1549320289405870080/GBRGTMBT_400x400.jpg" alt=""><figcaption><p>Global Director, Healthcare, British Standard Institution (BSI)</p></figcaption></figure>
-
-#### _“We have FINALLY worked out a neutral way to link all internal supply chain systems to drive data, analytics, and ultimately, visibility.”_ [_(source)_](https://www.linkedin.com/posts/courtney-soulsby-8a311512\_origintrail-decentralized-knowledge-graph-activity-6785842064576929792-uOsw)\_\_
-
-### Here's a word from one of the co-Founders of OriginTrail
-
-{% embed url="https://twitter.com/DrevZiga/status/1561700574176989184?s=20&t=b940T3GkKJAWprUn_fq7Sw" %}
+#### _“The weakness of OriginTrail is that it’s too complicated to explain to ordinary mortals. The technology appears a bit like middleware, which is a category that only tends to excite a handful of people, and I’m one of them”_ [_(source)_](https://www.zdnet.com/article/ethernet-creator-metcalfe-web3-will-have-all-kinds-of-network-effects/)
 
 ## OriginTrail Ecosystem Map (August 2022)
 
-<figure><img src="https://pbs.twimg.com/media/FaxGUmKWQAE3fgF?format=jpg&#x26;name=4096x4096" alt=""><figcaption><p>OriginTrail Ecosystem Map</p></figcaption></figure>
+<figure><img src="https://pbs.twimg.com/media/FaxGUmKWQAE3fgF?format=jpg&#x26;name=4096x4096" alt=""><figcaption></figcaption></figure>
