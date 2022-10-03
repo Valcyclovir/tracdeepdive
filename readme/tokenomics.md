@@ -6,15 +6,9 @@ description: Learn about the hybrid TRAC/OTP token model
 
 ## **Tokenomics**
 
-<figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-otp-and-trac@2x.png" alt=""><figcaption></figcaption></figure>
-
 ### **TRAC token**
 
-The TRAC token has existed since late 2017, with the ICO priced at 0.10$. You can take a look at the illustration below for more information. &#x20;
-
-<figure><img src="../.gitbook/assets/OT_ICO.jpg" alt=""><figcaption></figcaption></figure>
-
-Despite being an ICO in late 2017, the team has been developing its technology for over a decade. For advanced deep divers, you can have a look at the [**original 2017 whitepaper**](https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf). For common deep divers, [**here**](https://parachain.origintrail.io/whitepaper) **** is the **new** **2022 whitepaper**.
+The TRAC token has existed since late 2017, with the ICO priced at 0.10$. However, the team has been developing its technology for over a decade. For advanced deep divers, you can have a look at the [**original 2017 whitepaper**](https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf). For common deep divers, [**here**](https://parachain.origintrail.io/whitepaper) **** is the **new** **2022 whitepaper**.
 
 [Coingecko](https://www.coingecko.com/en/coins/origintrail) shows the current circulating supply at 368Mn/500Mn. The remainder 132M tokens are tagged for the dev pool and future development and maintenance of the ODN protocol.&#x20;
 
@@ -25,8 +19,9 @@ OriginTrail TRAC layer-2 token is the life and blood of the entire ecosystem. It
 * **Delegating to nodes** – token holders who do not wish to maintain a node have the possibility to delegate their TRAC to node runners, and in return obtain a portion of the rewards.
 * **Keyword staking** – Assets owners (enterprises, organizations, companies or individuals) can lock up TRAC to have their assets prioritized in a search result for a particular keyword, similar to [Google AdSense](https://www.google.com/adsense/start/). This is akin to a decentralized form of marketing spending in Web3 fashion.
 * **Data marketplace** – TRAC as a fungible token under ERC-20 standards is transferable and usable in any way ERC-20 assets are. TRAC can therefore be used in smart contracts that allow TRAC to be used as a compensation token for selling or buying assets. Data creators can earn from ownership of valuable data assets
+*
 
-<figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-web3-app@2x.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-otp-and-trac@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### **OTP token**
 

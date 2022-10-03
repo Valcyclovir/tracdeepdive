@@ -6,8 +6,6 @@ description: What is the purpose of OriginTrail ?
 
 ## **Solving Supply Chain Issues**
 
-<figure><img src="../.gitbook/assets/OTsupplychain.jpg" alt=""><figcaption></figcaption></figure>
-
 One of the earliest use cases of OriginTrail is being a supply chain protocol by addressing trust and transparency issues in global supply chain management. Current supply chains are plagued by the “one step down, one step up” traceability principle, preventing supply chain participants to verify each steps of the supply chain. OriginTrail is a unique protocol allowing multiple parties in complex supply chains to set up blockchain supported data sharing in multi-organizational environment. By verifying that participants meet specific conditions at each step of the supply chain, manufacturers, distributors, and consumers benefit from an [immutable ledger](https://academy.moralis.io/blog/taking-a-deep-look-at-dlt-distributed-ledger-technology?utm\_source=blog\&utm\_medium=post\&utm\_campaign=The%2520Ultimate%2520Guide%2520to%2520OriginTrail) of real-world data stored on the blockchain. By improving the integrity and traceability of a supply chain data and allowing for data exchange, the ODN also drives efficiencies for stakeholders, turning a supply chain expense into a revenue stream.&#x20;
 
 **Ken McElroy**, Global Manager, Trade Risk & Export Compliance at Home Depot & Vice-Chair at [SCAN](https://www.scanassociation.com/membership/our-members/):
