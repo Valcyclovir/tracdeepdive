@@ -4,7 +4,7 @@ description: Why is this solution needed ?
 
 # Motivation
 
-### Take a quick look around your home or office &#x20;
+## Take a quick look around your home or office &#x20;
 
 It is very likely that you do not know the provenance of things you interact with on a day-to-day basis. The food you eat, the clothes you wear, the products you apply on your body, the machines you use, none of them are really known to you as a consumer - you can only blindly trust the brand or the company that sold you the product. The fact that you know very little information is just one of the signs that supply chains have very limited ability to share data and centralized companies to divulge them.&#x20;
 
@@ -12,7 +12,11 @@ It is very likely that you do not know the provenance of things you interact wit
 Supply chain data is becoming increasingly fragmented and there is no suitable decentralized solution for supply chain with the needed level of performance, scalability, trust and cost-effectiveness.&#x20;
 {% endhint %}
 
-### Now take a look inside your social media and Google search history
+{% hint style="success" %}
+#### OriginTrail protocol was designed purposefully to make supply chains transparent, collaborative, fair and more resilient by using well established industry standards from GS1 (Barcode inventor), allowing all supply chain stakeholders to securely share their data while keeping sensitive data fully encrypted, ensuring compatibility among all legacy systems and remaining fully neutral to decentralize trust in supply chains.
+{% endhint %}
+
+## Now take a look at your social media platform and Google search history
 
 It is very likely that you do not know how your personal data is handled on the apps you use on a day-to-day basis. In exchange for using a "free" service such as Google, Twitter, TikTok, Facebook you are giving up on your valuable data. When you post a photo or write about your interests online, it all goes to the platform's database, strengthens it, and then exposes you to personalized ads.&#x20;
 
@@ -20,12 +24,12 @@ It is very likely that you do not know how your personal data is handled on the 
 Personal data collection, tracking and sales by tech companies are becoming increasingly prevalent at the expense of privacy, ownership and freedom.  &#x20;
 {% endhint %}
 
-### What if you had a neutral, scalable, permissionless, trusted and secure solution that could bring you transparency over all physical and digital things you own, and allows you to retain sovereignty over ownership of data?
-
-
+OriginTrail has since evolved from being a supply chain only protocol to becoming the [world’s first Decentralized Knowledge Graph (DKG)](https://medium.com/origintrail/origintrail-multichain-decentralized-knowledge-graph-is-now-live-mainnet-launch-on-xdai-claiming-9ce037305508). Not only can OriginTrail help streamline supply chains through an open source protocol with the core values of **neutrality, inclusiveness** and **usability**, it can now allow valuable data to be exchanged in a permissionless, trusted and secure manner, while all parties retain sovereignty over ownership of their data.&#x20;
 
 {% hint style="success" %}
-#### OriginTrail protocol was designed purposefully to make supply chains transparent, collaborative, fair and more resilient by using well established industry standards from GS1 (Barcode inventor), allowing all supply chain stakeholders to securely share their data while keeping sensitive data fully encrypted, ensuring compatibility among all legacy systems and remaining fully neutral to decentralize trust in supply chains.&#x20;
+#### OriginTrail now allows for a scalable, trusted and secure way to share information between all network participants – it is the knowledge graph of all knowledge graphs (such as Google, Amazon, Facebook). The Decentralized Knowledge Graph is the portal for Web2 companies to join the Semantic Web. It is the backbone of data connectivity for Web3, allowing all individuals to be fully in control of their data.
+
+**Read** [part-3-dkg-and-web3.md](../part-3-dkg-and-web3.md "mention") **for more information.**
 {% endhint %}
 
 ## **Solving Supply Chain Issues**
@@ -42,20 +46,6 @@ OriginTrail has been built to take advantage of globally recognized GS1 and W3C 
 With all this in mind, the OriginTrail Decentralized Network overcomes a significant [barrier to centralized blockchain solutions](https://www.theregister.com/2018/10/30/ibm\_struggles\_to\_sign\_up\_shipping\_carriers\_to\_blockchain\_supply\_chain\_platform\_reports/): keeping trust between all parties on the network.
 {% endhint %}
 
-## ****
 
-## **Solving data connectivity for Web3**
 
-<figure><img src="https://origintrailexplained.info/wp-content/uploads/2021/02/knowledgeeconomy-1024x576.jpeg" alt=""><figcaption></figcaption></figure>
-
-OriginTrail has since evolved from being a supply chain protocol to becoming the [world’s first Decentralized Knowledge Graph (DKG)](https://medium.com/origintrail/origintrail-multichain-decentralized-knowledge-graph-is-now-live-mainnet-launch-on-xdai-claiming-9ce037305508). Not only can OriginTrail help streamline supply chains through an open source protocol with the core values of **neutrality, inclusiveness** and **usability**, it can now allow valuable data to be exchanged in a permissionless, trusted and secure manner, while all parties retain sovereignty over ownership of their data. OriginTrail now allows for a scalable, trusted and secure way to share information between all network participants – it is the knowledge graph of all knowledge graphs (such as Google, Amazon, Facebook). The Decentralized Knowledge Graph is the portal for Web2 companies to join the Semantic Web. It is the backbone of data connectivity for Web3.
-
-> The third generation of the Internet, popularly referred to as the **Web3**, offers an exciting opportunity to expand the way users interact with assets. Both assets, those anchored in the real world (cars, building, rare items such as an expensive bottle of whiskey, educational or vocational credentials, etc.) and those digitally native (NFTs representing digital art, gaming avatars or fungible tokens used for trading) are poised to change the way we **manage, protect and increase the value** of our wealth. Things we own are now **converging towards becoming Web3-grade assets** – assets made **discoverable, verifiable** and **valuable** using the Internet technology comprising both a **semantic layer** – knowledge graphs and **trust layer** – blockchain.
 >
-> Leveraging both the groundbreaking knowledge graph and blockchain technology, **OriginTrail is a neutral, inclusive ecosystem** striving to deliver **useful and foundational Internet technologies**. The **open source codebase** and **permissionless** nature of the established OriginTrail network layers drive transparency and laissez-faire type of a market incentives that underpin security, transparency and antifragility of the system. OriginTrail is thus becoming a core component of Web3 infrastructure, also ensuring **user asset sovereignty** as data representing assets can only be managed by asset owners. ([source](https://parachain.origintrail.io/whitepaper?section=web3-grade-assets-and-network-effects))
-
-In a recent [**interview with Dr. Bob Metcalfe**](https://twitter.com/ZDNet/status/1522268420724695047?s=20\&t=C1APYeT2P1tN27s4bHAP7g), the Father of Ethernet, at the Knowledge Graph Conference 2022, he was asked to rate OriginTrail’s chances of success&#x20;
-
-> “The weakness of it is that it’s too complicated to explain” to ordinary mortals, said Metcalfe of the technology. The OriginTrail technology appears a bit like middleware, which is a category that only tends to excite a handful of people. “Yes, and I’m one of them,” said Dr. __ Metcalfe.
-
-Despite the complexity of the tech, “What they are doing is right in line with where things are going.” More importantly, he took on the advisor role because he’s learning from what OriginTrail is doing, educating himself on what new forms of value there will be in the connectivity of Web3 assets.
