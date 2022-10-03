@@ -28,7 +28,7 @@ OriginTrail TRAC layer-2 token is the life and blood of the entire ecosystem. It
 
 The OriginTrail Parachain super-charges these data marketplaces with the addition of **knowledge tokens, knowledge wallets, the knowledge marketplace, and knowledge tenders**. They allow individuals to buy and sell data in a trusted, private way; the developers say this will increase TRAC’s utility _by orders of magnitude._ Because this is tied into to the Polkadot ecosystem, all Polkadot/Kusama projects will be able to utilize this feature. Please see the [2021 Roadmap for a very in-depth look](https://medium.com/origintrail/origintrail-2021-expanded-roadmap-accelerating-growth-through-starfleet-polkadot-and-knowledge-2a1c170daaf3) at this use case.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## OTP **token**
 
