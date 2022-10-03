@@ -6,7 +6,7 @@ description: Learn about the hybrid TRAC/OTP token model
 
 ## **TRAC token**
 
-****![](../.gitbook/assets/image.png)****
+****![](<../.gitbook/assets/image (5).png>)****
 
 ### Facts
 

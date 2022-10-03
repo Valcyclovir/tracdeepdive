@@ -6,7 +6,7 @@ description: Why is this solution needed ?
 
 ## Take a quick look around your home or office &#x20;
 
-We know very little about the provenance of objects we interact with on a day-to-day basis. The food you eat, the clothes you wear, the devices you use, the products you apply on your body, none of them are really known to you as a consumer. Where was it made? How was it made? How was it transported? Can I trust the company? The fact that you know very little information is just one of the signs that supply chains have very limited ability to share data and centralized companies to divulge them.&#x20;
+We know very little about the provenance of objects we interact with on a day-to-day basis. The food you eat, the clothes you wear, the devices you use, the products you apply on your body, none of them are really known to you as a consumer. Where was it made? How was it made? How was it transported? Can I trust the company? The fact that you know very little information is just one of the signs that supply chains have very limited ability to share data. The lack of data availability to consumers also stems from the inability of manufacturers to collect them through the supply chains. Value is created when a manufacturer is able to prove to consumers a counterfeint from their real product. Governments also want to maintain a high standard of food safety, certification and transportation.&#x20;
 
 {% hint style="warning" %}
 Supply chain data is becoming increasingly **fragmented** and there is no suitable decentralized solution for supply chain with the needed level of performance, scalability, trust and cost-effectiveness.&#x20;
