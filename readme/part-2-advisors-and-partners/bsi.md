@@ -4,7 +4,7 @@ description: British Standards Institution, national standards body of the Unite
 
 # BSI
 
-[BSI](https://www.bsigroup.com/) is just one of many serious standardization organizations that consult roughly 84,000 clients in 193 countries. They are creme de la creme within their segment and they consult both companies and governments to create solutions to mitigate risk, brand protection, and compliance, just to name a few. Right now, they rely heavily on the solutions made possible by OriginTrail.&#x20;
+[BSI](https://www.bsigroup.com/) is one of the most serious standardization organizations that consult roughly 84,000 clients in 193 countries. They are creme de la creme within their segment and they consult both companies and governments to create solutions to mitigate risk, brand protection, and compliance, just to name a few. Right now, they rely heavily on the solutions made possible by OriginTrail.&#x20;
 
 Read below:
 
