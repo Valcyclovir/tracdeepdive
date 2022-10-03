@@ -20,8 +20,6 @@ OriginTrail/TraceLabs has been a member of GS1 since 2018, which gives them acce
 
 The OriginTrail protocol also supports the Web of Things (W3C) recommended standard. This will ensure wide compatibility with IoT devices and has already been utilized for a number of European Union-wide use cases and pilots.
 
-<figure><img src="https://assets.weforum.org/editor/4hhuzm8056MwUZm3Kr36Y9wtGDADbbEIaxRVhfikQJw.PNG" alt=""><figcaption></figcaption></figure>
-
 OriginTrail’s standards-based approach also caught the attention of the World Economic Forum (WEF), who detailed OriginTrail as one of the top blockchain-based supply chain solutions in their [2020 Blockchain Deployment Toolkit report.](https://widgets.weforum.org/blockchain-toolkit/step-two) They also published [an article](https://www.weforum.org/agenda/2021/02/origintrail-blockchain-covid-supplies-repository) on OriginTrail’s Essential COVID-19 Supplies Repository as an effective use of blockchain technology.
 
 Lastly, the German Federal Office for Information Security [praised OriginTrail as one of two future leaders](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Krypto/Blockchain\_Studie-374.html) in blockchain-assisted supply chain management.

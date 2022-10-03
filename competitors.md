@@ -2,9 +2,9 @@
 description: There are no competitors, only collaborators
 ---
 
-# Other Projects
+# Competitors
 
-<figure><img src="../.gitbook/assets/OTvsothers.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/OTvsothers.jpg" alt=""><figcaption></figcaption></figure>
 
 In this section, I will briefly touch upon every project that share a few similar aspects with OriginTrail. Despite what is shown on the illustration above, OriginTrail does not have any competitors. As one of the core values of neutrality dictates, the ODN is built with the adoption of co-creation principles and collaboration with all other ecosystems in mind. The Decentralized Knowledge Graph can be built on top of any projects, allowing each entity to break data silos and make use of global standards.&#x20;
 
@@ -18,9 +18,9 @@ SM, a supply chain expert who worked with complex ERP systems for over a decade,
 
 ## Blockchain & Supply Chain Solutions
 
-<table><thead><tr><th>Traits</th><th data-type="checkbox">OriginTrail</th><th data-type="checkbox">Vechain</th><th data-type="checkbox">Ambrosus</th></tr></thead><tbody><tr><td>Whitepaper</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Open source</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Permissionless</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Decentralized</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Knowledge graph</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Data stored on Blockchain</td><td>false</td><td>true</td><td>true</td></tr><tr><td>Run a node</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Data using IoT</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Multichain</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Neutrality</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Usability</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Inclusiveness</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Mainnet</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Token</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Distributed</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Immutable</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Standardization</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Scalability</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Interoperability</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Own your data</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Detected wallet</td><td>false</td><td>true</td><td>false</td></tr><tr><td>Inflationary</td><td>false</td><td>true</td><td>true</td></tr></tbody></table>
+<table><thead><tr><th>Traits</th><th data-type="checkbox">OriginTrail</th><th data-type="checkbox">Vechain</th><th data-type="checkbox">Ambrosus</th></tr></thead><tbody><tr><td>Whitepaper</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Open source</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Permissionless</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Decentralized</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Knowledge graph</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Run a node</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Data using IoT</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Multichain</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Neutrality</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Usability</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Inclusiveness</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Mainnet</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Token</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Distributed</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Immutable</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Standardization</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Scalability</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Interoperability</td><td>true</td><td>false</td><td>true</td></tr><tr><td>Own your data</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Fixed supply</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
 
-### OriginTrail and Vechain
+### Vechain
 
 Vechain is a Chinese-based company founded in 2015. It offers blockchain-as-a-Service to enterprises for products and information, through the VeChain Thor blockchain. Users can build smart contracts on the VeChain blockchain which in turn allows them end-to-end tracking of all their products. One of their tracing implementations relies on RFID chips attached to their products. The Vechain Blockchain is centralized - all provided services are stored and governed by one provider. This is a potential data privacy risk if the company ever gets audited by the Chinese government.
 
@@ -30,7 +30,7 @@ Some use cases include [carbon emission tracking to help China tackle its carbon
 
 {% embed url="https://seevechain.com/burn-usd" %}
 
-### OriginTrail and Ambrosus
+### Ambrosus
 
 Ambrosus is a decentralized data storage network (IPFS) and a blockchain-based ecosystem that enables stakeholders in a supply chain to verify the origin, quality, compliance, and proper handling of items tracked on the network. The network known as AMB-NET acts not only as a technical sidechain for Ethereum but also for any other EVM-compatible blockchain. Ambrosus can also seamlessly integrate with existing ERP and CRM systems to enable transparency and digitize processes. Ambrosus uses IoT hardware and advanced sensitive sensors (one that even can detect pH levels, allergens, DNA, and other types of physical properties) to tag products, thereby tracking goods through the supply chain and ensuring the full integrity of comprehensions. All data is automatically assigned an ID and made compatible with GS1, GLN, GTIN, and SSCC so as to be practically relevant for modern traceability standards. Zero-knowledge proof is used to authenticate users while maintaining strict privacy. AMB, an ERC-20 token, can be used to pay for transactions on AMB-NET. Every time an asset or event is created, AMB is required as a fee. AMB is the collateral required to run a Masternode in AMB-NET. This requires users to lock a certain amount of AMB in order to be considered a Masternode.
 
@@ -40,7 +40,7 @@ As of August 2022, the Ambrosus team has gone through a substancial transformati
 
 ## OriginTrail and The Graph
 
-<figure><img src="../.gitbook/assets/KnowledgeGraph.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/KnowledgeGraph.jpg" alt=""><figcaption></figcaption></figure>
 
 The Graph name just comes from GraphQL, which is query language for APIs, that allows you to define the structure of any data returned by a request. The Graph is also used for indexing blockchain data that is relevant to its user (subgraph) which is a very different use case as these dapps require fresh accurate data and instantly.&#x20;
 
@@ -66,7 +66,7 @@ Among the 3 core values of OriginTrail, Golden seems to only miss on the neutral
 
 Golden does not currently have a token for sale and have no ETA.&#x20;
 
-### OriginTrail and ESG DAO
+### ESG DAO
 
 ESG DAO revealed their project in August 2022, with the goal to build a radically transparent ESG system that serves the planet and people, not just companies. In other words, ESG DAO's objective is to restore public trust in businesses and the current system through a transparent OpenESG scoring system co-developped by scientists, NGO leaders, business leaders and government bodies, running as a DAO (Decentralized Autonomous Organization) for neutrality, transparency and inclusivess, and incentivizing engagement around ESG between businesses and consumers. Currently, ESG scores are underused and often times misreprensented and therefore, an OpenESG system could serve as a new global ESG standard, enabling public and private entities, Web3 projects, all industries and all regions to embed similar ESG metrics into their individual systems, permissionlessly.&#x20;
 

@@ -6,7 +6,7 @@
 * [Blockchain Layer](readme/blockchain-layer.md)
 * [Tokenomics](readme/tokenomics.md)
 * [Global Standards](readme/global-standards.md)
-* [Other Projects](readme/other-projects.md)
+* [Competitors](competitors.md)
 * [Partners](readme/part-2-advisors-and-partners/README.md)
   * [BSI](readme/part-2-advisors-and-partners/bsi.md)
   * [BSI Healthcare – AidTrust](readme/part-2-advisors-and-partners/bsi-healthcare-aidtrust.md)

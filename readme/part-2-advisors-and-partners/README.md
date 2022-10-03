@@ -6,8 +6,6 @@ coverY: 26.124244090159436
 
 # Partners
 
-## **Look at Partnerships**
-
 The team has released their bi-yearly report which highlights every single advancement made in the second half of 2021 which really complements the information here going forward. I strongly suggest going through the report first before reading the next sections.
 
 {% embed url="https://medium.com/origintrail/origintrail-bi-yearly-report-h2-2021-making-humanitys-most-important-assets-discoverable-af873702d807" %}
