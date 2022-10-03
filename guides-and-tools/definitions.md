@@ -4,7 +4,7 @@ description: Here is a list of definitions to help understand the different term
 
 # Definitions
 
-[**Trace Labs** ](https://tracelabs.io/)– For profit OriginTrail Decentralized Knowledge Graph core team
+[**Trace Labs** ](https://tracelabs.io/)– The core developers behind OriginTrail Decentralized Knowledge Graph
 
 [**OriginTrail** ](https://origintrail.io/)– A neutral and open-source protocol hosting the world’s first Decentralized Knowledge Graph
 

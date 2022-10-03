@@ -1,5 +1,5 @@
 ---
-description: All Press mentions of OriginTrail
+description: Notable Press mentions of OriginTrail
 ---
 
 # Press & Mentions

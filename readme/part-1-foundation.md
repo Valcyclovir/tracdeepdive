@@ -6,7 +6,7 @@ coverY: 455.1951621770203
 
 # Foundation
 
-The **OriginTrail Decentralized Network (ODN)** is a neutral, open-source protocol enabling secure  peer-to-peer data sharing between companies and supply chains. It utilizes decentralized nodes and an off-chain technology stack to interface with legacy systems as well as other blockchains (permissioned and permissionless). OriginTrail allows businesses to improve interoperability among different IT systems by removing data silos, ensuring data integrity, immutability and traceability by fingerprinting a cryptographic data hash of the data to a blockchain and facilitating trusted data exchange. The most recent implementations allows the transformation of all legacy data into Web3 assets, bringing the physical world (art, fashion, healthcare, education, supply chains,etc.) to the digital world (blockchain, DeFi, Metaverse, NFTs) and making them more discoverable, verifiable and valuable.
+The **OriginTrail Decentralized Network (ODN)** is a neutral, open-source protocol enabling secure peer-to-peer data sharing between companies and supply chains. It utilizes decentralized nodes and an off-chain technology stack to interface with legacy systems as well as other blockchains (permissioned and permissionless). OriginTrail allows businesses to improve interoperability among different IT systems by removing data silos, ensuring data integrity, immutability and traceability by fingerprinting a cryptographic data hash of the data to a blockchain and facilitating trusted data exchange. The most recent implementations allows the transformation of all legacy data into Web3 assets, bringing the physical world (art, fashion, healthcare, education, supply chains, etc.) to the digital world (blockchain, DeFi, Metaverse, NFTs) and making them more discoverable, verifiable and valuable.
 
 ## **Core Values**
 
@@ -20,7 +20,7 @@ OriginTrail's first core value ensures the inclusiveness of all parties, adoptio
 
 ### **2. Usability**
 
-In order to onboard users, enterprises and developers to the OriginTrail protocol, the network underpinning Web3 protocol level technologies must be efficient and user friendly. Trace Labs, the company behind OriginTrail, has developed many interface solutions used within [global enterprises and government bodies](https://origintrail.io/case-studies). The team has also built [Project Magnify](https://projectmagnify.io/), a DKG client for any users to publish assets directly into the ecosystem without the need to run a node. Improved usability of the ODN will only drive positive network effects to grow the entire ecosystem.&#x20;
+In order to onboard users, enterprises and developers to the OriginTrail protocol, the network underpinning Web3 protocol level technologies must be efficient and user friendly. Trace Labs, the core developers behind OriginTrail, has developed many interface solutions used within [global enterprises and government bodies](https://origintrail.io/case-studies). The team has also built [Project Magnify](https://projectmagnify.io/), a Decentralized Knowledge Graph (DKG) client for any users to publish assets directly into the ecosystem without the need to run a node. Improved usability of the ODN will only drive positive network effects to grow the entire ecosystem.&#x20;
 
 ### **3. Inclusiveness**
 
