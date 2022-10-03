@@ -10,6 +10,10 @@ description: Notable Press mentions of OriginTrail
 
 [**OriginTrail**](https://origintrail.io/) is a [Decentralized knowledge graph](https://docs.origintrail.io/layer-2-decentralized-knowledge-graph-dkg/dkgintro) that couples and organizes these two worlds together. This way, all these digital items are much more discoverable, verifiable, and thus becoming even more valuable.
 
+## [Facebook and the rest of social media have a big decentralized problem](https://www.thetechnologyletter.com/the-posts/facebook-and-the-rest-of-social-media-have-a-big-decentralized-problem)
+
+##
+
 ## [Ethernet creator Metcalfe: Web3 will have all kinds of 'network effects'](https://www.zdnet.com/article/ethernet-creator-metcalfe-web3-will-have-all-kinds-of-network-effects/)
 
 <figure><img src="https://www.zdnet.com/a/img/resize/156dc1d70f639ff59c14d2303911c5782d8f3546/2022/05/05/8e806949-7fe7-4f40-9c45-2b291beec777/metcalfe-2022-williamsburg.jpg?auto=webp&#x26;width=1200" alt=""><figcaption></figcaption></figure>

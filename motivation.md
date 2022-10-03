@@ -1,8 +1,10 @@
 ---
-description: What is the purpose of OriginTrail ?
+description: Why is this solution needed ?
 ---
 
-# Objective
+# Motivation
+
+OriginTrail is&#x20;
 
 ## **Solving Supply Chain Issues**
 
