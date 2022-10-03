@@ -4,7 +4,7 @@
 
 The majority of global supply chains run on standards developed by the [GS1](https://www.gs1.org/) organization. After all, **GS1 invented the Barcode**. The first **Universal Product Code (UPC)** was scanned on June 26th, 1974 in a Marsh Stores in Troy, Ohio and the checkout went “beep” for the first time.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Other systems to identify, capture, and share information among supply chain partners were all developed over the past 45 years by GS1. These standards allow for interoperability between different systems and supply chain architectures across the globe. Any blockchain-based solution to improve traceability should integrate with these legacy systems, and the OriginTrail protocol was designed from the ground up to do this.
 

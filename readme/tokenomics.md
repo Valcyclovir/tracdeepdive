@@ -6,12 +6,12 @@ description: Learn about the hybrid TRAC/OTP token model
 
 ## **TRAC token**
 
-****![](<../.gitbook/assets/image (4).png>)****
+****![](../.gitbook/assets/image.png)****
 
 ### Facts
 
 * **Max supply: 500M** Non-inflationary, all pre-mined and distributed during ICO
-* **Circulating supply: 368M** The remainder 132M tokens are tagged for the dev pool
+* **Circulating supply: 368M** The remainder 132M tokens are tagged for the dev pool (see illustration below)
 * **Markets with liquidity**: Coinbase, Kucoin, Bancor, Uniswap
 * **Token Sale Complete**: January 17, 2018
 * **Token Standard**: ERC-20&#x20;
@@ -19,6 +19,10 @@ description: Learn about the hybrid TRAC/OTP token model
 * **Contract Address**: 0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f (18 decimal)
 * ****[**Original 2017 whitepaper**](https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf)****
 * ****[**New 2022 whitepaper**](https://parachain.origintrail.io/whitepaper)****
+
+The following table shows the current TRAC token distribution. As described in the [2020 Q1 Report](https://medium.com/origintrail/origintrail-quarterly-report-q1-2020-f19b9fa95596), all of the TRAC available in the “soft lock” column will be used in the protocol development fund for future improvements (132.5 million total).
+
+<figure><img src="https://origintrailexplained.info/wp-content/uploads/2020/08/Screen-Shot-2020-08-17-at-9.18.34-PM-copy-1024x573.jpg" alt=""><figcaption></figcaption></figure>
 
 OriginTrail TRAC layer-2 token is the life and blood of the entire ecosystem. It is required to perform all operations on the DKG. It is an utility token that drives the entire network:
 
@@ -34,7 +38,7 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
 
 ## OTP **token**
 
-****![](<../.gitbook/assets/image (3).png>)****
+****![](<../.gitbook/assets/image (4).png>)****
 
 ### **Facts**
 
