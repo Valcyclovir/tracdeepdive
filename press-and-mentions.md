@@ -12,7 +12,9 @@ description: Notable Press mentions of OriginTrail
 
 ## [Facebook and the rest of social media have a big decentralized problem](https://www.thetechnologyletter.com/the-posts/facebook-and-the-rest-of-social-media-have-a-big-decentralized-problem)
 
-##
+<figure><img src=".gitbook/assets/Screenshot_20221002_231028.png" alt=""><figcaption></figcaption></figure>
+
+Whether or not OriginTrail is the company that succeeds, the shape of a global database seems a very large movement with real momentum. One of the advisors to OriginTrail is **Bob Metcalfe**, the legendary inventor of the Ethernet networking technology that is ubiquitous in computer networks. At an event in Williamsburg, Brooklyn on Tuesday evening sponsored by the company, [Metcalfe told me the approach of the DKG is the future.](https://www.zdnet.com/article/ethernet-creator-metcalfe-web3-will-have-all-kinds-of-network-effects/)&#x20;
 
 ## [Ethernet creator Metcalfe: Web3 will have all kinds of 'network effects'](https://www.zdnet.com/article/ethernet-creator-metcalfe-web3-will-have-all-kinds-of-network-effects/)
 

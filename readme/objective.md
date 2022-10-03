@@ -4,7 +4,13 @@ description: Why is this solution needed ?
 
 # Motivation
 
-OriginTrail is&#x20;
+### Take a quick look around your home or office. &#x20;
+
+It is very likely that you do not know the provenance of things you interact with on a day-to-day basis. The food you eat, the clothes you wear, the products you apply on your body, the machines you use, none of them are really known to you as a consumer - you can only blindly trust the brand or the company that sold you the product. The fact that you know very little information is just one of the signs that supply chains have very limited ability to share data and centralized companies to divulge them.&#x20;
+
+In fact, supply chain data is becoming increasingly fragmented and there is no suitable decentralized solution for supply chain with the needed level of performance, scalability, trust and cost-effectiveness.&#x20;
+
+#### OriginTrail protocol was designed purposefully to make supply chains transparent, collaborative, fair and more resilient by using well established industry standards from GS1 (Barcode inventor), allowing all supply chain stakeholders to securely share their data while keeping sensitive data fully encrypted, ensuring compatibility among all legacy systems and remaining fully neutral to decentralize trust in supply chains.&#x20;
 
 ## **Solving Supply Chain Issues**
 

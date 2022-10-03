@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Foundation](readme/part-1-foundation.md)
-* [Motivation](motivation.md)
+* [Motivation](readme/objective.md)
 * [Blockchain Layer](readme/blockchain-layer.md)
 * [Tokenomics](readme/tokenomics.md)
 * [Global Standards](readme/global-standards.md)
