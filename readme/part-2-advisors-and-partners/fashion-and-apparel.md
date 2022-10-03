@@ -7,7 +7,7 @@ description: Unique digital product IDs tell consumers the story of their clothi
 [Matthew Williams](https://www.instagram.com/matthewmwilliams/?hl=en), the fashion designer behind the 1017 ALYX 9SM brand, wanted to bring greater transparency to the label’s supply chain and cultivate deeper connections with the consumers. By scanning the unique digital code on an item's label with their smartphone, consumers can view the garment’s journey and track it all the way from the factory to the point-of-sale. This raises the bar on the promise of transparency and sustainability in the apparel industry.
 
 {% hint style="info" %}
-Cristina Ventura, advisor and founder of Ventura X Ventures, is currently in the advisory board of OriginTrail. She has been working in Luxury and technology for over 20 years for the world’s most prestigious luxury companies such as LVMH, Gucci, Prada, Apple and Lane Crawford Joyce Group.
+Cristina Ventura, advisor and founder of Ventura X Ventures, is currently on the advisory board of OriginTrail. She has been working in luxury fashion and technology for over 20 years for the world’s most prestigious luxury companies such as LVMH, Gucci, Prada, Apple and Lane Crawford Joyce Group.
 {% endhint %}
 
 ### EVRYTHNG
