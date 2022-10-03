@@ -24,4 +24,4 @@ In order to onboard users, enterprises and developers to the OriginTrail protoco
 
 ### **3. Inclusiveness**
 
-As the ecosystem grows, the team needs to continue forming partnerships with business global leaders and communities to cater to their needs. This will continue pushing the team to make new strides in designing technical infrastructures and business models that support the worldwide adoption of OriginTrail. This in turn will cycle back to the first core value of neutrality.
+As the ecosystem grows, the team needs to continue forming partnerships with business global leaders and communities to cater to their needs. This will continue pushing the team to make new strides in designing technical infrastructures and business models that support the worldwide adoption of OriginTrail. The team welcomes anyone building on the DKG, and will ensure that no groups are excluded. In other words, the protocol will not just pander to a certain privileged party - the team will strive to remain relevant and valuable to the wider community. This in turn cycles back to the first core value of neutrality.
