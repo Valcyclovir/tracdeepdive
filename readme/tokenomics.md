@@ -6,6 +6,8 @@ description: Learn about the hybrid TRAC/OTP token model
 
 ## **TRAC token**
 
+****![](<../.gitbook/assets/image (4).png>)****
+
 ### Facts
 
 * **Max supply: 500M** Non-inflationary, all pre-mined and distributed during ICO
@@ -31,6 +33,8 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## OTP **token**
+
+****![](<../.gitbook/assets/image (3).png>)****
 
 ### **Facts**
 
