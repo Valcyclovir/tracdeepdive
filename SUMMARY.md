@@ -27,7 +27,7 @@
     * [DEMETER](readme/part-2-advisors-and-partners/sustainable-agriculture/demeter.md)
     * [The Food Safety Market](readme/part-2-advisors-and-partners/sustainable-agriculture/the-food-safety-market.md)
 * [Scientific and Academic Research](scientific-and-academic-research.md)
-* [Events](readme/part-4-past-events/README.md)
+* [Past Events](readme/part-4-past-events/README.md)
   * [OriginTrail x Acala](readme/part-4-past-events/origintrail-x-acala.md)
   * [Frictionless International Trade](readme/part-4-past-events/frictionless-international-trade.md)
   * [EU Blockchain Summit](readme/part-4-past-events/eu-blockchain-summit.md)
