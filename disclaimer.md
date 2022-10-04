@@ -6,7 +6,7 @@ Due to a lack of manpower, some illustrations and texts were directly taken from
 
 Should anyone wish to remove any material on this website, they can reach me on Telegram @BRX86, Discord BRX#1315, Twitter @otnoderunner.&#x20;
 
-The purpose of Tracdeepdive is to be the central hub to all information related to OriginTrail and putting them together in one place for easier following of events by the common user. I do not receive any incentives from anyone.
+The purpose of Tracdeepdive is to be the central hub to all information related to OriginTrail and putting them together in one place for easier following of events by the common user. I do not receive any incentives from anyone other than donations.
 
 Special Thanks to: [LuKu](https://twitter.com/mucke121), [K'walla](https://twitter.com/SmoothbrainL), [Shys](https://twitter.com/shys70), [Hottogo](https://twitter.com/mrhottogo), [IOTB](https://twitter.com/\_i\_o\_t\_b), [Milian](https://twitter.com/MilianIstatkov), [Amos](https://twitter.com/TriniZone), [Mr. Mountain](https://twitter.com/Mr\_\_Mountain), [Kitty Tamatoa](https://twitter.com/KittyTamatoa) and all other #tracers for helping put this together.&#x20;
 

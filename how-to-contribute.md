@@ -4,7 +4,9 @@ description: Any help to maintain this website is appreciated !
 
 # How to Contribute
 
-If you would like to help the TRAC community build this page, please follow the simple steps below:
+## Become an editor
+
+If you would like to help the TRAC community build this page, please follow the steps below:
 
 1. Create your own [GitHub ](https://github.com/)account
 2.  On the top right corner of this [GitHub Repository](https://github.com/Valcyclovir/tracdeepdive), click **fork**&#x20;

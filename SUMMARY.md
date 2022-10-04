@@ -51,3 +51,4 @@
   * [Shys70](additional-resources/shys70.md)
 * [How to Contribute](how-to-contribute.md)
 * [Disclaimer](disclaimer.md)
+* [Donations](donations.md)
