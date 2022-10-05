@@ -2,17 +2,21 @@
 
 ## OriginTrail and Golden Protocol
 
-[Golden](https://golden.xyz/) is building a decentralized canonical knowledge graph, which combines a blockchain solution with a knowledge graph, much like OriginTrail.&#x20;
-
-According to Golden, Golden started as a Web2 company in San Francisco on a mission to map all human knowledge. They raised 20M$ funds from leading VCs and investors. Since Fall 2021, they have been ramping up efforts to create a Web3 version of Golden to increase the speed that the knowledge graph can be built. Golden is building a permissionless, open source protocol that incentivizes the collection and verification of canonical knowledge, which it will offer to the public for free and charge commercial entities.
+[Golden](https://golden.xyz/) is a Web2 company with big VC funding (20M$ on the first rounds, 40M$ on September 2022) with names such as a16z, building a permissionless decentralized canonical knowledge graph, attempting to become the decentralized Wikipedia of Web3. The canonical knowledge will be offered free to the public and charged to the commercial entities.
 
 <table><thead><tr><th>Traits</th><th data-type="checkbox">OriginTrail</th><th data-type="checkbox">Golden Protocol</th><th data-hidden></th></tr></thead><tbody><tr><td>Whitepaper</td><td>true</td><td>false</td><td></td></tr><tr><td>Open source</td><td>true</td><td>true</td><td></td></tr><tr><td>Permissionless</td><td>true</td><td>true</td><td></td></tr><tr><td>Decentralized</td><td>true</td><td>false</td><td></td></tr><tr><td>Knowledge Graph</td><td>true</td><td>true</td><td></td></tr><tr><td>Run a node</td><td>true</td><td>false</td><td></td></tr><tr><td>Multichain</td><td>true</td><td>false</td><td></td></tr><tr><td>Neutrality</td><td>true</td><td>false</td><td></td></tr><tr><td>Usability</td><td>true</td><td>true</td><td></td></tr><tr><td>Inclusiveness</td><td>true</td><td>true</td><td></td></tr><tr><td>Mainnet</td><td>true</td><td>false</td><td></td></tr><tr><td>Token</td><td>true</td><td>false</td><td></td></tr><tr><td>Own your data</td><td>true</td><td>false</td><td></td></tr></tbody></table>
 
-As of September 2022, Golden claims to have a whitepaper under review and to be made public soon. Golden Protocol is also currently on testnet with users able to submit triples, but not run nodes. This has me thinking that the Knowledge Graph is proprietary to Golden and therefore not decentralized as claimed. Compared to OriginTrail, 2500 nodes operating across the globe owned by users such as myself are the ones holding the ecosystem together.&#x20;
+Upon digging into their ecosystem, here are a few notable yellow flags:&#x20;
 
-Among the 3 core values of OriginTrail, Golden seems to only miss on the neutrality of the network. According to their documentation, their canonical knowledge graph will be offered to the public free of charge, while commercial entities will be charged. All users of the OriginTrail Decentralized Network are treated the same. For example, publishes made from a user or a commercial entity will cost the same.&#x20;
+* Golden protocol is a crypto-based **decentralized storage**, with **centralized ownership**, meaning the graph is owned solely by Golden. Traditional databases can do a similar job by incentivizing users with tokens to contribute to the centralized knowledge graph. Decentralized storage does not solve a real issue.&#x20;
+* Users cannot run nodes since the Knowledge Graph is Golden's property. They can only submit triples (data) into Golden's KG to receive part of the rewards
+* The value proposition is just not here. Golden claims that Wikipedia is owned by \~500 admins and not decentralized enough. However, Golden is a single entity itself and aims to replace it ?
+* If Golden is the decentralized Wikipedia and is replacing the \~500 admins with a single directionally-centralizing DAO controlled by two companies and one government while driving up the cost of all information, then it is a badly incentivized (expletive) coin project
+* If the consensus algorithm resolves to a single bit ('true' vs. 'false') and is executed at an instant, the core game is basically Beauty Contest, played by the mob. Golden is a different mob than Wikipedia's, but seems like a really marginal improvement.
+* You cannot be a decentralized KG with so many VC backings. VCs do not invest without profit motive, and the profit motive will corrupt the project much more than the faults Wikipedia has. The is an inherent flaw, and way more complicated than it needs to be.
+* Golden is not Web3. Web3 is about ownership of data, and Golden owns those triples and the entire KG. If they go under, you lose access to your triples.
 
-Golden does not currently have a token for sale and have no ETA.&#x20;
+Compared to OriginTrail, 2500 nodes operating across the globe owned by users such as myself are permissionless, open, neutral, equal and cannot go down. In order to manage humanity's data in a trusted way, the protocol itself must be completely open to decentralized trust, and this is what the core team of OriginTrail is building, alongside Advisors such as Dr. Bob Metcalfe, rather than big VCs with profit motives.&#x20;
 
 ## ESG DAO
 
