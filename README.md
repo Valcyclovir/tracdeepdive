@@ -45,10 +45,10 @@ OriginTrail - the world's first Decentralized Knowledge Graph
 
 ![](<.gitbook/assets/image (4).png>)
 
-#### "Data is such an integral part of our lives and it’s going to continue to become even more and more integral as we move into a more globally digitized world. As such, our mission and our core objectives are only going to become more and more important. Data needs to be trusted, it needs to be easily verifiable, and it needs to all speak the same language. There are so many use cases from this that include everything from supply chain management to certification to identification and right through to true data autonomy for the individual. What’s really needed is the protocol to do all of this, and this is what we provide and what we are continuing to perfect and fine-tune. " [source](https://startup.info/ziga-drev-origintrail/)
+#### "Data is such an integral part of our lives and it’s going to continue to become even more and more integral as we move into a more globally digitized world. As such, our mission and our core objectives are only going to become more and more important. Data needs to be trusted, it needs to be easily verifiable, and it needs to all speak the same language. There are so many use cases from this that include everything from supply chain management to certification to identification and right through to true data autonomy for the individual. What’s really needed is the protocol to do all of this, and this is what we provide and what we are continuing to perfect and fine-tune. "
 
 {% hint style="success" %}
-**"It’s a lot to digest and to understand but the importance and scale of this mission really can’t be understated."**&#x20;
+**"It’s a lot to digest and to understand but the importance and scale of this mission really can’t be understated."** [source](https://startup.info/ziga-drev-origintrail/)
 {% endhint %}
 
 
