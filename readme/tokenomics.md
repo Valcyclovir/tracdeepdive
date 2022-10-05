@@ -38,7 +38,7 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
 
 ## OTP **token**
 
-****![](<../.gitbook/assets/image (4).png>)****
+****![](<../.gitbook/assets/image (4) (1).png>)****
 
 ### **Facts**
 
