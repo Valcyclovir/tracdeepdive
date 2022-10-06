@@ -6,38 +6,36 @@ description: Everything about claiming OTP rewards
 
 ### TABLE OF CONTENT
 
-**\[0] INTRODUCTION**
+[**INTRODUCTION**](otp-claiming-faq.md#0-introduction)****
 
-**\[1] IMPORTANT GENERAL NOTES**
+****[**IMPORTANT GENERAL NOTES**](otp-claiming-faq.md#1-important-general-notes)
 
-**\[2] AM I ELIGIBLE FOR TRAC HOLDER OTP REWARD ?**
+****[**AM I ELIGIBLE FOR TRAC HOLDER OTP REWARD ?**](otp-claiming-faq.md#2-am-i-eligible-for-trac-holder-otp-reward)
 
-**\[3] HOW DO I CLAIM MY V5 NODE RUNNER OTP REWARD ? (ALREADY DISTRIBUTED 2022-08-08)**
+****[**HOW DO I CLAIM MY V5 NODE RUNNER OTP REWARD ? (ALREADY DISTRIBUTED 2022-08-08)**](otp-claiming-faq.md#3-how-do-i-claim-my-v5-node-runner-otp-reward)
 
-**\[4] THE CLAIMING INTERFACE USES METAMASK AND MY FUNDS ARE ELSEWHERE, WHAT DO I DO ?**
+****[**THE CLAIMING INTERFACE USES METAMASK AND MY FUNDS ARE ELSEWHERE, WHAT DO I DO ?**](otp-claiming-faq.md#4-the-claiming-interface-uses-metamask-and-my-funds-are-held-elsewhere-what-do-i-do)
 
-**\[5] HOW TO CLAIM YOUR VESTED AMOUNT OF OTP**
+****[**HOW TO CLAIM YOUR VESTED AMOUNT OF OTP**](otp-claiming-faq.md#5-how-to-claim-your-vested-amount-of-otp)
 
-**\[6] RECOMMENDED POLKADOT WALLETS**
+****[**RECOMMENDED POLKADOT WALLETS**](otp-claiming-faq.md#recommended-polkadot-wallets)
 
-**\[7] HOW TO CHECK YOUR OTP BALANCE**
+****[**HOW TO CHECK YOUR OTP BALANCE**](otp-claiming-faq.md#how-to-check-your-otp-balance)
 
-**\[8] ORIGINTRAIL TIMELINE**
-
-### \[0] INTRODUCTION
+### INTRODUCTION
 
 Hello, this is BRX from the OT community. I will keep updating this page so keep it handy for the future. Claiming OTP is an elaborate process for the average user. Therefore, I made this page to simplify every process. If you have any questions, feel free to @BRX86 on TG and I should be quick to answer your question.
 
 #### Before proceeding, you shoud first read the [**official claiming instructions**](https://medium.com/origintrail/otp-distribution-process-explained-2878a440d9d7)
 
-### \[1] IMPORTANT GENERAL NOTES
+### IMPORTANT GENERAL NOTES
 
 1. **DO NOT USE YOUR LEDGER POLKADOT ADDRESS**, it is not compatible with parachains and you will not be able to move your OTP around. If you already used your Ledger Polkadot Address to claim OTP, you can export the 12-word seed from your ledger to a compatible DOT wallet (see section \[6])
 2. You can use any type of Polkadot wallet address on the application forms (address can start with 1, 5, or a letter) This is valid for both TRAC holder OTP reward and v5 node runner OTP reward forms.
 3. You must keep at least 1 OTP AT ALL TIMES on your OTP wallet address after receiving the initial OTP reward. This allows for your OTP wallet address to remain active and to be able to claim vested amounts later on.
 4. You do NOT need to have 1 DOT on your Polkadot wallet, you only need to keep at least 1 OTP.
 
-### \[2] AM I ELIGIBLE FOR TRAC HOLDER OTP REWARD ?
+### AM I ELIGIBLE FOR TRAC HOLDER OTP REWARD ?
 
 1. You must have held TRAC at the time of the snapshot that was done on May 18th 2022 08:45:22 (Ethereum block 14800965)
 2. You must have held your TRAC on any chain (ETH, Polygon, DAI) but in a SELF CUSTODY WALLET (ledger, trezor, metamask, MEW, other erc20 wallets) meaning you held the private keys.
@@ -49,7 +47,7 @@ Once you are ready, head to [https://parachain.origintrail.io/claim-otp?type=tra
 
 Currently, distributions are done on a weekly basis so check back a week later once you submitted your form !
 
-### \[3] HOW DO I CLAIM MY V5 NODE RUNNER OTP REWARD ?
+### HOW DO I CLAIM MY V5 NODE RUNNER OTP REWARD ?
 
 **ATTENTION: THIS REWARD HAS ALREADY BEEN DISTRIBUTED ON AUGUST 8, 2022**
 
@@ -61,7 +59,7 @@ Currently, distributions are done on a weekly basis so check back a week later o
 
 Once you are ready, head to [https://parachain.origintrail.io/claim-otp?type=node-runners](https://parachain.origintrail.io/claim-otp?type=node-runners) and fill up the form.
 
-### \[4] THE CLAIMING INTERFACE USES METAMASK AND MY FUNDS ARE HELD ELSEWHERE, WHAT DO I DO ?
+### THE CLAIMING INTERFACE USES METAMASK AND MY FUNDS ARE HELD ELSEWHERE, WHAT DO I DO ?
 
 First of all, you are still eligble for the OTP reward. Unfortunately, when we were told we could hold TRAC in any self-custody wallet, we weren't told that it would be much easier if that wallet would be compatible with Metamask. There are NO other ways to claim OTP outside of using Metamask. So anything that can connect to it easily, such as a Ledger of Trezor, would not have to go through the trouble below.
 
@@ -78,7 +76,7 @@ _Note that if you already have Metamask extension installed, the steps below wil
 3. Paste your 12-word seed from step 1 when creating your Metamask account \*\*\* If you want to be 100% safe, you can move your funds away to another safe wallet address before exporting the seed phrase to Metamask. Since the snapshot was already done, you do not need to hold anything on the wallet you are exporting over to Metamask - it can be completely empty and you will still be able to claim your OTP.
 4. Connect your Metamask with the imported wallet to the interface and paste your Polkadot wallet address.
 
-### \[5] HOW TO CLAIM YOUR VESTED AMOUNT OF OTP
+### HOW TO CLAIM YOUR VESTED AMOUNT OF OTP
 
 You will receive 25% of your OTP first, then you can claim the remaining 75% gradually over the course of the parachain lease period of 2 years.
 
@@ -89,7 +87,8 @@ To claim that 75%:
 3. Select the OT Parachain network by clicking on the top left corner, then click Switch
 4. On the Accounts tab, you should see your OTP balance. Click the 3 vertical dots and select unlock vested amount.
 5. Proceed by paying a small OTP gas fee to unlock your current unlockable balance
-6. \[6] RECOMMENDED POLKADOT WALLETS
+
+### RECOMMENDED POLKADOT WALLETS
 
 Only a few wallets are directly compatible with [https://polkadot.js.org](https://polkadot.js.org/)
 
@@ -105,7 +104,7 @@ polkadot js extension: [https://polkadot.js.org/extension/](https://polkadot.js.
 
 Fearless wallet: [https://fearlesswallet.io/](https://fearlesswallet.io/)
 
-### \[7] HOW TO CHECK YOUR OTP BALANCE
+### HOW TO CHECK YOUR OTP BALANCE
 
 In order to check your OTP balance on browser, go to:
 
