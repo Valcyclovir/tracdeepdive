@@ -4,7 +4,7 @@ description: Thank you for your support !
 
 # Donations
 
-As we all know, maintaining a website requires time, dedication and resources. If you feel like tracdeepdive helped you in anyway and want to support the small team behind it, feel free to donate a small sum!
+As we all know, maintaining a website requires time, dedication and resources. If you feel like tracdeepdive helped you in anyway and want to support the small team behind it, feel free to donate a small!
 
 {% hint style="success" %}
 **EVM:** 0x350313d0B565ea8e1eC95249644E907EA1c2270f
