@@ -41,7 +41,7 @@
 * [Semantic Web](readme/semantic-web.md)
 * [OriginTrail V6](readme/origintrail-v6.md)
 * [Timeline](guides-and-tools/origintrail-timeline.md)
-* [Guides and Tools](guides-and-tools/README.md)
+* [Guides](guides-and-tools/README.md)
   * [Definitions](guides-and-tools/definitions.md)
   * [Team AMA Summaries](guides-and-tools/team-ama-summaries.md)
   * [OriginTrail's Marketing](guides-and-tools/origintrails-marketing.md)
