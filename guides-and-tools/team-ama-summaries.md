@@ -6,7 +6,9 @@ description: >-
 
 # Team AMA Summaries
 
-### **September 7, 2022: Discord AMA**
+
+
+**September 7, 2022: Discord AMA**
 
 * [x] &#x20;The team is working on a **Universal Resolver** for the UALs so that all applications and browsers will be able to understand it
   * This is similar to a **Web3 DNS resolver** and it's completely **in line with GS1 Digital Link standard**
@@ -86,7 +88,7 @@ Possible misuse and manipulations are an important topic that are unlikely to ha
   * **System runners** to run DKG v6 nodes, run OTP collators, build applications with the DKG and UALs with SDKs
   * **Asset consumers** to search Web3 for verifiable assets - social media posts, art, NFTs and real world assets published on the DKG and purchase UALs and own their linked assets
 
-### **August 16, 2022: Twitter Space**
+**August 16, 2022: Twitter Space**
 
 * [ ] &#x20;**DKG Mainnet Launch on September 8, 2022** after the completion of the first TRAC Teleportation Batch
 * [ ] &#x20;**DKG BETA Stage 2** and **Magnify Project** begin August 19
