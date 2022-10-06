@@ -49,7 +49,7 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
   * **75%** of the distribution is **unlocked progressively over the course of the 2 years**
 * **5% inflation rate** **per year** **up to 1B max supply**
 
-<figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-otp-and-trac@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 The OTP layer-1 token is the OriginTrail Parachain. It is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas tokens for network transactions in the past iterations of the DKG, OTP will be used to pay for gas on the OriginTrail Parachain, allowing to keep more value within the OriginTrail ecosystem. OTP is also a reward token that **incentivizes growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (layer-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (layer-0). The DKG (layer-2), powered solely by TRAC, is interoperable and therefore not exclusively linked to the parachain – it is still fully functional on Gnosis, Polygon and Ethereum. However, on top of receiving OTP reward tokens by using the OT Parachain to interact with the DKG, the new interation of the DKG v6 will be exclusive to OriginTrail Parachain for an indefinite amount of time. This will make sure future network activity will remain on the OT Parachain.&#x20;
 
