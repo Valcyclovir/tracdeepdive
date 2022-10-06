@@ -15,5 +15,5 @@ description: >-
 {% hint style="info" %}
 #### This concludes the deep dive session.&#x20;
 
-#### For further updates, I suggest following my [origintrail-timeline.md](../guides-and-tools/origintrail-timeline.md "mention").&#x20;
+#### For further updates, I suggest following my [origintrail-timeline.md](../origintrail-timeline.md "mention").&#x20;
 {% endhint %}
