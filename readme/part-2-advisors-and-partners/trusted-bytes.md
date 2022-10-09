@@ -11,5 +11,3 @@ Trusted Bytes is an [Innovate UK](https://www.ukri.org/councils/innovate-uk/) pr
 Having a strong focus on interoperability, the solution is one of the first to utilize the novel GS1 EPCIS 2.0 standard for supply chain event visibility, along with RDF and SPARQL standards native to the OriginTrail Decentralized Knowledge Graph.
 
 {% embed url="https://twitter.com/TraceLabsHQ/status/1537448232250355713?s=20&t=8q5A2odFUpvERv6lfdQT1g" %}
-
-> Dan Purtell commented: “We’re delighted to be a part of this initiative which aims to drive productivity within UK and international supply chains. Digital transformation is changing the way organizations operate and we’re confident that, by bringing together our expertise in supply chain security and trade compliance with the latest technology, we can help improve transparency, increase resilience and enhance long-term sustainability.”
