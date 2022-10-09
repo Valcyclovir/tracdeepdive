@@ -12,8 +12,4 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
-For a deeper dive into this topic, community member IOTB presented a Twitter thread.&#x20;
-
-{% embed url="https://twitter.com/_i_o_t_b/status/1473368359215394817" %}
-
 &#x20;NGI ONTOCHAIN has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N° 957338.

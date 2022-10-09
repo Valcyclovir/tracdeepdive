@@ -12,7 +12,7 @@ OriginTrail is an open protocol, basically the combination of two key technologi
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 [Polkadot ](https://polkadot.network/)(layer-0) unites and secures a growing ecosystem of specialized blockchains called parachains. [Parachains ](https://parachains.info/)are individual layer-1 blockchains that run in parallel on Polkadot, connected to the Polkadot Relay Chain and are won through [auctions](https://parachains.info/auctions). The key benefits of running a parachain on Polkadot is shared security, scalability, interoperability and governance.  Polkadot’s cross-chain composability allows any type of data or asset to be sent between parachains, opening up a host of new use cases and applications.&#x20;
 
