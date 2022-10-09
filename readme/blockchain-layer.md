@@ -28,7 +28,7 @@ Once the new OriginTrail protocol goes live, we expect most network activity to 
 
 ## **Other Blockchain Implementations**
 
-TRAC remains a ERC-20 token that’s available on the Ethereum network. However, due to high network fees, network activity moved towards Gnosis and Polygon chains, and as of September 2022, most network activity are expected to migrate towards OT Parachain due to the new v6 iteration being exclusive to the OT Parachain for the time being.&#x20;
+TRAC remains a ERC-20 token that’s available on the Ethereum network. However, due to high network fees, network activity moved towards Gnosis and Polygon chains, and as of September 2022, network activities are expected on OT Parachain due to being a blockchain tailored to the protocol.&#x20;
 
 The team is currently [Teleporting TRAC](https://teleport.origintrail.io/) from the Ethereum Blockchain to the OT Parachain by locking ERC-20 TRAC in a smart contract and minting OT Parachain native TRAC to be used for network activities within the DOT ecosystem. A complete [trac-teleportation-faq.md](../guides-and-tools/trac-teleportation-faq.md "mention") regarding the Teleportation process is available.&#x20;
 
