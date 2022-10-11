@@ -2,6 +2,8 @@
 description: >-
   All-in-one OriginTrail Timeline that sums up and follows every recent, ongoing
   and future events
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1107.938944463608
 ---
 
 # Timeline

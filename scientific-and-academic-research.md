@@ -1,5 +1,7 @@
 ---
 description: Research papers by the Chairman of Trace Alliance
+cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1063.2718178682303
 ---
 
 # Scientific and Academic Research

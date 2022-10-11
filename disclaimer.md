@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -999.1842014487754
+---
+
 # Disclaimer
 
 Tracdeepdive is maintained by [BRX](https://twitter.com/otnoderunner), OriginTrail community admin. This information hub is intended for educational purposes only, and does not constitute a financial advice.

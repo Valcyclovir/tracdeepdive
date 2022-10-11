@@ -1,5 +1,7 @@
 ---
 description: Learn about the hybrid TRAC/OTP token model
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -913.7340462228356
 ---
 
 # Tokenomics

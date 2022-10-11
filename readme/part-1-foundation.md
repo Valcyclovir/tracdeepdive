@@ -1,7 +1,7 @@
 ---
 description: The core of OriginTrail
-cover: https://origintrail.io/images/hero-image-background.svg
-coverY: 455.1951621770203
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1069.0979648154537
 ---
 
 # Foundation

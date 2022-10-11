@@ -1,5 +1,7 @@
 ---
 description: Latest news about OriginTrail
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -995.3001034839601
 ---
 
 # News & Updates

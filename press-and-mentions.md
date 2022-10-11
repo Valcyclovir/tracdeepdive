@@ -1,5 +1,7 @@
 ---
 description: Notable Press mentions of OriginTrail
+cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -994.3290789927562
 ---
 
 # Press & Mentions

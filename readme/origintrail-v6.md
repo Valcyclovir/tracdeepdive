@@ -2,6 +2,8 @@
 description: >-
   The OriginTrail DKG v6 is the newest version of OriginTrail, which introduces
   various improvements to the existing OriginTrail DKG
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -971.0244912038635
 ---
 
 # OriginTrail V6

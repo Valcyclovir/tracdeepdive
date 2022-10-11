@@ -1,7 +1,7 @@
 ---
 description: A few important events with our partners from the past
-cover: https://origintrail.io/images/hero-image-background.svg
-coverY: -463.1115997800989
+cover: ../../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1012.7785443256296
 ---
 
 # Past Events

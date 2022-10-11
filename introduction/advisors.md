@@ -1,5 +1,7 @@
 ---
 description: Advisory Board
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1052.590548464988
 ---
 
 # Advisors

@@ -1,5 +1,7 @@
 ---
 description: Blockchain implementations
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -826.3418420144877
 ---
 
 # Blockchain Layer

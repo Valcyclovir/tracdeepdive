@@ -1,5 +1,7 @@
 ---
 description: The third generation of the World Wide Web
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -906.9368747844084
 ---
 
 # Semantic Web

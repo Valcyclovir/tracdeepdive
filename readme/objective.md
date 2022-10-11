@@ -1,5 +1,7 @@
 ---
 description: Why is this solution needed ?
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -967.140393239048
 ---
 
 # Motivation

@@ -1,5 +1,7 @@
 ---
 description: Here is a list of important resources about OriginTrail
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1030.2569851672993
 ---
 
 # Additional Resources

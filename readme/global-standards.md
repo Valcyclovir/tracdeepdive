@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -922.4732666436703
+---
+
 # Global Standards
 
 #### **Open Standards (GS1 EPCIS/CBV and W3C integration)**

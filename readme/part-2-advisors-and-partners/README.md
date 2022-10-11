@@ -1,7 +1,7 @@
 ---
 description: A look at our collaboration with different partners
-cover: https://origintrail.io/images/hero-image-background.svg
-coverY: 26.124244090159436
+cover: ../../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1003.0682994135909
 ---
 
 # Partners

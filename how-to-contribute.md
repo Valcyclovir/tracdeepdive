@@ -1,5 +1,7 @@
 ---
 description: Any help to maintain this website is appreciated !
+cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1027.3439116936875
 ---
 
 # How to Contribute

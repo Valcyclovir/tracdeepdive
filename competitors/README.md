@@ -1,5 +1,7 @@
 ---
 description: There are no competitors, only collaborators
+cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -1191.4470507071405
 ---
 
 # Competitors

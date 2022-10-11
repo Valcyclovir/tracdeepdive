@@ -1,5 +1,7 @@
 ---
 description: Thank you for your support !
+cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -962.2852707830287
 ---
 
 # Donations
