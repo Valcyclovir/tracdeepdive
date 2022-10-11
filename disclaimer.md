@@ -16,3 +16,5 @@ The purpose of Tracdeepdive is to be the central hub to all information related 
 Special Thanks to: [LuKu](https://twitter.com/mucke121), [K'walla](https://twitter.com/SmoothbrainL), [Shys](https://twitter.com/shys70), [Hottogo](https://twitter.com/mrhottogo), [IOTB](https://twitter.com/\_i\_o\_t\_b), [Milian](https://twitter.com/MilianIstatkov), [Amos](https://twitter.com/TriniZone), [Mr. Mountain](https://twitter.com/Mr\_\_Mountain), [Kitty Tamatoa](https://twitter.com/KittyTamatoa) and all other #tracers for helping put this together.&#x20;
 
 I sincerely hope that you appreciate the effort put into making Tracdeepdive and that you have learned something valuable.
+
+<figure><img src=".gitbook/assets/OT_Deep_Dive_4.jpg" alt=""><figcaption></figcaption></figure>
