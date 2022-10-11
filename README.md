@@ -2,8 +2,8 @@
 description: >-
   Tracdeepdive is an all-in-one central hub linking to all pertinent sources and
   explaining OriginTrail and its utility token, TRAC, to the general public
-cover: https://origintrail.io/images/hero-image-background.svg
-coverY: 611.0956707642972
+cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -667.0938254570542
 ---
 
 # Introduction

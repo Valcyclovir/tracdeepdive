@@ -12,6 +12,6 @@ Trace Alliance works like a marketplace that connects companies that want to use
 
 ## Members
 
-![Parity Technologies](https://alliance.origintrail.io/storage/enterprises-ta/September2020/IrVBlsIU7lSJ6iYLRo6C.jpg)![](../.gitbook/assets/image.png)![Ivan on Tech Academy](https://alliance.origintrail.io/storage/service-providers-ta/August2020/hamsZ0pzC8cpw60SW7Hb.png)![EVRYTHNG](https://alliance.origintrail.io/storage/service-providers-ta/September2019/FkVi6iHjJvTggldTdloR.jpg)![EMURGO](https://alliance.origintrail.io/storage/service-providers-ta/June2020/CdgTytCPt5wmjp0q9e6N.jpg)
+![Parity Technologies](https://alliance.origintrail.io/storage/enterprises-ta/September2020/IrVBlsIU7lSJ6iYLRo6C.jpg)![](<../.gitbook/assets/image (8).png>)![Ivan on Tech Academy](https://alliance.origintrail.io/storage/service-providers-ta/August2020/hamsZ0pzC8cpw60SW7Hb.png)![EVRYTHNG](https://alliance.origintrail.io/storage/service-providers-ta/September2019/FkVi6iHjJvTggldTdloR.jpg)![EMURGO](https://alliance.origintrail.io/storage/service-providers-ta/June2020/CdgTytCPt5wmjp0q9e6N.jpg)
 
 Click [**here**](https://alliance.origintrail.io/members) for the list of all members.
