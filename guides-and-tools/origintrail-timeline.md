@@ -10,7 +10,7 @@ coverY: -1107.938944463608
 
 ## **STATUS REPORT:** [![#008000](https://camo.githubusercontent.com/53a80492bcf80d4918b684bb1a6f3e1a7791b9f9eb3b4790d339b7ef76c4b7d6/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f3030383030302f3030383030302e706e67)](https://camo.githubusercontent.com/53a80492bcf80d4918b684bb1a6f3e1a7791b9f9eb3b4790d339b7ef76c4b7d6/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f3030383030302f3030383030302e706e67) `On schedule`
 
-* **Teleportation Batch 1,2,3 completed**
+* **Teleportation Batch 1-4 completed**
 * **The Mainnet Launches after stage 2 of testnet (current stage)**
 
 ### **Legend:**
@@ -31,7 +31,7 @@ There are currently **4 ongoing stages**:
 
 ### **IMPORTANT DEADLINES:**
 
-* [ ] &#x20;October 19, 3PM UTC: [TRAC Teleportation](https://teleport.origintrail.io/) batch #4 /15 with an OTP bounty of 1 OTP per 50 TRAC
+* [ ] &#x20;November 2, 3PM UTC: [TRAC Teleportation](https://teleport.origintrail.io/) batch #5 /15 with an OTP bounty of 1 OTP per 60 TRAC
 
 ### **FUTURE EVENTS:**
 
