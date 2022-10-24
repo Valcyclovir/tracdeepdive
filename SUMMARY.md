@@ -45,7 +45,7 @@
   * [Definitions](guides-and-tools/definitions.md)
   * [Team AMA Summaries](guides-and-tools/team-ama-summaries.md)
   * [OriginTrail's Marketing](guides-and-tools/origintrails-marketing.md)
-  * [TRAC Teleportation FAQ](guides-and-tools/trac-teleportation-faq.md)
+  * [Teleportation Guide](guides-and-tools/trac-teleportation-faq.md)
   * [OTP Claiming FAQ](guides-and-tools/otp-claiming-faq.md)
 * [Additional Resources](additional-resources/README.md)
   * [Trinizone](additional-resources/trinizone.md)

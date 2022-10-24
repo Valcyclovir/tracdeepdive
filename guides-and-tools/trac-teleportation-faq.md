@@ -1,8 +1,17 @@
 ---
-description: This is an elaborate FAQ covering everything related to Teleporting
+description: This is an elaborate Guide and FAQ covering everything related to Teleporting
 ---
 
-# TRAC Teleportation FAQ
+# Teleportation Guide
+
+## Instructions
+
+1. Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) **** website. Your TRAC will leave your wallet and be locked on the smart contract until further notice;
+2. In order to receive OTP bounty, you need to first complete the short KYC on the link above;
+3. Then, visit [**this**](https://teleport.origintrail.io/teleport-reward-claim) website and fill up the form. Make sure you use the same EVM (Ethereum) wallet you used to teleport TRAC, and use a self-custody substrate (Polkadot) wallet of your choice to obtain your OTP bounty. The bounty will be sent out shortly;
+4. Next, you need to visit [**this**](https://parachain.origintrail.io/parachain-account-mapping) interface to map your EVM wallet to your substrate wallet in order to receive OTP-native TRAC once it's ready. The mapping is permanent so make sure you are using the right adresses to link.&#x20;
+
+****
 
 **Many of you in the community have asked the following questions regarding TRAC teleportation, and I will try to answer them here in one place:**
 
