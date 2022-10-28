@@ -40,34 +40,12 @@ Favorable situations going forward:
 * New partnerships with other parachains to look forward to
 * OTP Community funds and governance / voting. We will be able to put marketing into our own hands with OTP funding
 
-TRAC is not easy to sell - it is very complex just like TCP/IP protocols. However, it will become a core pillar of Web3. Bob Metcalfe said it's something that's extremely interesting only to a select few due to the complexity.&#x20;
+TRAC is not easy to sell - it is very complex just like TCP/IP protocols. However, it will become a core pillar of Web3. Bob Metcalfe said it's something that's extremely interesting only to a select few due to the complexity. Tracdeepdive is exactly the type of resource I am trying to build to make things easier to digest for new investors. However, profitability is key to said investors. If they see real profit, they'll start asking questions about the project and this is where they will find all info and external links.
 
 {% hint style="success" %}
-The best way to increase retail interest is through yield % backed by real tangible assets. We must be able to show high network activity and node profitability.&#x20;
+The best way to increase retail interest is through yield % backed by real tangible assets. We must be able to show high network activity and node profitability, as well as being able to explain how these profits are backed by actual real world usage.
 {% endhint %}
 
-Eventually, they will notice keyword staking, graph contracts, all kinds of stuff they've never seen before that will peak their curiosity, but it HAS to start with yield and good network numbers.
+In short, the best retail marketing strategy that will market itself is having high network activity and great node returns, and the only way to have great node return is through business to business adoption - exactly what Trace Labs is focused on.
 
-Tracdeepdive.info hasn't been updated for a while, but it is exactly the type of resource I am trying to build to make things easier to digest for new investors. It's still a big pile of mess right now and I have a lot to rearrange, and I will do it in due time. However, people who only think about quick money or staking yield won't bother reading that stuff, but if people see real profit, they'll start asking questions about the project and this is where they will find all info and external links.
-
-TLDR;
-
-The best marketing that will market itself is having high network activity and great node returns, and the only way to have great node return is through business to business adoption, Trace Labs is on it.
-
-Bob likes money, Bob wants to invest in a token with high yield % staking and good potential, Bob sees DKG v6 otnode has good yield %, Bob makes money, but Bob wants money to be safe and not fake, Bob reads tracdeepdive and finds out about all these real assets, Bob is excite, Bob is a new tracer.
-
-Update 2022-08-31 - Some new Knowledge Graph companies are starting to surface and try to turn web2 assets into web3, namely Golden, Scope, ESG Dao.
-
-We just gotta keep in mind that there's no such thing as competition to OT, only potential collaboration. Web3 KG is something completely new and there could be trillions gazillions web2 assets turned into web3, room for a LOT of different parties.
-
-What we've seen in the space so far working with KG and Web3 is companies like Golden, Scope, ESG Dao and they are all "starters", especially Scope and ESG Dao. What they all have in common is their business model - a subscription based model to access / publish data, with VCs in the back funding them and giving them connections to companies publishing in their KGs. They are what I would call a priorietary (centralized) "Web3" KG. I say "Web3" because users don't really own their data. If either one of these companies shut down their platform, you can say goodbye to your assets. They aren't as bad as web2 data silos since they do have interoperability, but everything revolves around their platform and their business model will make sure you stay with them and keep paying a sub.
-
-What OT does on the other hand is completely separating Trace Labs from OriginTrail, they basically chose the most legit and hardest path to build a decentralized KG, the KG of all KGs that cannot just go offline unless all 2.2k+ nodes shut down at once.
-
-If Trace Labs went the same way, Magnify would have a subscription model like this: FREE tier: Users can query up to 500 queries a month
-
-Basic tier: 500+ queries 1000 publishes 100k api calls
-
-Pro tier: 1000+ queries 5000 publishes 500k api calls
-
-Rather than going to proprietary and subscription based route, Magnify will allow ANYONE to publish / query / make api calls infinitely as long as you have OTP / TRAC for each transaction. This is the main difference between the business models and how OT is still the one that's the most decentralized, transparent, neutral of all.
+Bob likes money, Bob wants to invest in a token with good staking retuns, Bob notices DKG v6 nodes have good yield %, Bob makes money, but Bob wants money to be safe and not minted, Bob reads tracdeepdive and finds out about all these assets backed by real adoption, Bob is a new tracer.
