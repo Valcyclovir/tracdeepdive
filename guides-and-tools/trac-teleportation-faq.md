@@ -4,7 +4,7 @@ description: This is an elaborate Guide and FAQ covering everything related to T
 
 # Teleportation Guide
 
-## Instructions
+## Teleport Instructions
 
 1. Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) **** website. Make sure you read the steps thoroughly. Your TRAC will leave your wallet and be locked on the smart contract until further notice;
 2. In order to receive OTP bounty, you need to first complete the short KYC on the link above;
@@ -18,11 +18,9 @@ Here is a short video by the OriginTrail team to help you with mapping your wall
 
 ## Teleport FAQ
 
-**Many of you in the community have asked the following questions regarding TRAC teleportation, and I will try to answer them here in one place:**
+**What does Teleporting TRAC mean exactly ?**
 
-#### **What does Teleporting TRAC mean exactly ?**
-
-Teleporting TRAC simply means moving your ERC-20 TRAC from Ethereum blockchain to OriginTrail Parachain in order to be used on the DKG v6 for many different applications - check illustration [here](https://teleport.origintrail.io/).
+Teleporting TRAC involves locking your ERC-20 TRAC on Ethereum blockchain in a Smart Contract in order to mint the equivalent amount of TRAC on OriginTrail Parachain to be used on the DKG v6 for many different applications - check illustration [here](https://teleport.origintrail.io/) and [OT-RFC-14](https://medium.com/origintrail/ot-rfc-14-dkg-v6-trac-tokenomics-886ff2b6b8cb?source=rss-fecf7416927e------2) for all use cases.
 
 There was an elaborate RFC that was discussed in details [here](https://github.com/OriginTrail/OT-RFC-repository/issues/16). The revised version of the RFC was approved and shown [here](https://medium.com/origintrail/ot-rfc-12-v2-teleporting-trac-to-the-origintrail-parachain-on-polkadot-de535a9d2693)
 

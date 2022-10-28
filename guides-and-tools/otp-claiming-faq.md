@@ -4,8 +4,6 @@ description: Everything about claiming OTP rewards
 
 # OTP Claiming FAQ
 
-### This guide is expired as of September 2022 since the OTP claiming process is completed. I hope it was helpful while it lasted!
-
 ### TABLE OF CONTENT
 
 [**INTRODUCTION**](otp-claiming-faq.md#0-introduction)****
