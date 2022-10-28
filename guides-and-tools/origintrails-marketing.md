@@ -40,17 +40,13 @@ Favorable situations going forward:
 * New partnerships with other parachains to look forward to
 * OTP Community funds and governance / voting. We will be able to put marketing into our own hands with OTP funding
 
-Going forward, we have the power to put marketing into our own hands with OTP. Eventually, we will have governance and voting powers to see how OTP is used, and one of the biggest gripe of the community is a lack of marketing. I have given an example of how we can use this OTP fund to raise awareness to OTP and TRAC.
+TRAC is not easy to sell - it is very complex just like TCP/IP protocols. However, it will become a core pillar of Web3. Bob Metcalfe said it's something that's extremely interesting only to a select few due to the complexity.&#x20;
 
-Example: You have content creators who post the link of their marketing product and you have OTP holders who stakes on the marketing platform who gets to decide how much OTP each content creator gets for their work. Each content will be subject to several evaluations, such as their follower count, amount of views, content's overall quality, and so on.
+{% hint style="success" %}
+The best way to increase retail interest is through yield % backed by real tangible assets. We must be able to show high network activity and node profitability.&#x20;
+{% endhint %}
 
-This is one of many examples what this OTP Community funds can do. The team will keep marketing their product to developpers (Polkadot, parachains, Knowledge Graph Conference), they will keep on developping the DKG and they will keep onboarding new clients. Nothing we say will change Trace Lab's business model. If you want change, it's time we take matters into our own hands.
-
-Currently, I don't believe it's the right time to market TRAC / OTP to new retail investors. As much as the team says we have TONS of adoption and MILLIONS of TGS, our network activity does not reflect that, YET. Without knowing what's brewing in the pipelines, new investors could see this as a red flag and they won't look back.
-
-The team is doing what they can to increase that number and t increase the efficiency of the DKG (from v5 to v6, we are talking 500x performance). New investors will come when they see profitable nodes, and when they research to see if these nodes are profitable from just minting and fake adoption, they will find out they're actually holding pharma assets, railway assets, halal food assets and that will blow their mind. Retailers like to see yield %, they like to see network activity, when things are profitable, they will come in naturally, and if they don't, then more money for us node runners.
-
-TRAC is not something easy to sell, it's very complex and to a certain point "boring", just like infrastructure TCP/IP stuff - it will become the core infrastructure of Web3 - but like Bob Metcalfe said it himself, it's something that's extremely interesting only to a select few due to the complexity. The only way to reach retail is through yield % backed by real tangible assets. Eventually, they will notice keyword staking, graph contracts, all kinds of stuff they've never seen before that will peak their curiosity, but it HAS to start with yield and good network numbers.
+Eventually, they will notice keyword staking, graph contracts, all kinds of stuff they've never seen before that will peak their curiosity, but it HAS to start with yield and good network numbers.
 
 Tracdeepdive.info hasn't been updated for a while, but it is exactly the type of resource I am trying to build to make things easier to digest for new investors. It's still a big pile of mess right now and I have a lot to rearrange, and I will do it in due time. However, people who only think about quick money or staking yield won't bother reading that stuff, but if people see real profit, they'll start asking questions about the project and this is where they will find all info and external links.
 
