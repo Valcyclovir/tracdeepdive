@@ -4,29 +4,41 @@ description: My personal take on OriginTrail's marketing strategy
 
 # OriginTrail's Marketing
 
-This is a personal take on OriginTrail's marketing from BRX from the TG community and @otnoderunner on Twitter.
+This is a personal take on OriginTrail's marketing strategy from BRX, OriginTrail Community Admin. There's been a lot of talk about the team's marketing, or the lack thereof, and I want to clarify a few things with the community.
 
-There's been a lot of talk about the team's marketing and I want to clarify a few things. I think most people saw it as a huge letdown when Ziga said they wouldn't put OriginTrail on big stadiums.
+**Trace Labs** is a for-profit organization and the core development team of OriginTrail. Their business model is to market their platforms and/or solutions to other businesses in a B2B (business to business) fashion.&#x20;
 
-First, let me ask you this - are you into this project so we can show our logo on NBA or hockey stadiums ? Partnership with UFC ? Is this how you want our treasury to be spent ? If the answer is yes, you're either having wrong expectations of this project or there's a general misunderstanding somewhere.
+{% hint style="info" %}
+**Trace Labs does not have any legal obligations towards the retail community**. However, the core values of the team (**neutrality, usability, inclusiveness**) are very much aligned with providing a valuable open network to the community.&#x20;
+{% endhint %}
 
-One of the reasons why we see so many useless shitcoins in the top 100 is simple - Venture Capital fundings with pre-sales. Just follow the money, you'll see a lot of them have deep pockets, or deep connections, or pre-sales where VCs scoop up coins for cheap and want to keep their investment high.
+In fact, Trace Labs has a valid interest to see TRAC rise - they do hold about 100M+ in TRAC funds in the treasury for the DKG's development. The team has also built the project's tokenomics around network effects. In other words, the more the DKG is used, the more TRAC is valuable.&#x20;
 
-The "problem" with OT is a lack of pre-sale to such Venture Capitals. The team behind OT also came straight from College, with very little connections to big funds. There's only one Venture Capital we can think of - AlphaSigmaFund. However, due to the nature of what Trace Labs is trying to build, it would be totally against OriginTrail as a project to have a huge Venture Cap pre-sale.
+{% hint style="success" %}
+The place where the community's interests are aligned with Trace Labs' is a **rising network activity, which in turn translates to a higher token value**.
+{% endhint %}
 
-This is the chicken and egg dilemma, and a vicious cycle of low amount of VCs, low trading volume, price doesn't have much support, low general interest of speculators, hence we follow the general crypto market.
+Trace Labs needs other businesses to adopt their solutions to remain profitable, and therefore their marketing funds will prioritize that. At the same time, in order to persuade businesses to onboard their IT systems on the DKG, OriginTrail must remain fully neutral, compliant and open source. Showing our logo on NBA or hockey stadiums, partnerships with UFC are counterproductive for the scope of this project.&#x20;
 
-Now what's going to break this cycle ? To start a new cycle, we need a price increase purely driven by tokenomics. In other words, the best retail marketing tactic is having actual activity on the network and profitable nodes.
+Another big hurdle to OriginTrail is a lack of liquidity, daily trade volume and exchange exposures. There is a clear relation between tokens being easily listed on all tier 1 exchanges, having high trading volume and sustaining a high price and the involvement of VCs, Venture Capital, in a pay-to-play environment. OriginTrail did not have any pre-sales to Venture Capitals and will not pay to be listed on exchanges - it is against the neutrality of the project.&#x20;
+
+{% hint style="warning" %}
+This is the chicken and egg dilemma - a vicious cycle of no VC support, low trading volume, no token price support, low retail marketing and a lack of speculators.&#x20;
+{% endhint %}
+
+How do we break this cycle ? **A price increase purely driven by tokenomics**.&#x20;
+
+{% hint style="success" %}
+In other words, **the best retail marketing tactic is having high network activity and profitable nodes.**
+{% endhint %}
 
 Favorable situations going forward:
 
-* Polkadot is one of the most VC funded project in the space, having a parachain is a blessing
+* Polkadot is one of the most VC funded project in the space
 * Many locked-in partners who will be using the DKG (Swiss railways, BSI/SCAN/Aidtrust, OneAgrix, Ontochain, ...)
-* V5 only had physical assets in the ODN, V6 will bring digital assets too (NFTs, DeFi)
+* V5 only had physical assets in the ODN, V6 will bring digital assets too (NFTs, DeFi) and a whole new set of tokenomics
 * New partnerships with other parachains to look forward to
 * OTP Community funds and governance / voting. We will be able to put marketing into our own hands with OTP funding
-
-Reminder - Trace Labs is a for-profit organization behind the DKG. They are marketing their product to businesses to use their Trace Labs platforms and solutions. Trace Labs does not work for the community and does not owe us any marketing whatsoever. They have a valid interest to see TRAC rise (they do hold about 100M+ in TRAC funds in the treasury for the DKG's development) and they have built the project's tokenomics around that - network effects - the more the DKG is used, the more TRAC is valuable. The place where our interest is aligned with Trace Labs is a rising token price, but the way we go at it is totally different. Trace Labs require other businesses to adopt their solutions to remain solvent, and marketing funds will prioritize that. We retail investors want exposure to OriginTrail (TRAC) alone in any form possible to boost token price.
 
 Going forward, we have the power to put marketing into our own hands with OTP. Eventually, we will have governance and voting powers to see how OTP is used, and one of the biggest gripe of the community is a lack of marketing. I have given an example of how we can use this OTP fund to raise awareness to OTP and TRAC.
 
