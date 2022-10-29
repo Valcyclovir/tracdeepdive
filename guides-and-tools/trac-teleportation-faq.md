@@ -44,9 +44,32 @@ Here is a short video by the OriginTrail team to help you with mapping your wall
 
 Most holders use a hardware (Ledger, Trezor) wallet to store their TRAC to increase security. That secure cold wallet will most likely be the initial point for teleporting TRAC. The process is very safe so far despite having to lock your TRAC on the Teleport smart contract. As long as you hold the keys and hardware wallet that contained your TRAC, you can safely assume that it will be returned back to you once the teleportation is complete.&#x20;
 
-However, once you map a substrate hot wallet (Polkadot JS, Talisman) to your hardware wallet, any hackers who get a hold of your substrate wallet seeds will be able to steal your TRAC or OTP on OT Parachain. In other words, you lose the protection of your hardware wallet the moment mapping is done.&#x20;
+However, once you map a substrate hot wallet (Polkadot JS, Talisman) to your hardware wallet, you complete lose the security edge of your hardware device. The substrate wallet is a hot wallet, just like MetaMask, and any hacker who gets a hold of your substrate wallet seeds will be able to steal all your TRAC or OTP on OT Parachain (other assets held on other chains will not be affected).&#x20;
 
-To mitigate those risks and reduce&#x20;
+To mitigate mapping risks, I have written a small guide below that uses a bootable live USB solution. A bootable live USB is a clean OS environment that you can safely work on, knowing that all files and logs saved are temporary and discarded the moment you reboot your computer. Since mapping allows both EVM and substrate wallets to perform any transactions for both TRAC and OTP on the OT Parachain, you will only need to have one of the two wallets available handily to do any tasks. We will choose our hardware wallet for that as the safer option.
+
+#### Prerequisites:
+
+* 16GB USB drive to create the live OS environment
+* Download an ISO image to be installed on that USB Stick. A few good examples include [**EndeavourOS**](https://endeavouros.com/latest-release/) **** or [**Lubuntu**](https://lubuntu.me/downloads/)
+* A tool to create a bootable USB drive such as [**Rufus**](https://rufus.ie/en/) or [**Etcher**](https://www.balena.io/etcher/)
+* A good Internet connection to your PC
+* A way to send at least 2 OTP to your live OS environment. You will need another PC or a mobile wallet such as Fearless app to make this transaction.&#x20;
+
+#### Instructions:
+
+1. Create a bootable USB drive with the tools mentioned above
+2. Restart your PC and boot from your USB drive. Depending on your PC, you need to either press F8 or F12 while restarting to load the boot menu.
+3. Select Boot EndeavourOS Default or Start Lubuntu. You are now accessing your Live OS environment from within your USB drive.&#x20;
+4. To mitigate all risks, visit the least amount of websites possible. Open up FireFox, then Settings, Extensions.
+5. Download **Metamask** and **polkadot{.js} extension**
+6. Create a new account with MetaMask, you do not need to write down the backup seeds. Then, connect your hardware wallet to Metamask.
+7. On the polkadot js extension, create a new wallet, and **write down the 12-word seed phrase and your public wallet**. This is a very important step as you will no longer have easy access to this wallet once you restart your PC.&#x20;
+8. Send at least 2 OTP to your newly generated substrate (Polkadot) wallet.
+9. Map your EVM to your substrate wallet by using the mapping website: [https://parachain.origintrail.io/parachain-account-mapping](https://parachain.origintrail.io/parachain-account-mapping)
+10. Once both transactions are complete, double check that you have written the 12-word seed phrase for your substrate wallet correctly and restart your PC.&#x20;
+
+Done! This is the most secure way to safeguard your substrate hot wallet, while using your hardware wallet for day-to-day transactions on OT Parachain.
 
 ## FAQ
 
