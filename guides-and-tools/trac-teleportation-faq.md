@@ -61,7 +61,7 @@ To mitigate mapping risks, I have written a small guide below that uses a **boot
 #### Prerequisites:
 
 * 16GB USB drive to create the live OS environment
-* Download an ISO image to be installed on that USB Stick. Good examples include [**EndeavourOS**](https://endeavouros.com/latest-release/) **** or [**Lubuntu**](https://lubuntu.me/downloads/)
+* Download an **ISO image** to be installed on that USB Stick. Good examples include [**EndeavourOS**](https://endeavouros.com/latest-release/) **** or [**Lubuntu**](https://lubuntu.me/downloads/)
 * A tool to create a bootable USB drive such as [**Rufus**](https://rufus.ie/en/) or [**Etcher**](https://www.balena.io/etcher/)
 * A good Internet connection to your PC
 * A way to send at least 2 OTP to your live OS environment. You will need another PC or a mobile wallet such as Fearless app to make this transaction. Click [**here** ](trac-teleportation-faq.md#undefined)if you are unable to meet this requirement.
