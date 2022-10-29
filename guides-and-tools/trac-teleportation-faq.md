@@ -6,23 +6,47 @@ description: This is an elaborate Guide and FAQ covering everything related to T
 
 ## Instructions
 
-**1. Teleport your TRAC**&#x20;
+#### **1. Teleport your TRAC**&#x20;
 
-Consult the **** [**FAQ**](trac-teleportation-faq.md#teleport-faq) below to learn about Teleporting TRAC. Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) **** website. Make sure you read the steps thoroughly. Your TRAC will leave your wallet and be locked on the smart contract untilurther notice.
+First, consult the **** [**FAQ**](trac-teleportation-faq.md#teleport-faq) below to learn about Teleporting TRAC.&#x20;
 
-**2. Complete KYC**
+Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) **** website. Make sure you read the steps thoroughly. You must complete the KYC to receive OTP bounty. Once you complete the 2 teleport transactions, your TRAC will leave your wallet and be locked on the smart contract until further notice.
 
-In order to receive OTP bounty, you need to first complete the short KYC on the link above. If you do not, you will need to find another way to have at least ;
+#### **2. Collect OTP bounty**
 
-3\.&#x20;
+Visit [**this**](https://teleport.origintrail.io/teleport-reward-claim) website to collect your OTP bounty for teleporting. Make sure you use the same EVM (Ethereum) wallet you used to teleport TRAC on step 1. Then, paste a self-custody substrate (Polkadot) wallet of your choice to obtain your OTP bounty. You can easily create a substrate hot wallet by using [**Polkadot js extension**](https://polkadot.js.org/extension/) **** or [**Talisman**](https://talisman.xyz/)**.** The bounty will be sent out shortly.
 
-1. Then, visit [**this**](https://teleport.origintrail.io/teleport-reward-claim) website and fill up the form. Make sure you use the same EVM (Ethereum) wallet you used to teleport TRAC, and use a self-custody substrate (Polkadot) wallet of your choice to obtain your OTP bounty. The bounty will be sent out shortly;
-2. Next, you need to visit [**this**](https://parachain.origintrail.io/parachain-account-mapping) interfae to map your EVM wallet to your substrate wallet in order to receive OTP-native TRAC once it's ready. The mapping is permanent so make sure you are using the right adresses to link. Make sure you are on **OriginTrail Parachain network** on Metamask before mapping and select **Mainnet**. Use the **Mainnet RPC** information available on the official docs [**here**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-network-rpc) **** and modify your Metamask OT Parachain Network RPC accordingly;
-3. And that's it. Now sit back and wait for OTP-native TRAC to be available!
+{% hint style="warning" %}
+**RECOMMENDED**
+
+If you wish to create the most secure substrate wallet to receive your OTP bounty and to map your EVM wallet. Please consult the [**Safe Mapping Guide**](trac-teleportation-faq.md#undefined) **** below.
+{% endhint %}
+
+#### 3. Map your wallets&#x20;
+
+At last, you need to visit [**this**](https://parachain.origintrail.io/parachain-account-mapping) interface to map your EVM (Ethereum) wallet to your substrate (Polkadot) wallet in order to receive OTP-native TRAC.&#x20;
+
+If you want to know why mapping is mandatory, read [**this**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-evm) description by OriginTrail team.&#x20;
+
+{% hint style="warning" %}
+The mapping process is **permanent** so make sure you are using the right addresses.
+{% endhint %}
+
+On MetaMask, make sure you are connected to **OriginTrail Parachain network** and have the right RPC information as noted [**here**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-network-rpc#origintrail-parachain-mainnet). Make sure you have at least 2 OTP on your substrate wallet.&#x20;
+
+Select **Mainnet** from the drop down menu, click on **Connect wallet**, and paste your substrate wallet address, confirm both transactions and you are done!
 
 Here is a short video by the OriginTrail team to help you with mapping your wallets:
 
 {% embed url="https://youtu.be/yltbdB1bpEA" %}
+
+## Safe Mapping Guide
+
+Most holders use a hardware (Ledger, Trezor) wallet to store their TRAC to increase security. That secure cold wallet will most likely be the initial point for teleporting TRAC. The process is very safe so far despite having to lock your TRAC on the Teleport smart contract. As long as you hold the keys and hardware wallet that contained your TRAC, you can safely assume that it will be returned back to you once the teleportation is complete.&#x20;
+
+However, once you map a substrate hot wallet (Polkadot JS, Talisman) to your hardware wallet, any hackers who get a hold of your substrate wallet seeds will be able to steal your TRAC or OTP on OT Parachain. In other words, you lose the protection of your hardware wallet the moment mapping is done.&#x20;
+
+To mitigate those risks and reduce&#x20;
 
 ## FAQ
 
