@@ -14,7 +14,7 @@ Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.o
 
 #### **2. Collect OTP bounty**
 
-Visit [**this**](https://teleport.origintrail.io/teleport-reward-claim) website to collect your OTP bounty for teleporting. Make sure you use the same EVM (Ethereum) wallet you used to teleport TRAC on step 1. Then, paste a self-custody substrate (Polkadot) wallet of your choice to obtain your OTP bounty. You can easily create a substrate hot wallet by using [**Polkadot js extension**](https://polkadot.js.org/extension/) **** or [**Talisman**](https://talisman.xyz/)**.** The bounty will be sent out shortly.
+Visit [**this**](https://teleport.origintrail.io/teleport-reward-claim) website to collect your OTP bounty for teleporting. Make sure you use the same EVM (Ethereum) wallet you used to teleport TRAC on step 1. Then, paste a self-custody substrate (Polkadot) wallet of your choice to obtain your OTP bounty. You can use the substrate wallet address starting with 1,5 or g. You can easily create a substrate hot wallet by using [**Polkadot js extension**](https://polkadot.js.org/extension/) **** or [**Talisman**](https://talisman.xyz/)**.** The bounty will be sent out shortly.
 
 {% hint style="warning" %}
 **RECOMMENDED**
@@ -24,7 +24,7 @@ If you wish to create the most secure substrate wallet to receive your OTP bount
 
 #### 3. Map your wallets&#x20;
 
-At last, you need to visit [**this**](https://parachain.origintrail.io/parachain-account-mapping) interface to map your EVM (Ethereum) wallet to your substrate (Polkadot) wallet in order to receive OTP-native TRAC.&#x20;
+At last, you need to visit [**this**](https://parachain.origintrail.io/parachain-account-mapping) interface to map your EVM (Ethereum) wallet to your substrate (Polkadot) wallet in order to receive OTP-native TRAC. You can also use the different representations of your substrate wallet starting with 1,5 or g on this step.&#x20;
 
 If you want to know why mapping is mandatory, read [**this**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-evm) description by OriginTrail team.&#x20;
 
@@ -44,7 +44,7 @@ Here is a short video by the OriginTrail team to help you with mapping your wall
 
 Most holders use a hardware (Ledger, Trezor) wallet to store their TRAC to increase security. That secure cold wallet will most likely be the initial point for teleporting TRAC. The process is very safe so far despite having to lock your TRAC on the Teleport smart contract. As long as you hold the keys and hardware wallet that contained your TRAC, you can safely assume that it will be returned back to you once the teleportation is complete.&#x20;
 
-However, once you map a substrate hot wallet (Polkadot JS, Talisman) to your hardware wallet, you complete lose the security edge of your hardware device. The substrate wallet is a hot wallet, just like MetaMask, and any hacker who gets a hold of your substrate wallet seeds will be able to steal all your TRAC or OTP on OT Parachain (other assets held on other chains will not be affected).&#x20;
+However, once you map a substrate hot wallet (Polkadot JS, Talisman) to your hardware wallet, you completely lose the security net provided by your hardware device. The substrate wallet is a hot wallet, just like MetaMask, and any hacker who gets a hold of your substrate wallet will be able to steal all your TRAC or OTP on OT Parachain (other assets held on other chains will not be affected).&#x20;
 
 To mitigate mapping risks, I have written a small guide below that uses a bootable live USB solution. A bootable live USB is a clean OS environment that you can safely work on, knowing that all files and logs saved are temporary and discarded the moment you reboot your computer. Since mapping allows both EVM and substrate wallets to perform any transactions for both TRAC and OTP on the OT Parachain, you will only need to have one of the two wallets available handily to do any tasks. We will choose our hardware wallet for that as the safer option.
 
@@ -58,14 +58,14 @@ To mitigate mapping risks, I have written a small guide below that uses a bootab
 
 #### Instructions:
 
-1. Create a bootable USB drive with the tools mentioned above
+1. Create a bootable USB drive with one of the tools mentioned above
 2. Restart your PC and boot from your USB drive. Depending on your PC, you need to either press F8 or F12 while restarting to load the boot menu.
 3. Select Boot EndeavourOS Default or Start Lubuntu. You are now accessing your Live OS environment from within your USB drive.&#x20;
 4. To mitigate all risks, visit the least amount of websites possible. Open up FireFox, then Settings, Extensions.
 5. Download **Metamask** and **polkadot{.js} extension**
 6. Create a new account with MetaMask, you do not need to write down the backup seeds. Then, connect your hardware wallet to Metamask.
 7. On the polkadot js extension, create a new wallet, and **write down the 12-word seed phrase and your public wallet**. This is a very important step as you will no longer have easy access to this wallet once you restart your PC.&#x20;
-8. Send at least 2 OTP to your newly generated substrate (Polkadot) wallet.
+8. Send at least 2 OTP to your newly generated substrate (Polkadot) wallet using another PC or your mobile device.
 9. Map your EVM to your substrate wallet by using the mapping website: [https://parachain.origintrail.io/parachain-account-mapping](https://parachain.origintrail.io/parachain-account-mapping)
 10. Once both transactions are complete, double check that you have written the 12-word seed phrase for your substrate wallet correctly and restart your PC.&#x20;
 
