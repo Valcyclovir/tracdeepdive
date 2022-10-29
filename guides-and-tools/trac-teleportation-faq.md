@@ -8,7 +8,7 @@ description: This is an elaborate Guide and FAQ covering everything related to T
 
 #### **1. Teleport your TRAC**&#x20;
 
-First, consult the **** [**FAQ**](trac-teleportation-faq.md#teleport-faq) below to learn about Teleporting TRAC.&#x20;
+First, consult the **** [**FAQ** ](trac-teleportation-faq.md#faq)section below to learn about Teleporting TRAC.&#x20;
 
 Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) **** website. Make sure you read the steps thoroughly. You must complete the KYC to receive OTP bounty. Once you complete the 2 teleport transactions, your TRAC will leave your wallet and be locked on the smart contract until further notice.
 
