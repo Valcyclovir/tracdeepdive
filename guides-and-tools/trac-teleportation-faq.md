@@ -46,6 +46,12 @@ Here is a short video by the OriginTrail team to help you with mapping your wall
 
 ## Safe Mapping Guide
 
+{% hint style="warning" %}
+### **IMPORTANT**
+
+#### As of October 31, 2022, Branimir has confirmed that Ledger support is [planned and in the works](https://twitter.com/BranaRakic/status/1587094823403753474). I suggest waiting for an official announcement for Ledger support before proceeding any further.&#x20;
+{% endhint %}
+
 Most TRAC holders use a hardware (Ledger, Trezor) wallet to store their TRAC for increased security. It is also recommended to use your hardware wallet to teleport your TRAC to keep your funds secure. As long as you hold the keys to your hardware wallet that held your TRAC, you can safely assume that it will be returned back to you once the teleportation is complete.&#x20;
 
 However, once you map a substrate hot wallet (Polkadot JS, Talisman) to your hardware wallet, you completely lose the security net provided by your hardware device.&#x20;
