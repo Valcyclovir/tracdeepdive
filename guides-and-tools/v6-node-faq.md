@@ -15,33 +15,21 @@ First and foremost, running a full node now comes with a much greater responsibi
 Prior to V5, the model to discourage bad behaviour by Data Holders (node runners) was to collaterize the same amount as the Data Creator for the duration of the job. In other words, the node runner would be punished by completely losing their collateral if they failed a litigation check.&#x20;
 
 {% hint style="success" %}
-This V5 model would not require a significant initial stake due to harmful behaviours not related to was punished through losing the collateral to the job, ignoring&#x20;
+This V5 penalty model would not require a significant initial stake due to harmful behaviours being completely unrelated to it. The deterrent to bad practices is solely related to the collateral of the given job.&#x20;
 {% endhint %}
 
+V6 introduces a new mechanism called **stake slashing** - a mechanism designed to discourage malicious behaviour and to incentivize good behaviour, network participation and availability. This is a significant change from a litigation model to a slashing model.&#x20;
 
+{% hint style="success" %}
+V6 stake slashing locks a percentage of the initial stake for a set duration. The initial stake therefore becomes a much more significant factor to penalize bad behaviours, inactivity or dishonest nodes. For example, a 5% slash to a 3k node is only 150 TRAC, whereas a 5% slash of a 50k node is 2500 TRAC!
+{% endhint %}
 
-Like many projects out there running a full node has a barrier for entry (like 32 eth to run a node), and there should be more people delegating than people running actual full nodes. The move is a good one too in terms of providing more trust between DC and DH, if anyone with 1k$ can run a node and slashing 5% is merely 50 TRAC, it's not significant enough for nodes to behave properly
+Stake slashing is commonly used on the [Polkadot network](https://wiki.polkadot.network/docs/learn-staking#slashing) as well as [ETH2](https://www.blocknative.com/blog/an-ethereum-stakers-guide-to-slashing-other-penalties) and can vary a lot from one protocol to another. The principle, however, remains the same. This higher barrier of entry is not uncommon among other protocols. For example, ETH2 requires 32 ETH to run a full node, and most ETH holders are expected to delegate their coins rather than run a full node. A similar pattern should be observed on OT Parachain once V6 goes live. In V5, the amount of nodes were too high for the amount of jobs on the network and a lot of nodes were also poorly maintained. A higher node collateral alongside the slashing mechanism should incentivize good actors bringing a higher quality of service to the network. In comparison to V5, the penalty for misbehaviour is also a lot less punishing. The slashed tokens are to be returned to the full node runner at the end of the slash period, while a failed litigation in V5 would result in a complete loss of your stake.&#x20;
 
-Stakes need to be a bit higher so slashing is a deterrent to bad behaviour
+Another factor in favor of a higher initial stake is to prevent a kind of "**Sybil attack**" - a single entity having control of multiple nodes in the network and establishing control of a significant portion of the network. The team has deemed that technical decentralization has been achieved with as little as 2000 nodes in the network, and 50k per node is an optimal value between enabling large number of nodes, while also making it hard to control a significant portion of the network.&#x20;
 
+{% hint style="success" %}
+In short, the higher node collateral amount serves as a crucial **network security component** as well as an **insurance for quality of service** of the network.&#x20;
 
-
-As stake slashing needs to be a meaningful deterrent to potential service outages, given the proposed slashing implementation above, the minimum required amount of posted stake for a full node will be increased to 50 000 TRAC in order to be eligible for operation
-
-
-
-#### **What Is Slashing?**
-
-Most Proof-of-Stake blockchains have **reward and penalty mechanisms**. Good behaviors are encouraged through rewards. Validators receive rewards for both attesting and proposing blocks to the blockchain as a percentage of their stake.
-
-On the flip side, bad behaviors, inactivity, and dishonest validations are subject to a penalty called slashing. This mechanism is designed to discourage malicious validator behavior and to incentivize network participation, as well as node security and availability.
-
-The particularities of slashing vary from one protocol to another and are defined within them. In many cases, a predefined percentage or a fixed amount of a validator’s stake is lost if it doesn’t behave as expected. Some protocols even apply a complete slashing of the stake or remove the validator from the group either for the current epoch or permanently.
-
-To incentivize security and decentralization, some networks, such as **Polkadot** and ETH2, use the so-called correlated slashing. This means that the penalty escalates based on the percentage of total validators that engage in the bad behavior at the same time. Let’s say that 10 out of 100 validators are down. In such a case, the slashing penalty is smaller per validator than if 25 out of 100 validators are down.
-
-
-
-#### **Conclusion for Slashing**
-
-Slashing is a mechanism used by PoS protocols to discourage harmful behaviors and make validators more responsible. They help keep the network secure since, without slashing penalties, a validator can use the same node to validate blocks on multiple chains or do so on the wrong chain. PoS protocols that don’t have slashing penalties are considered less secure.
+The minimum stake can be amended in the future based on network activity and will be proposed in a RFC.&#x20;
+{% endhint %}
