@@ -154,6 +154,16 @@ If you are unable to fulfill this requirement to safely map your EVM and substra
 Make sure that you send at least 2 OTP (not test OTP) to your mapped wallet once you are done. This is required to keep your OT Parachain wallet active and to use your teleported TRAC. You can also wait until you receive the OTP teleport bounty reward.&#x20;
 {% endhint %}
 
-&#x20;
+#### How do I check whether my mapping was successful ?&#x20;
+
+In order to verify whether your substrate address is mapped to a given EVM address, go to this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Flofar.origin-trail.network#/chainstate)if you mapped using Devnet, or this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/chainstate)if you mapped using Mainnet.&#x20;
+
+1. Select query
+2. Choose evmAccounts ->accounts(H160) &#x20;
+3. Enter your EVM public key
+4. Press + on the right side
+5. You should get your substrate public address as a response
+
+
 
 **If your question isn't covered here, check out the current official FAQ at the bottom of** [**https://teleport.origintrail.io/**](https://teleport.origintrail.io/) **or feel free to message me @BRX86 on any OriginTrail Telegram channels.**
