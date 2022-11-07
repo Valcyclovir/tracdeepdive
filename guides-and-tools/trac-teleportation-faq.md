@@ -156,7 +156,7 @@ Make sure that you send at least 2 OTP (not test OTP) to your mapped wallet once
 
 #### How do I check whether my mapping was successful ?&#x20;
 
-In order to verify whether your substrate address is mapped to a given EVM address, go to this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Flofar.origin-trail.network#/chainstate)if you mapped using Devnet, or this [**link**](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/accounts) **** if you mapped using Mainnet.&#x20;
+In order to verify whether your substrate address is mapped to a given EVM address, go to this [**link**](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Flofar.origin-trail.network#/accounts) **** if you mapped using Devnet, or this [**link**](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/accounts) **** if you mapped using Mainnet.&#x20;
 
 1. Select query
 2. Choose evmAccounts ->accounts(H160) &#x20;
