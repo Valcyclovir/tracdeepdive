@@ -44,6 +44,10 @@ Here is a short video by the OriginTrail team to help you with mapping your wall
 
 {% embed url="https://youtu.be/yltbdB1bpEA" %}
 
+#### 4. Retrieve our teleported TRAC
+
+As of November 18, 2022, users who teleported their TRAC can now follow this [**link** ](https://teleport.origintrail.io/trac-distribution)to see their teleport status. Users who mapped their wallets successfully should see their teleported TRAC on their EVM wallet. Users who did not map their EVM wallet as shown on step 3 will have their teleported TRAC withheld until the mapping is completed.&#x20;
+
 ## Safe Mapping Guide
 
 {% hint style="warning" %}
