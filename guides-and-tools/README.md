@@ -6,3 +6,4 @@ coverY: -959.3721973094171
 
 # Guides
 
+This section covers all questions from the community and is in ongoing development.&#x20;
