@@ -54,6 +54,11 @@ If you have completed all previous steps, please import this token to your Metam
 0xFfFFFFff00000000000000000000000000000001
 {% endhint %}
 
+{% hint style="success" %}
+Alternate method: \
+Since teleported TRAC is a native Parachain asset, you are able to see your TRAC balance through the polkadot.js portal in the Assets section. After importing your account into the interface, navigate to Network -> Assets -> Balances.
+{% endhint %}
+
 ## Safe Mapping Guide
 
 {% hint style="warning" %}
