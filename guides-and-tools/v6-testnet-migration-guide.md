@@ -6,8 +6,8 @@ description: Step-by-step guide to run a V6 Testnet Node
 
 ## Instructions
 
-{% hint style="warning" %}
-If you are coming from a V6 **Devnet** Node, please skip all the way to step
+{% hint style="danger" %}
+### If you are a V6 **Devnet** Node runner already, please do step 2-3-4-5-7 only in the correct order.
 {% endhint %}
 
 ### Step 1 - Create a total of 4 wallets
