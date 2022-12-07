@@ -132,5 +132,12 @@ Check the logs, you should be done:
 journalctl -u otnode --output cat -fn 100
 ```
 
-If you have any questions concerning this guide, please contact me on Telegram **@BRX86**.&#x20;
+If you have any questions concerning this guide, please contact me on Telegram **@BRX86**.
 
+## DEBUG
+
+* Step2-5: if you were only able to get test OTP and not test TRAC, contact me on Discord on Telegram and I will send you some test TRAC.&#x20;
+* Step 4: If mapping doesn't prompt you with 2 transactions, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
+* Step 7: if you were unable to run the npm set stake script and this error shows up:\
+  submit transaction to pool failed: Pool(InvalidTransaction(InvalidTransaction::Payment)\
+  Then, go to folder /root/ot-node/6.0.0-beta.3.1.2 rather than /root/ot-node/current
