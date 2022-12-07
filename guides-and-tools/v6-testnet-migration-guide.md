@@ -93,23 +93,44 @@ Once the node is installed, stop the node:
 systemctl stop otnode
 ```
 
+Gather the following information:
+
+* **EVM Operational wallet private key** (private key from wallet 1 in step 1)
+* **EVM Management wallet private key** (private key from wallet 2 in step 1)
+* **Hub Contract Address**
+  * This is found in the logs of your node, but should be 0x8c6B1947983c8a06343aa3A4b60BAd6Aad083BB9 by default for now.&#x20;
+
 Navigate to the current ot-node version folder:
 
 ```
 cd /root/ot-node/current
 ```
 
-Gather the following information:
+Once **** you have all the information above, run the following command by replacing the values in <> with the correct information:
 
-* **EVM Operational wallet private key** (private key from wallet 1 in step 1)
-* **EVM Management wallet private key** (private key from wallet 2 in step 1)
-*
-
-****
-
-****
-
-
+Set the stake of your node:
 
 ```
+npm run set-stake -- --rpcEndpoint=https://lofar-testnet.origin-trail.network/ --stake=50000 --operationalWalletPrivateKey=<private_key> --managementWalletPrivateKey=<private_key> --hubContractAddress=0x8c6B1947983c8a06343aa3A4b60BAd6Aad083BB9
 ```
+
+Set the service ask of your node:
+
+```
+npm run set-ask -- --rpcEndpoint=https://lofar-testnet.origin-trail.network/ --ask=0.0002 --privateKey=<operational_wallet_private_key> --hubContractAddress=0x8c6B1947983c8a06343aa3A4b60BAd6Aad083BB9
+```
+
+Once you are done, restart the node:
+
+```
+systemctl restart otnode
+```
+
+Check the logs, you should be done:
+
+```
+journalctl -u otnode --output cat -fn 100
+```
+
+If you have any questions concerning this guide, please contact me on Telegram **@BRX86**.&#x20;
+
