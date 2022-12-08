@@ -206,11 +206,25 @@ evm_management_privatekey_here
 ```
 {% endhint %}
 
+Restart the node to create the profile
+
+```
+systemctl restart otnode
+```
+
+After the profile is created, stop the node again:
+
+```
+systemctl stop otnode
+```
+
+You need to run step 7 set-stake set-ask scripts again:
+
 {% hint style="danger" %}
-**The Hub contract address has changed. Make sure you run the 2 npm scripts in Step 7 again with the new hub address.**&#x20;
+The Hub contract address has changed. Make sure you run the 2 scripts in Step 7 again with the new correct Hub contract address.&#x20;
 {% endhint %}
 
-Once you are done, ctrl+s, ctrl+x
+Once you are done,
 
 ```
 systemctl restart otnode
