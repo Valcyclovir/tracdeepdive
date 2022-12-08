@@ -174,7 +174,7 @@ Spam ctrl+k to delete the current config, then paste the following:&#x20;
                         "evmOperationalWalletPublicKey": "evm_op_address_here",
                         "evmOperationalWalletPrivateKey": "evm_op_privatekey_here",
                         "evmManagementWalletPublicKey": "evm_management_address_here",
-            "evmManagementWalletPrivateKey": "evm_management_privatekey_here",
+            "evmManagementWalletPrivateKey": "evm_management_privatekey_here"
                     }
                 }
             }
