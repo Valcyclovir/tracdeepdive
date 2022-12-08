@@ -98,7 +98,7 @@ Gather the following information:
 * **EVM Operational wallet private key** (private key from wallet 1 in step 1)
 * **EVM Management wallet private key** (private key from wallet 2 in step 1)
 * **Hub Contract Address**
-  * This is found in the logs of your node, but should be 0x8c6B1947983c8a06343aa3A4b60BAd6Aad083BB9 by default for now.&#x20;
+  * This is found in the logs of your node, but should be 0x2588eF1D66570c2B97ea1bE3313437aF0caC8BC2by default for now.&#x20;
 
 Navigate to the current ot-node version folder:
 
@@ -111,13 +111,13 @@ Once **** you have all the information above, run the following command by repla
 Set the stake of your node:
 
 ```
-npm run set-stake -- --rpcEndpoint=https://lofar-testnet.origin-trail.network/ --stake=50000 --operationalWalletPrivateKey=<private_key> --managementWalletPrivateKey=<private_key> --hubContractAddress=0x8c6B1947983c8a06343aa3A4b60BAd6Aad083BB9
+npm run set-stake -- --rpcEndpoint=https://lofar-testnet.origin-trail.network/ --stake=50000 --operationalWalletPrivateKey=<private_key> --managementWalletPrivateKey=<private_key> --hubContractAddress=0x2588eF1D66570c2B97ea1bE3313437aF0caC8BC2
 ```
 
 Set the service ask of your node:
 
 ```
-npm run set-ask -- --rpcEndpoint=https://lofar-testnet.origin-trail.network/ --ask=0.0002 --privateKey=<operational_wallet_private_key> --hubContractAddress=0x8c6B1947983c8a06343aa3A4b60BAd6Aad083BB9
+npm run set-ask -- --rpcEndpoint=https://lofar-testnet.origin-trail.network/ --ask=0.0002 --privateKey=<operational_wallet_private_key> --hubContractAddress=0x2588eF1D66570c2B97ea1bE3313437aF0caC8BC2
 ```
 
 Once you are done, restart the node:
