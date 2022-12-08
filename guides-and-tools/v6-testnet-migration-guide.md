@@ -136,6 +136,70 @@ If you have any questions concerning this guide, please contact me on Telegram *
 
 ## DEBUG
 
+* If the node fails to start and errors out at blockchain profile creation, you need to get another 50k TRAC from the Discord bot of from me **@BRX86**, and then edit the node config file:&#x20;
+
+```
+nano /root/ot-node/.origintrail_noderc
+```
+
+Spam ctrl+k to delete the current config, then paste the following:&#x20;
+
+```
+{
+    "logLevel": "trace",
+    "auth": {
+        "ipWhitelist": [
+            "::1",
+            "127.0.0.1"
+        ]
+    },
+    "modules": {
+        "tripleStore": {
+            "defaultImplementation": "ot-blazegraph"
+        },
+        "blockchain": {
+            "defaultImplementation": "otp",
+            "implementation": {
+                "otp": {
+                    "config": {
+                        "sharesTokenSymbol": "eth",
+                        "sharesTokenName": "ethereum", 
+                        "rpcEndpoints": [
+                            "https://lofar-testnet.origin-trail.network/", "wss://parachain-testnet-rpc.origin-trail.network"
+                        ],
+                        "evmOperationalWalletPublicKey": "evm_op_address_here",
+                        "evmOperationalWalletPrivateKey": "evm_op_privatekey_here",
+                        "evmManagementWalletPublicKey": "evm_management_address_here",
+            "evmManagementWalletPrivateKey": "evm_management_privatekey_here",
+                    }
+                }
+            }
+        },
+        "network": {
+            "implementation": {
+                "libp2p-service": {
+                    "config": {
+                        "privateKey": ""
+                    }
+                }
+            }
+        }
+    }
+}
+```
+
+{% hint style="info" %}
+```
+Make sure you replace the following wih the correct values on your node config above:
+evm_op_address_here
+evm_op_privatekey_here
+evm_management_address_here
+evm_management_privatekey_here
+```
+{% endhint %}
+
+Once you are done, ctrl+s, ctrl+x
+
 * Step2-5: if you were only able to get test OTP and not test TRAC, contact me on Discord on Telegram and I will send you some test TRAC.&#x20;
 * Step 4: If mapping doesn't prompt you with 2 transactions, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
 * Step 7: if you were unable to run the npm set stake script and this error shows up:\
