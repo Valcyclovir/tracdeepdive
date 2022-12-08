@@ -170,8 +170,8 @@ Spam ctrl+k to delete the current config, then paste the following:&#x20;
             "implementation": {
                 "otp": {
                     "config": {
-                        "sharesTokenSymbol": "eth",
-                        "sharesTokenName": "ethereum", 
+                        "sharesTokenSymbol": "random_token_symbol_here",
+                        "sharesTokenName": "random_token_name_here", 
                         "rpcEndpoints": [
                             "https://lofar-testnet.origin-trail.network/", "wss://parachain-testnet-rpc.origin-trail.network"
                         ],
@@ -199,6 +199,8 @@ Spam ctrl+k to delete the current config, then paste the following:&#x20;
 {% hint style="info" %}
 ```
 Make sure you replace the following wih the correct values on your node config above:
+random_token_symbol_here
+random_token_name_here
 evm_op_address_here
 evm_op_privatekey_here
 evm_management_address_here
