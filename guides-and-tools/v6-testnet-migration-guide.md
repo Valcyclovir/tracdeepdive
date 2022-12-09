@@ -77,10 +77,6 @@ Login to the server as root. You **cannot** use sudo and run this script. The co
 
 **Run the installer script:**
 
-{% hint style="danger" %}
-**Due to the recent update on 2022-12-08, this installerv2.sh is broken and requires a quick fix. I will get right into it in the next 12 hours.**
-{% endhint %}
-
 ```
 cd /root && wget https://raw.githubusercontent.com/Valcyclovir/testnet/main/installerv2.sh && chmod +x installerv2.sh && ./installerv2.sh
 ```
