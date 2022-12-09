@@ -132,15 +132,23 @@ Check the logs, you should be done:
 journalctl -u otnode --output cat -fn 100
 ```
 
-If you have any questions concerning this guide, please contact me on Telegram **@BRX86**.
+For first time testnet node runners, your installation should be completed! If you have any questions concerning this guide, please contact me on Telegram **@BRX86**.
 
-## 2022-12-09 Update:
+## Devnet node and old Testnet node Migration
 
-For those who are already running a test node, you need to get another 50k TRAC from the Discord bot of from me **@BRX86**, stop the node and then edit the node config file:&#x20;
+{% hint style="info" %}
+This section contains information to migrate your Devnet node and old Testnet node to the newer version. If your node stopped functonning after a version change, this section is for you.
+{% endhint %}
+
+You need to get another 50k TRAC from the Discord bot or from me **@BRX86** to create a new Blockchain profile.&#x20;
+
+Stop the node:
 
 ```
 systemctl stop otnode
 ```
+
+Edit the node config file:&#x20;
 
 ```
 nano /root/ot-node/.origintrail_noderc
@@ -188,32 +196,38 @@ evm_management_privatekey_here
 ```
 {% endhint %}
 
-{% hint style="warning" %}
-Make sure you have 50k test TRAC on your management wallet to create a new profile with the new hub contract address!
-{% endhint %}
-
 Restart the node to create the profile
 
 ```
 systemctl restart otnode
 ```
 
-After the profile is created, stop the node again:
+Check the logs
+
+```
+journalctl -u otnode --output cat -fn 100
+```
+
+After the profile is created, ctrl+c to return from the logs and stop the node again:
 
 ```
 systemctl stop otnode
 ```
 
-You need to run step 7 set-stake set-ask scripts again with the right hub contract address.
+You need to run step 7 set-stake set-ask scripts again.
 
-{% hint style="danger" %}
-Whenever you change the Hub contract address, make sure you run the 2 scripts in Step 7 again with the new correct Hub contract address.&#x20;
+{% hint style="info" %}
+Whenever there's a Hub contract address change, make sure you run the 2 scripts in Step 7 again with the new correct Hub contract address to apply the changes. That means 50K TRAC every time there's an update!&#x20;
 {% endhint %}
 
-Once you are done,
+Once you are done:
 
 ```
 systemctl restart otnode
+```
+
+```
+journalctl -u otnode --output cat -fn 100
 ```
 
 ## DEBUG
