@@ -134,7 +134,7 @@ journalctl -u otnode --output cat -fn 100
 
 If you have any questions concerning this guide, please contact me on Telegram **@BRX86**.
 
-## 2022-12-08 Update:
+## 2022-12-09 Update:
 
 For those who are already running a test node, you need to get another 50k TRAC from the Discord bot of from me **@BRX86**, stop the node and then edit the node config file:&#x20;
 
@@ -150,13 +150,6 @@ Spam ctrl+k to delete the current config, then paste the following:&#x20;
 
 ```
 {
-    "logLevel": "trace",
-    "auth": {
-        "ipWhitelist": [
-            "::1",
-            "127.0.0.1"
-        ]
-    },
     "modules": {
         "tripleStore": {
             "defaultImplementation": "ot-blazegraph"
@@ -174,16 +167,7 @@ Spam ctrl+k to delete the current config, then paste the following:&#x20;
                         "evmOperationalWalletPublicKey": "evm_op_address_here",
                         "evmOperationalWalletPrivateKey": "evm_op_privatekey_here",
                         "evmManagementWalletPublicKey": "evm_management_address_here",
-            "evmManagementWalletPrivateKey": "evm_management_privatekey_here"
-                    }
-                }
-            }
-        },
-        "network": {
-            "implementation": {
-                "libp2p-service": {
-                    "config": {
-                        "privateKey": ""
+                        "evmManagementWalletPrivateKey": "evm_management_privatekey_here"
                     }
                 }
             }
@@ -204,6 +188,10 @@ evm_management_privatekey_here
 ```
 {% endhint %}
 
+{% hint style="warning" %}
+Make sure you have 50k test TRAC on your management wallet to create a new profile with the new hub contract address!
+{% endhint %}
+
 Restart the node to create the profile
 
 ```
@@ -216,10 +204,10 @@ After the profile is created, stop the node again:
 systemctl stop otnode
 ```
 
-You need to run step 7 set-stake set-ask scripts again:
+You need to run step 7 set-stake set-ask scripts again with the right hub contract address.
 
 {% hint style="danger" %}
-The Hub contract address has changed. Make sure you run the 2 scripts in Step 7 again with the new correct Hub contract address.&#x20;
+Whenever you change the Hub contract address, make sure you run the 2 scripts in Step 7 again with the new correct Hub contract address.&#x20;
 {% endhint %}
 
 Once you are done,
