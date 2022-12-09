@@ -236,4 +236,4 @@ journalctl -u otnode --output cat -fn 100
 * Step 4: If mapping doesn't prompt you with 2 transactions, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
 * Step 7: if you were unable to run the npm set stake script and this error shows up:\
   submit transaction to pool failed: Pool(InvalidTransaction(InvalidTransaction::Payment)\
-  Then, go to folder /root/ot-node/6.0.0-beta.3.1.2 rather than /root/ot-node/current
+  Then, go to the most recent version, such as /root/ot-node/6.0.0-beta.3.1.9 instead of /root/ot-node/6.0.0-beta.3.1.8 and try running the set-stake / set-ask scripts again.
