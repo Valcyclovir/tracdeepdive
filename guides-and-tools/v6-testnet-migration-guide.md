@@ -78,7 +78,7 @@ Login to the server as root. You **cannot** use sudo and run this script. The co
 **Run the installer script:**
 
 ```
-cd /root && wget https://raw.githubusercontent.com/Valcyclovir/testnet/main/installerv2.sh && chmod +x installerv2.sh && ./installerv2.sh
+cd /root && wget https://raw.githubusercontent.com/OriginTrail/ot-node/v6/develop/installer/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 
 ### Step 7 - Migrate the Node to Testnet
