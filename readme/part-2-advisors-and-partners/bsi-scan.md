@@ -56,7 +56,7 @@ This is a permissioned solution, only parties approved by SCAN can access this i
 * Expand scope to include verification of auditor training certifications
 * Integrate with authorized customs agencies around the world
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 > Dan Purtell, British Standards Institution Head of Innovation and 30 year supply chain security professional & DHS advisor said:
 >
