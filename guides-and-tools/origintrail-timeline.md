@@ -10,8 +10,7 @@ coverY: -1107.938944463608
 
 ## **STATUS REPORT:** [![#008000](https://camo.githubusercontent.com/53a80492bcf80d4918b684bb1a6f3e1a7791b9f9eb3b4790d339b7ef76c4b7d6/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f3030383030302f3030383030302e706e67)](https://camo.githubusercontent.com/53a80492bcf80d4918b684bb1a6f3e1a7791b9f9eb3b4790d339b7ef76c4b7d6/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f3030383030302f3030383030302e706e67) `On schedule`
 
-* **Early December Mainnet Launch**
-* **Teleported TRAC distribution**
+* **Mainnet Launched December 15, 2022**
 
 ### **Legend:**
 
@@ -24,19 +23,18 @@ There are currently **4 ongoing stages**:
 
 ### **ONGOING EVENTS:**
 
+* [ ] &#x20;**METCALFE PHASE**: DKG V6 Mainnet Launch
 * [ ] **TELEPORTED TRAC:** Distribution underway. Check your status [**here**](https://teleport.origintrail.io/trac-distribution).
 * [ ] **OTP STAGE 3/6**: Token inflation, OTP Incentive pools, OTP Collator staking, Keyword staking, Node delegation
 * [ ] &#x20;**V6 TESTNET STAGE 3/3**: Node runner onboarding, Mainnet Launch, Network activity, V5 migration to V6
-* [ ] &#x20;**DKG V6 BOUNTY STAGE 2/2**: DKG V6 Testnet on OT Parachain
 * [ ] &#x20;[**PROJECT MAGNIFY**](https://projectmagnify.io/): allow publishers to quickly add assets using a DKG client
 
 ### **IMPORTANT DEADLINES:**
 
-* [ ] &#x20;November 30, 3PM UTC: [TRAC Teleportation](https://teleport.origintrail.io/) batch #7 /15 with an OTP bounty of 1 OTP per 80 TRAC
+* [ ] &#x20;Dececember 28, 3PM UTC: [TRAC Teleportation](https://teleport.origintrail.io/) batch #9 /15 with an OTP bounty of 1 OTP per 100 TRAC
 
 ### **FUTURE EVENTS:**
 
-* [ ] &#x20;**METCALFE PHASE**: DKG V6 Mainnet Launch (Early December 2022)
 * [ ] &#x20;**OTP STAGE 4/6**: Community treasury, Governance and Voting capabilities, Full governance by the OTP community (ETA Q4 2022)
 * [ ] &#x20;**OTP STAGE 5/6**: Native marketplace functionalities (ETA 2023)
 * [ ] &#x20;**OTP STAGE 6/6**: Graph smart contracts and other functionalities (ETA 2023)
@@ -44,6 +42,7 @@ There are currently **4 ongoing stages**:
 
 ### **PAST EVENTS:**
 
+* [x] &#x20;**DKG V6 BOUNTY STAGE 2/2**: DKG V6 Testnet on OT Parachain
 * [x] **OTP STAGE 2/6**: TRAC token teleportation, EVM support and DKG integration on OT Parachain
 * [x] &#x20;**V6 TESTNET STAGE 2/3**: DKG V6 KPI verifications, testing for security and stability of the network (see [September 7 AMA](https://gist.github.com/Valcyclovir/4346e7e85c4d2ef7d8a68a157edc428d) for details)
 * [x] &#x20;September 29, 2022: Completion of the [TRAC holder OTP distribution](https://medium.com/origintrail/otp-distribution-process-explained-2878a440d9d7)
