@@ -53,7 +53,7 @@
   * [OTP Claiming FAQ](guides-and-tools/otp-claiming-faq.md)
   * [Definitions](guides-and-tools/definitions.md)
 * [OriginTrail Club Proposals](origintrail-club-proposals/README.md)
-  * [OTC-Proposal-1](origintrail-club-proposals/otc-proposal-1.md)
+  * [OTC-Proposal-](origintrail-club-proposals/otc-proposal.md)
 * [Additional Resources](additional-resources/README.md)
   * [Trinizone](additional-resources/trinizone.md)
   * [IOTB](additional-resources/iotb.md)
