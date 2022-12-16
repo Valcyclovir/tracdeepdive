@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
-coverY: -974.5904173106646
+cover: https://origintrail.club/logo.svg
+coverY: -35.706340378198
 ---
 
 # OriginTrail Club Proposals

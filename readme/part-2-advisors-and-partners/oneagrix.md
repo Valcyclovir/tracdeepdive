@@ -36,7 +36,7 @@ OneAgrix and the core developers of OriginTrail announced a partnership with the
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 In December 13, 2022 [**OneAgrix**](https://www.oneagrix.com/) along with ecosystem partners [**Inexto**](https://inexto.com/) and OriginTrail announced a partnership to develop an end-to-end food traceability technology. Halal consumers will Inexto provides the identification technology, certificates are stored in OriginTrail's network operating system (nOS) to maintain their integrity and OneAgrix will provide the platform for suppliers and consumers to manage their products.&#x20;
 

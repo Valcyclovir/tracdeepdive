@@ -8,7 +8,7 @@ coverY: -994.3290789927562
 
 ## ['World's first' DNA traceable steak travels from UK to Dubai](https://www.foodmanufacture.co.uk/Article/2022/12/14/Dubai-diners-enjoy-world-s-first-DNA-traceable-steak?utm\_source=copyright\&utm\_medium=OnSite\&utm\_campaign=copyright)
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Diners in Dubai enjoyed the ‘world’s first’ steak with DNA traceability, supporting the export of Halal approved meat from the UK.
 
