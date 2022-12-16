@@ -6,9 +6,17 @@ coverY: -994.3290789927562
 
 # Press & Mentions
 
+## ['World's first' DNA traceable steak travels from UK to Dubai](https://www.foodmanufacture.co.uk/Article/2022/12/14/Dubai-diners-enjoy-world-s-first-DNA-traceable-steak?utm\_source=copyright\&utm\_medium=OnSite\&utm\_campaign=copyright)
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Diners in Dubai enjoyed the ‘world’s first’ steak with DNA traceability, supporting the export of Halal approved meat from the UK.
+
 ## [Polkadotters - OriginTrail Parachain: Decentralized Google for Web3](https://polkadotters.medium.com/origintrail-parachain-decentralized-google-for-web3-b87e3eef6e09) <a href="#5b27" id="5b27"></a>
 
 <figure><img src="https://miro.medium.com/max/1100/1*IleQczLKGxupQlOe4fWTSg.png" alt=""><figcaption></figcaption></figure>
+
+
 
 [**OriginTrail**](https://origintrail.io/) is a [Decentralized knowledge graph](https://docs.origintrail.io/layer-2-decentralized-knowledge-graph-dkg/dkgintro) that couples and organizes these two worlds together. This way, all these digital items are much more discoverable, verifiable, and thus becoming even more valuable.
 
