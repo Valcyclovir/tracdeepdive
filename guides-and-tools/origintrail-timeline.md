@@ -8,6 +8,10 @@ coverY: -1107.938944463608
 
 # Timeline
 
+{% hint style="info" %}
+## This timeline has been discontinued ever since the team has updated their [Roadmap](https://origintrail.io/roadmap) to v3. It is way more intuitive than the previous one and I suggest every reader here to use that roadmap instead!&#x20;
+{% endhint %}
+
 ## **STATUS REPORT:** [![#008000](https://camo.githubusercontent.com/53a80492bcf80d4918b684bb1a6f3e1a7791b9f9eb3b4790d339b7ef76c4b7d6/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f3030383030302f3030383030302e706e67)](https://camo.githubusercontent.com/53a80492bcf80d4918b684bb1a6f3e1a7791b9f9eb3b4790d339b7ef76c4b7d6/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f3030383030302f3030383030302e706e67) `On schedule`
 
 * **Mainnet Launched December 15, 2022**
