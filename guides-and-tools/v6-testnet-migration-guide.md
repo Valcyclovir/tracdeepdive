@@ -116,7 +116,7 @@ otnode-config
 
 ## Step 7 - Set-stake and set-ask
 
-The installer above will only set up all the prerequisites and node files. Your node profile is still not created. As of December 17, 2022 you must run 2 scripts to create the node profile and start the node.&#x20;
+The installer above will only set up all the prerequisites and node files. You must run 2 scripts to create the node profile and set your service ask price.&#x20;
 
 First, stop the node:
 
