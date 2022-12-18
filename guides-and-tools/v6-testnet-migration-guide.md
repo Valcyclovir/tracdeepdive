@@ -42,7 +42,9 @@ Repeat for wallet **2 and 4** from step 1 and you would have completed the mappi
 
 ## Step 5 - Fund your wallets with teleported TRAC
 
-You require a minimum of 50k TRAC to run a mainnet node.&#x20;
+You require a minimum of 50k TRAC to run a mainnet node. You can purchase TRAC on **** [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/)**,** [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) **** and **** [**others**](https://www.coingecko.com/en/coins/origintrail#markets)**.**&#x20;
+
+Once the TRAC token is acquired, you must [**teleport**](http://teleport.origintrail.io) your tokens to the OriginTrail Parachain in order to use them on the parachain. Follow the [**Teleportation Guide**](trac-teleportation-faq.md) for a complete set of instructions.&#x20;
 
 {% hint style="info" %}
 **Reminder**:&#x20;
