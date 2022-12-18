@@ -62,6 +62,12 @@ You can also view your test TRAC on polkadot.js [**here**](https://polkadot.js.o
 
 ## Step 6 - Install your node
 
+In order to deploy your OriginTrail V6 node, you will need a Linux server with the following minimum recommended hardware:
+
+* **4GB RAM**
+* **2CPUs**
+* **50GB HDD space**
+
 {% hint style="warning" %}
 Log in to the server as root. You **cannot** use sudo and run this script. The command "**npm ci**" might fail.
 {% endhint %}
