@@ -42,7 +42,7 @@
 * [OriginTrail V6](readme/origintrail-v6.md)
 * [Timeline](guides-and-tools/origintrail-timeline.md)
 * [Guides](guides-and-tools/README.md)
-  * [V6 Mainnet Node Instructions](guides-and-tools/v6-mainnet-node-instructions.md)
+  * [V6 Mainnet Node Instructions](guides-and-tools/v6-testnet-migration-guide.md)
   * [Teleportation Guide](guides-and-tools/trac-teleportation-faq.md)
   * [V6 Node FAQ](guides-and-tools/v6-node-faq.md)
   * [OriginTrail's Marketing](guides-and-tools/origintrails-marketing.md)

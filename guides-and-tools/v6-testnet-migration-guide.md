@@ -7,7 +7,7 @@ description: Step-by-step guide to run a V6 Mainnet Node
 {% hint style="warning" %}
 December 17, 2022:
 
-Mapping a cold Ledger EVM wallet to a hot substrate wallet (such as Talisman, polkadot.js) would expose your funds to the Internet. Ledger OTP support is pending approval and should come very shortly. For the time being, the safest method to run a mainnet node is highlighted in the [**temporary safe method to run a mainnet node**](v6-mainnet-node-instructions.md#temporary-safe-mainnet-node-instructions) section.&#x20;
+Mapping a cold Ledger EVM wallet to a hot substrate wallet (such as Talisman, polkadot.js) would expose your funds to the Internet. Ledger OTP support is pending approval and should come very shortly. For the time being, the safest method to run a mainnet node is highlighted in the [**temporary safe method to run a mainnet node**](v6-testnet-migration-guide.md#temporary-safe-mainnet-node-instructions) section.&#x20;
 {% endhint %}
 
 ## Step 1 - Create a total of 4 wallets
@@ -34,6 +34,10 @@ You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/
 ## Step 4 - Map your wallets
 
 Once the funding of both substrate wallets are completed, head to the [**mapping interface**](https://parachain.origintrail.io/parachain-account-mapping) **** and select **Parachain Mainnet**.&#x20;
+
+{% hint style="warning" %}
+If mapping doesn't prompt you with 2 transactions, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
+{% endhint %}
 
 Your goal here is to map wallet **1 and** **3** together, and wallet **2 and 4** together from step 1.&#x20;
 
@@ -183,11 +187,3 @@ You can now use aliases such as otnode-logs to quickly view logs without having 
 3. Send some teleported TRAC to management evm wallet (wallet #3 above), and some OTP to op / management wallets
 4. Set up your node following the instructions above
 5. When OTP is supported by ledger, changement your management and operational wallet addresses to a brand new ledger evm + ledger otp mapped wallet
-
-## DEBUG
-
-* Step2-5: if you were only able to get test OTP and not test TRAC, contact me on Discord on Telegram and I will send you some test TRAC.&#x20;
-* Step 4: If mapping doesn't prompt you with 2 transactions, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
-* Step 7: if you were unable to run the npm set stake script and this error shows up:\
-  submit transaction to pool failed: Pool(InvalidTransaction(InvalidTransaction::Payment)\
-  Then, go to the most recent version, such as /root/ot-node/6.0.0-beta.3.1.9 instead of /root/ot-node/6.0.0-beta.3.1.8 and try running the set-stake / set-ask scripts again.
