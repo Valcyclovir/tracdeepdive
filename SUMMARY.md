@@ -44,7 +44,7 @@
 * [Guides](guides-and-tools/README.md)
   * [V6 Mainnet Node Instructions](guides-and-tools/v6-testnet-migration-guide.md)
   * [Teleportation Guide](guides-and-tools/trac-teleportation-faq.md)
-  * [V6 Node FAQ](guides-and-tools/v6-node-faq.md)
+  * [Why does V6 require 50k TRAC?](guides-and-tools/why-does-v6-require-50k-trac.md)
   * [OriginTrail's Marketing](guides-and-tools/origintrails-marketing.md)
   * [Team AMA](guides-and-tools/team-ama-summaries/README.md)
     * [November 2022](guides-and-tools/team-ama-summaries/november-2022.md)
