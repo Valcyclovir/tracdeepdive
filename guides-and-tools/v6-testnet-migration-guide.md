@@ -22,7 +22,7 @@ By using the information found [**here**](https://docs.origintrail.io/blockchain
 
 ## Step 3 - Fund your wallets with OTP
 
-Fund your wallets in step 1 with test OTP tokens. For example, you can use TRAC holder OTP reward or teleport OTP bounty to fund your wallets.&#x20;
+Fund your wallets in step 1 with OTP tokens. For example, you can use TRAC holder OTP reward or teleport OTP bounty to fund your wallets.&#x20;
 
 You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.** You need at least 2 OTP (1 OTP for ED amount and the other for transations) on your substrate wallets (wallet **3 and 4** from step 1)
 
