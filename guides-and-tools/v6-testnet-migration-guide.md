@@ -18,7 +18,7 @@ For the time being, the safest method to run a mainnet node is highlighted in th
 
 ## Step 2 - Add the OriginTrail Mainnet Network onto MetaMask
 
-By using the information found [**here**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-networks#origintrail-parachain-mainnet), add the OriginTrail Testnet Network on your MetaMask client and switch to it.&#x20;
+By using the information found [**here**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-networks#origintrail-parachain-mainnet), add the OriginTrail Mainnet Network on your MetaMask client and switch to it.&#x20;
 
 ## Step 3 - Fund your wallets with OTP
 
