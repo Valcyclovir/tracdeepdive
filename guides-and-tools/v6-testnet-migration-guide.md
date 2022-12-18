@@ -4,22 +4,17 @@ description: Step-by-step guide to run a V6 Mainnet Node
 
 # V6 Mainnet Node Instructions
 
-{% hint style="warning" %}
-December 17, 2022:
-
-Mapping a cold Ledger EVM wallet to a hot substrate wallet (such as Talisman, polkadot.js) would expose your funds to the Internet. Ledger OTP support is pending approval and should come very shortly. For the time being, the safest method to run a mainnet node is highlighted in the [**temporary safe method to run a mainnet node**](v6-testnet-migration-guide.md#temporary-safe-mainnet-node-instructions) section.&#x20;
-{% endhint %}
-
 ## Step 1 - Create a total of 4 wallets
 
-You must create hot wallets on [**MetaMask**](https://metamask.io/) **** and [**Dot js extension**](https://polkadot.js.org/extension/) **** / [**Talisman**](https://talisman.xyz/) for the following step.&#x20;
+You must create a total of 4 wallets for the following step.&#x20;
 
-1. EVM Operational (MetaMask) wallet
-2. EVM Management (MetaMask) wallet
-3. Substrate Operational (Polkadot) wallet
-4. Substrate Management (Polkadot) wallet
+<table><thead><tr><th data-type="number">#</th><th>Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallet</td><td>Hot wallet for non admin node operations<br>Example: Metamask wallet</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Hot wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Cold wallet to map with wallet #2<br>Example: Ledger</td></tr></tbody></table>
 
-This step is crucial for the mapping process in step 4.&#x20;
+{% hint style="warning" %}
+Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem. Waiting for OTP Ledger support before mapping is strongly advised to protect your funds. \
+\
+For the time being, the safest method to run a mainnet node is highlighted in the [**temporary safe method to run a mainnet node**](v6-testnet-migration-guide.md#temporary-safe-mainnet-node-instructions) section.&#x20;
+{% endhint %}
 
 ## Step 2 - Add the OriginTrail Mainnet Network onto MetaMask
 
@@ -27,7 +22,7 @@ By using the information found [**here**](https://docs.origintrail.io/blockchain
 
 ## Step 3 - Fund your wallets with OTP
 
-Fund your wallets in step 1 with test OTP tokens. For example, you can use TRAC holder OTP reward or teleport OTP bounty.&#x20;
+Fund your wallets in step 1 with test OTP tokens. For example, you can use TRAC holder OTP reward or teleport OTP bounty to fund your wallets.&#x20;
 
 You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.** You need at least 2 OTP (1 OTP for ED amount and the other for transations) on your substrate wallets (wallet **3 and 4** from step 1)
 
@@ -35,19 +30,19 @@ You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/
 
 Once the funding of both substrate wallets are completed, head to the [**mapping interface**](https://parachain.origintrail.io/parachain-account-mapping) **** and select **Parachain Mainnet**.&#x20;
 
-{% hint style="warning" %}
-If mapping doesn't prompt you with 2 transactions, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
-{% endhint %}
-
 Your goal here is to map wallet **1 and** **3** together, and wallet **2 and 4** together from step 1.&#x20;
 
 To do so, connect to the mapping interface with the appropriate MetaMask wallet and paste the corresponding substrate wallet. 2 pop-ups will follow and sign both transactions.
+
+{% hint style="warning" %}
+If mapping doesn't prompt you with 2 transactions, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
+{% endhint %}
 
 Repeat for wallet **2 and 4** from step 1 and you would have completed the mapping process for your node.&#x20;
 
 ## Step 5 - Fund your wallets with teleported TRAC
 
-You require a minimum of 50k TRAC to run a mainnet node. Delegation is not available yet as of December 17, 2022.
+You require a minimum of 50k TRAC to run a mainnet node.&#x20;
 
 {% hint style="info" %}
 **Reminder**:&#x20;
