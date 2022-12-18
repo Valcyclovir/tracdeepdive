@@ -189,4 +189,4 @@ You can now use aliases such as otnode-logs to quickly view logs without having 
 2. Receive your teleported TRAC and OTP bounty on main mapped wallet (wallet #1 above)
 3. Send some teleported TRAC to management evm wallet (wallet #3 above), and some OTP to op / management wallets
 4. Set up your node following the instructions above
-5. When OTP is supported by ledger, changement your management and operational wallet addresses to a brand new ledger evm + ledger otp mapped wallet
+5. When OTP is supported by ledger, change your management and operational wallet addresses to a brand new ledger evm + ledger otp mapped wallet
