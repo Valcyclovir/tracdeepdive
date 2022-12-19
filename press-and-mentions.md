@@ -6,6 +6,10 @@ coverY: -994.3290789927562
 
 # Press & Mentions
 
+## [Web3 and Web 3.0 at OriginTrail](https://www.bobdc.com/blog/origintrail/)
+
+[OriginTrail](https://origintrail.io/) is doing one of the most interesting combinations of blockchain technology and RDF that I have seen. In November I spoke with CTO and co-founder [Branimir Rakić](https://twitter.com/BranaRakic). [Interview by Bob Ducharme](https://twitter.com/bobdc).
+
 ## ['World's first' DNA traceable steak travels from UK to Dubai](https://www.foodmanufacture.co.uk/Article/2022/12/14/Dubai-diners-enjoy-world-s-first-DNA-traceable-steak?utm\_source=copyright\&utm\_medium=OnSite\&utm\_campaign=copyright)
 
 <figure><img src=".gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
