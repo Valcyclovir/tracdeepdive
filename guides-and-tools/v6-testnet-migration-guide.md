@@ -85,7 +85,7 @@ Gather the following information:
 **Run the one-liner installer script:**
 
 ```
-cd /root/ && curl https://raw.githubusercontent.com/OriginTrail/ot-node/v6/release/mainnet/installer/installer.sh --output installer.sh && chmod +x installer.sh
+cd /root/ && curl https://raw.githubusercontent.com/OriginTrail/ot-node/v6/release/mainnet/installer/installer.sh --output installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 
 {% hint style="danger" %}
