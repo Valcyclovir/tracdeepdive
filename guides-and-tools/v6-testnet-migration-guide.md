@@ -114,7 +114,31 @@ otnode-restart
 otnode-config
 {% endhint %}
 
-## Step 7 - Set-stake and set-ask
+{% hint style="warning" %}
+#### For the following step, you can either do Step 7A (recommended) or 7B
+{% endhint %}
+
+## Step 7A - Houston
+
+****[**Houston V6 Node Command Center** ](https://houston.origintrail.io/)is an interface to help manage your node and view network statistics.&#x20;
+
+First, log in with your management and operational EVM wallets;
+
+Go to tab "Service Tokenomics";
+
+Input your ask price and sign the transaction. The team default is 0.00375/(epoch \* KB);
+
+Input the amount of stake you want. Minimum stake is 50,000 TRAC;
+
+Restart your node:
+
+```
+systemctl restart otnode
+```
+
+You have now successfully completed your node installation! You can check the logs by using the alias otnode-logs.
+
+## Step 7B - Set-stake and set-ask
 
 The installer above will only set up all the prerequisites and node files. You must run 2 scripts to create the node profile and set your service ask price.&#x20;
 
