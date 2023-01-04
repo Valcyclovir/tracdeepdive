@@ -1,8 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [OriginTrail Club](origintrail-club.md)
-* [Introduction](<README (1).md>)
+* [Introduction](README.md)
 * [Foundation](readme/part-1-foundation.md)
 * [Motivation](readme/objective.md)
 * [Blockchain Layer](readme/blockchain-layer.md)
