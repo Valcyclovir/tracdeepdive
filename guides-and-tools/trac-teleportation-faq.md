@@ -157,18 +157,6 @@ Absolutely. I would go as far to say that is my recommended method of teleportin
 
 OT Parachain is EVM compatible and Metamask will be used extensively (as is the case now).
 
-#### I do not have a way to send 2 OTP to my live OS environment to complete the mapping
-
-If you are unable to fulfill this requirement to safely map your EVM and substrate wallet using a bootable live USB, you can map your wallet using **Devnet** instead of Mainnet (the end result is the same). Make sure you add the correct RPC info on MetaMask as noted [**here**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-network-rpc#origintrail-parachain-devnet).&#x20;
-
-1. On your mobile device, Login to Discord and go to the [**OriginTrail discord-bot channel**](https://discord.com/channels/460837319025623050/938284634477834270)
-2. Use Google Lense or Apple Live Text feature to copy the substrate wallet on your PC screen. Double check to make sure it is copied correctly. Then on the Discord channel, type the following: !fundme\_otp \<your\_substrate\_wallet>
-3. Once your test OTP is received, go back to the mapping interface and proceed with the safe mapping guide [**instructions**](trac-teleportation-faq.md#instructions).&#x20;
-
-{% hint style="info" %}
-Make sure that you send at least 2 OTP (not test OTP) to your mapped wallet once you are done. This is required to keep your OT Parachain wallet active and to use your teleported TRAC. You can also wait until you receive the OTP teleport bounty reward.&#x20;
-{% endhint %}
-
 #### How do I check whether my mapping was successful ?&#x20;
 
 In order to verify whether your substrate address is mapped to a given EVM address, go to this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Flofar.origin-trail.network#/chainstate)if you mapped using Devnet, or this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/chainstate)if you mapped using Mainnet.&#x20;
