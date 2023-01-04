@@ -1,6 +1,7 @@
 # Table of contents
 
-* [OriginTrail Club](README.md)
+* [Page 1](README.md)
+* [OriginTrail Club](origintrail-club.md)
 * [Introduction](<README (1).md>)
 * [Foundation](readme/part-1-foundation.md)
 * [Motivation](readme/objective.md)
